@@ -3,7 +3,7 @@
 ## Titre 1. Dispositions introductives.
 
 ***Article 4:1***  
-La société simple est le contrat par lequel deux ou plusieurs personnes conviennent de mettre leurs apports en commun en vue de partager le bénéfice patrimonial direct ou indirect qui pourra en résulter. Elle est conclue pour l'intérêt commun des parties.  
+La société simple est le contrat par lequel deux ou plusieurs personnes conviennent de mettre leurs apports en commun en vue de distribuer ou procurer à ses associés un avantage patrimonial direct ou indirect. Elle est conclue pour l'intérêt commun des parties.  
 La société simple est "interne" lorsqu'il est convenu qu'elle est gérée par un ou plusieurs gérants, associés ou non, agissant en leur nom propre.  
 A moins qu'il n'en soit convenu autrement, elle est conclue en considération de la personne des associés.
 

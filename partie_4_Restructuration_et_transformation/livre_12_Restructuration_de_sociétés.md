@@ -70,7 +70,7 @@ Dans ce cas, toutes les missions qui, en vertu du présent titre, incombent à l
 
 ***Article 12:13***  
 La fusion ou la scission entraîne de plein droit et simultanément les effets juridiques suivants:  
-1. par dérogation à l'article 2:76, alinéa 1er, les sociétés dissoutes cessent d'exister; toutefois, pour l'application des articles 2:44, 12:19 et 12:20, les sociétés dissoutes sont réputées exister durant le délai de six mois prévu par l'article 2:137, § 4, et, si une action en nullité est intentée, pendant la durée de l'instance jusqu'au moment où il sera statué sur cette action en nullité par une décision coulée en force de chose jugée;  
+1. par dérogation à l'article 2:76, alinéa 1er, les sociétés dissoutes cessent d'exister; toutefois, pour l'application des articles 2:44, 12:19 et 12:20, les sociétés dissoutes sont réputées exister durant le délai de six mois prévu par l'article 2:143, § 4, et, si une action en nullité est intentée, pendant la durée de l'instance jusqu'au moment où il sera statué sur cette action en nullité par une décision coulée en force de chose jugée;  
 2. les associés ou les actionnaires des sociétés dissoutes deviennent associés ou actionnaires des sociétés bénéficiaires, le cas échéant, conformément à la répartition prévue au projet de scission;  
 3. l'ensemble du patrimoine, activement et passivement, de chaque société dissoute est transféré aux sociétés bénéficiaires, le cas échéant, conformément à la répartition prévue au projet de scission ou conformément aux articles 12:60 et 12:76.  
 
@@ -158,7 +158,8 @@ Le projet de fusion doit être déposé par chaque société concernée par la f
 
 ***Article 12:25***  
 Dans chaque société, l'organe d'administration établit un rapport écrit et circonstancié qui expose la situation patrimoniale des sociétés appelées à fusionner et qui explique et justifie, d'un point de vue juridique et économique, l'opportunité, les conditions, les modalités et les conséquences de la fusion, les méthodes suivies pour la détermination du rapport d'échange des actions ou des parts, l'importance relative qui est donnée à ces méthodes, l'évaluation à laquelle chaque méthode parvient, les difficultés éventuellement rencontrées, et le rapport d'échange proposé.  
-L'alinéa 1er n'est pas applicable si tous les associés ou actionnnaires et les titulaires d'autres titres conférant le droit de vote de chacune des sociétés participant à la fusion en ont décidé ainsi.
+L'alinéa 1er n'est pas applicable si tous les associés ou actionnnaires et les titulaires d'autres titres conférant le droit de vote de chacune des sociétés participant à la fusion en ont décidé ainsi.  
+S'il a été établi tant un rapport conformément à l'alinéa 1er qu'un rapport conformément à l'article 12:26, § 1er, les articles 5:121, 5:133, 6:110, 7:179 et 7:197 ne s'appliquent pas, selon le cas, à une société absorbante ayant la forme légale de société à responsabilité limitée, de société coopérative, de société anonyme, de société européenne ou de société coopérative européenne.
 
 ***Article 12:26***  
 § 1er. Dans chaque société, le commissaire, ou, lorsqu'il n'y a pas de commissaire, un réviseur d'entreprises ou un expert-comptable externe désigné par l'organe d'administration, établit un rapport écrit sur le projet de fusion.  
@@ -171,7 +172,7 @@ Le rapport indique en outre, le cas échéant, les difficultés particulières d
 Le commissaire ou le réviseur d'entreprises ou l'expert-comptable externe désigné peut prendre connaissance sans déplacement de tout document utile à l'accomplissement de sa mission. Il peut obtenir auprès des sociétés qui fusionnent toutes les explications ou informations et procéder à toutes les vérifications qui lui paraissent nécessaires.  
 Le présent paragraphe n'est pas applicable si tous les associés ou actionnaires et les titulaires d'autres titres conférant le droit de vote de chacune des sociétés participant à la fusion en ont décidé ainsi.  
 
-§ 2. Si un rapport a été établi conformément au paragraphe 1er, les articles 5:133, 6:110 ou 7:197 ne s'appliquent pas à une société absorbante ayant la forme légale de société à responsabilité limitée, de société coopérative, de société anonyme, de société européenne ou de société coopérative européenne.
+§ 2. S'il a été établi tant un rapport conformément au paragraphe 1er qu'un rapport conformément à l'article 12:25, alinéa 1er, les articles 5:121, 5:133, 6:110, 7:179 et 7:197 ne s'appliquent pas, selon le cas, à une société absorbante ayant la forme légale de société à responsabilité limitée, de société coopérative, de société anonyme, de société européenne ou de société coopérative européenne.
 
 ***Article 12:27***  
 Les organes d'administration de chacune des sociétés concernées par la fusion sont tenus d'informer l'assemblée générale de leur société ainsi que les organes d'administration de toutes les autres sociétés concernées par la fusion de toute modification importante du patrimoine actif et passif intervenue entre la date de l'établissement du projet de fusion et la date de la dernière assemblée générale, ou, dans le cas visé à l'article 12:30, § 6, la réunion du dernier organe d'administration, qui se prononce sur la fusion.  
@@ -217,7 +218,7 @@ La convocation à l'assemblée reproduit le texte du présent paragraphe, aliné
    +  une proposition de fusion n'est acceptée que si elle réunit les trois quarts des voix, sans qu'il soit tenu compte des abstentions au numérateur ou au dénominateur;  
    +  dans la société en commandite et dans la société coopérative, le droit de vote des associés et des actionnaires est proportionnel à leur part dans l'avoir social et le quorum de présence se calcule par rapport à l'avoir social.  
 
-§ 2. L'article 7:179 n'est pas applicable.  
+§ 2.   
 
 § 3. S'il existe plusieurs classes d'actions, parts ou titres, représentatifs ou non du capital exprimé, et si la fusion entraîne une modification de leurs droits respectifs, l'article 5:102, alinéa 3, l'article 6:87, alinéa 3, ou l'article 7:155, alinéa 3, s'applique par analogie.  
 
@@ -235,7 +236,7 @@ Dans les cas visés à l'alinéa 1er, 2°, l'accord unanime des titulaires de ti
 1. le dépôt du projet de fusion visé à l'article 12:24 est effectué, pour la société absorbante, au plus tard six semaines avant la date de l'assemblée générale de la ou des sociétés absorbées appelées à se prononcer sur le projet de fusion;  
 2. sans préjudice des exceptions visées à l'article 12:28, chaque actionnaire de la société absorbante a le droit, un mois au moins avant la date précitée au 1°, de prendre connaissance des documents mentionnés à l'article 12:28, § 2, au siège de la société.  
 
-Dans ce cas, l'organe d'administration de la société absorbante est compétent pour se prononcer sur l'approbation de la fusion et de la modification du nombre d'actions de la société absorbante, et, le cas échéant, de son capital, résultant de la fusion. Les articles 7:198 à 7:203 ne sont pas applicables à une telle décision.  
+Dans ce cas, l'organe d'administration de la société absorbante est compétent pour se prononcer sur l'approbation de la fusion et de la modification du nombre d'actions de la société absorbante, et, le cas échéant, de son capital, résultant de la fusion. Les articles 5:134 à 5:137 et 7:198 à 7:203 ne sont pas applicables à une telle décision.  
 Un ou plusieurs actionnaires de la société absorbante qui détiennent 5 % des actions émises ou qui, dans une société anonyme ou une société européenne, représentent 5 % du capital souscrit ont néanmoins le droit d'obtenir la convocation de l'assemblée générale de cette société appelée à se prononcer sur le projet de fusion. Les actions sans droit de vote ne sont pas prises en considération dans le calcul de ce pourcentage.
 
 ***Article 12:31***  
@@ -244,7 +245,7 @@ L'acte reproduit, le cas échéant, les conclusions du rapport visé à l'articl
 Le notaire doit vérifier et attester l'existence et la légalité, tant interne qu'externe, des actes et formalités incombant à la société auprès de laquelle il instrumente.
 
 ***Article 12:32***  
-Immédiatement après la décision de fusion, l'assemblée générale de la société absorbante arrête les modifications éventuelles de ses statuts, y compris les dispositions qui modifieraient son objet aux conditions de présence et de majorité requises par le présent code. A défaut, la décision de fusion reste sans effet.  
+Sans préjudice de l'article 12:30, § 6, l'assemblée générale de la société absorbante arrête, immédiatement après la décision de fusion, les modifications éventuelles de ses statuts, y compris les dispositions qui modifieraient son objet aux conditions de présence et de majorité requises par le présent code. A défaut, la décision de fusion reste sans effet.  
 La fusion est réalisée lorsque sont intervenues les décisions concordantes prises au sein de toutes les sociétés intéressées.
 
 ***Article 12:33***  
@@ -272,9 +273,9 @@ Si la fusion a été réalisée avant la date d'approbation des comptes annuels,
 
 § 2. Quelle que soit la forme légale de la nouvelle société, la constitution de celle-ci doit, à peine de nullité, être constatée par acte authentique. Cet acte reproduit, le cas échéant, les conclusions du rapport du commissaire, du réviseur d'entreprises ou de l'expert-comptable externe visé à l'article 12:39.  
 
-§ 3. Si un rapport a été établi conformément à l'article 12:39, les articles 7:7, 7:12, 7:13, alinéa 2, deuxième phrase, 7:14, alinéa 1er, 2° et 7°, ne s'appliquent ni à la société anonyme, ni à la société européenne.  
+§ 3. Si un rapport a été établi conformément à l'article 12:39, les articles 7:7, 7:12, 7:13, alinéa 2, deuxième phrase, 7:14, alinéa 1er, 2° et 7°, ne s'appliquent ni à la société anonyme, ni à la société européenne, ni à la société coopérative européenne qui sont issues de la fusion.  
 Si un rapport a été établi conformément à l'article 12:39, les articles 5:7, 5:9 et 5:12, alinéa 1er, 2° et 5°, ne s'appliquent pas à la société à responsabilité limitée qui est issue de la fusion.  
-Si un rapport a été établi conformément à l'article 12:39, les articles 6:8, 6:10 et 6:13, alinéa 1er, 2° et 5°, ne s'appliquent ni à la société coopérative, ni à la société coopérative européenne qui sont issues de la fusion.
+Si un rapport a été établi conformément à l'article 12:39, les articles 6:8, 6:10 et 6:13, alinéa 1er, 2° et 5°, ne s'appliquent pas à la société coopérative qui est issue de la fusion.
 
 ***Article 12:37***  
 Les organes d'administration des sociétés appelées à fusionner établissent par acte authentique ou par acte sous seing privé un projet de fusion.  
@@ -349,7 +350,7 @@ La convocation à l'assemblée reproduit le texte des alinéas 1er et 2 du prés
    +  une proposition de fusion n'est acceptée que si elle réunit les trois quarts des voix, sans qu'il soit tenu compte des abstentions au numérateur ou au dénominateur;  
    +  dans la société en commandite et dans la société coopérative, le droit de vote des associés et des actionnaires est proportionnel à leur part dans l'avoir social et le quorum de présence se calcule par rapport à l'avoir social.  
 
-§ 2. L'article 7:179 n'est pas applicable.  
+§ 2.   
 
 § 3. S'il existe plusieurs classes d'actions, parts ou titres, représentatifs ou non du capital exprimé, et si la fusion entraîne une modification de leurs droits respectifs, l'article 5:102, alinéa 3, l'article 6:87, alinéa 3, ou l'article 7:155, alinéa 3, s'applique par analogie.  
 
@@ -441,7 +442,7 @@ La convocation à l'assemblée reproduit le texte des alinéas 1 et 2.
    +  une proposition de fusion n'est acceptée que si elle réunit les trois quarts des voix, sans qu'il soit tenu compte des abstentions au numérateur ou au dénominateur;  
    +  dans la société en commandite et dans la société coopérative, le droit de vote des associés et des actionnaires est proportionnel à leur part dans l'avoir social et le quorum de présence se calcule par rapport à l'avoir social.  
 
-§ 2. L'article 7:179 n'est pas applicable.  
+§ 2. Les articles 5:121, 5:133, 6:108, § 2, 6:110, 7:179 et 7:197 ne s'appliquent pas.  
 
 § 3. S'il existe plusieurs classes d'actions, parts ou titres, représentatifs ou non du capital exprimé, et si la fusion entraîne une modification de leurs droits respectifs, l'article 5:102, alinéa 3, l'article 6:87, alinéa 3, ou l'article 7:155, alinéa 3, s'applique par analogie.  
 
@@ -511,7 +512,8 @@ Lorsqu'un élément du patrimoine passif n'est pas attribué dans le projet de s
 A compter de la date visée à l'article 12:59, alinéa 2, 5°, les produits et charges d'actifs et de passifs déterminés sont imputés à la société à laquelle ces actifs et passifs ont été attribués.
 
 ***Article 12:61***  
-Dans chaque société, l'organe d'administration établit un rapport écrit et circonstancié qui expose la situation patrimoniale des sociétés participant à la scission et qui explique et justifie, d'un point de vue juridique et économique, l'opportunité de la scission, les conditions, les modalités et les conséquences de la scission, les méthodes suivies pour la détermination du rapport d'échange des actions ou des parts, l'importance relative qui est donnée à ces méthodes, l'évaluation à laquelle chaque méthode parvient, les difficultés éventuellement rencontrées, et le rapport d'échange proposé.
+Dans chaque société, l'organe d'administration établit un rapport écrit et circonstancié qui expose la situation patrimoniale des sociétés participant à la scission et qui explique et justifie, d'un point de vue juridique et économique, l'opportunité de la scission, les conditions, les modalités et les conséquences de la scission, les méthodes suivies pour la détermination du rapport d'échange des actions ou des parts, l'importance relative qui est donnée à ces méthodes, l'évaluation à laquelle chaque méthode parvient, les difficultés éventuellement rencontrées, et le rapport d'échange proposé.  
+S'il a été établi tant un rapport conformément à l'alinéa 1er qu'un rapport conformément à l'article 12:62, § 1er, les articles 5:121, 5:133, 6:110, 7:179 et 7:197 ne s'appliquent pas, selon le cas, à une société absorbante ayant la forme légale de société à responsabilité limitée, de société coopérative, de société anonyme, de société européenne ou de société coopérative européenne.
 
 ***Article 12:62***  
 § 1er. Dans chaque société, le commissaire, ou, lorsqu'il n'y a pas de commissaire, un réviseur d'entreprises ou un expert-comptable externe désigné par l'organe d'administration, établit un rapport écrit sur le projet de scission.  
@@ -524,7 +526,7 @@ Le rapport indique en outre, le cas échéant, les difficultés particulières d
 Le commissaire ou le réviseur d'entreprises ou expert-comptable externe désigné peut prendre connaissance sans déplacement de tout document utile à l'accomplissement de sa mission. Il peut obtenir auprès des sociétés qui participent à la scission toutes les explications ou informations et procéder à toutes les vérifications qui lui paraissent nécessaires.  
 Le présent paragraphe n'est pas applicable si tous les associés ou actionnaires et titulaires des autres titres conférant le droit de vote de chacune des sociétés participant à la scission en ont décidé ainsi.  
 
-§ 2. Si un rapport a été établi conformément au paragraphe 1er, les articles 5:133, 6:110 ou 7:197 ne s'appliquent pas à une société absorbante ayant la forme légale de société à responsabilité limitée, de société coopérative, de société anonyme, de société européenne ou de société coopérative européenne.
+§ 2. S'il a été établi tant un rapport conformément au paragraphe 1er qu'un rapport conformément à l'article 12:61, alinéa 1er, les articles 5:121, 5:133, 6:110, 7:179 et 7:197 ne s'appliquent pas, selon le cas, à une société absorbante ayant la forme légale de société à responsabilité limitée, de société coopérative, de société anonyme, de société européenne ou de société coopérative européenne.
 
 ***Article 12:63***  
 Les organes d'administration de chacune des sociétés concernées par la scission sont tenus d'informer l'assemblée générale de leur société ainsi que les organes d'administration de toutes les autres sociétés concernées par la scission de toute modification importante du patrimoine actif et passif intervenue entre la date de l'établissement du projet de scission et la date de la dernière assemblée générale, ou, dans le cas visé à l'article 12:67, § 7, la réunion du dernier organe d'administration, qui se prononce sur la scission.  
@@ -576,7 +578,7 @@ La convocation à l'assemblée reproduit le texte des alinéas 1er et 2 du prés
    +  une proposition de scission n'est acceptée que si elle réunit les trois quarts des voix, sans qu'il soit tenu compte des abstentions au numérateur ou au dénominateur;  
    +  dans la société en commandite et dans la société coopérative, le droit de vote des associés et des actionnaires est proportionnel à leur part dans l'avoir social et le quorum de présence se calcule par rapport à l'avoir social.  
 
-§ 2. L'article 7:179 n'est pas applicable.  
+§ 2.   
 
 § 3. S'il existe plusieurs classes d'actions, parts ou titres représentatifs ou non du capital exprimé, et si la scission entraîne une modification de leurs droits respectifs, l'article 5:102, alinéa 3, l'article 6:87, alinéa 3, ou l'article 7:155, alinéa 3, s'applique par analogie.  
 
@@ -649,9 +651,9 @@ La radiation de l'immatriculation au registre belge des personnes morales ne peu
 
 § 2. Quelle que soit la forme légale de la nouvelle société, la constitution de celle-ci doit, à peine de nullité, être constatée par acte authentique. Cet acte reproduit, le cas échéant, les conclusions du rapport du commissaire ou du réviseur d'entreprises ou de l'expert-comptable externe, visé à l'article 12:78.  
 
-§ 3. Si un rapport a été établi conformément à l'article 12:78, les articles 7:7, 7:12, 7:13, alinéa 2, deuxième phrase, et 7:14, alinéa 1er, 2° et 7°, ne s'appliquent ni à la société anonyme, ni à la société européenne.  
+§ 3. Si un rapport a été établi conformément à l'article 12:78, les articles 7:7, 7:12, 7:13, alinéa 2, deuxième phrase, et 7:14, alinéa 1er, 2° et 7°, ne s'appliquent ni à la société anonyme, ni à la société européenne ni à la société coopérative européenne qui sont issues de la scission.  
 Si un rapport a été établi conformément à l'article 12:78, les articles 5:7, 5:9 et 5:12, alinéa 1er, 2° et 5°, ne s'appliquent pas à la société à responsabilité limitée qui est issue de la scission.  
-Si un rapport a été établi conformément à l'article 12:78, les articles 6:8, 6:10 et 6:13, alinéa 1er, 2° et 5° ne s'appliquent ni à la société coopérative, ni à la société coopérative européenne qui sont issues de la scission.
+Si un rapport a été établi conformément à l'article 12:78, les articles 6:8, 6:10 et 6:13, alinéa 1er, 2° et 5° ne s'appliquent pas à la société coopérative qui est issue de la scission.
 
 ***Article 12:75***  
 Les organes d'administration des sociétés participant à la scission établissent un projet de scission par acte authentique ou par acte sous seing privé.  
@@ -740,7 +742,7 @@ La convocation à l'assemblée reproduit le texte des alinéas 1er et 2 du prés
    +  une proposition de scission n'est acceptée que si elle réunit les trois quarts des voix, sans qu'il soit tenu compte des abstentions au numérateur ou au dénominateur;  
    +  dans la société en commandite et dans la société coopérative, le droit de vote des associés et des actionnaires est proportionnel à leur part dans l'avoir social et le quorum de présence se calcule par rapport à l'avoir social.  
 
-§ 2. L'article 7:179 n'est pas applicable.  
+§ 2.   
 
 § 3. S'il existe plusieurs classes d'actions, parts ou titres représentatifs ou non du capital exprimé, et si la scission entraîne une modification de leurs droits respectifs, l'article 5:102, alinéa 3, l'article 6:87, alinéa 3, ou l'article 7:155, alinéa 3, s'applique par analogie.  
 
@@ -831,11 +833,11 @@ A compter de la date visée à l'alinéa 1er, 3°, les produits et charges d'act
 ***Article 12:94***  
 § 1er. L'assemblée générale de la société apporteuse doit décider de l'apport d'universalité, l'organe d'administration d'une branche d'activité.  
 
-§ 2. L'organe d'administration de la société apporteuse établit un rapport écrit et circonstancié qui expose la situation patrimoniale des sociétés concernées et qui explique et justifie, d'un point de vue juridique et économique, l'opportunité, les conditions, les modalités et les conséquences de l'apport.  
+§ 2. L'organe d'administration de la société apporteuse d'universalité établit un rapport écrit et circonstancié qui expose la situation patrimoniale des sociétés concernées et qui explique et justifie, d'un point de vue juridique et économique, l'opportunité, les conditions, les modalités et les conséquences de l'apport.  
 Une copie du projet et de ce rapport est adressée aux titulaires d'actions ou parts nominatives un mois au moins avant la réunion de l'assemblée générale. Elle est également transmise sans délai aux personnes qui ont accompli les formalités requises par les statuts pour être admises à l'assemblée.  
-Toutefois, l'alinéa 2 ne s'applique pas lorsque les sociétés apporteuses sont des sociétés coopératives, le projet et le rapport étant tenus à la disposition des actionnaires au siège de la société.  
+Toutefois, l'alinéa 2 ne s'applique pas lorsque les sociétés apporteuses d'universalité sont des sociétés coopératives, le projet et le rapport étant tenus à la disposition des actionnaires au siège de la société.  
 
-§ 3. La décision de procéder à l'apport est prise dans le respect des conditions de quorum et de majorité requises pour la modification des statuts, sous réserve de dispositions statutaires plus rigoureuses.  
+§ 3. La décision de procéder à l'apport d'universalité est prise dans le respect des conditions de quorum et de majorité requises pour la modification des statuts, sous réserve de dispositions statutaires plus rigoureuses.  
 Dans la société en commandite et dans la société coopérative, le droit de vote des associés et des actionnaires est proportionnel à leur part dans l'avoir social et le quorum de présence se calcule par rapport à l'avoir social.  
 L'accord de tous les associés est requis dans la société en nom collectif et l'accord de tous les associés commandités est en outre requis dans la société en commandite.
 
@@ -913,7 +915,7 @@ La fusion, la scission ou l'apport de branche d'activité entraîne de plein dro
 ***Article 12:106***  
 Les dispositions concernant les fusions du présent livre sont applicables, sous réserve des dispositions dérogatoires suivantes.  
 Sont exclues de l'application du présent titre:  
-1. les sociétés d'investissement publiques à capital variable visées aux articles 10 et 14 de la loi du 20 juillet 2004 relative à certaines formes de gestion collective de portefeuilles d'investissement;  
+1. les sociétés d'investissement publiques à capital variable visées à l'article 15 de la loi du 3 août 2012 relative aux organismes de placement collectif qui répondent aux conditions de la directive 2009/65/CE et aux organismes de placement en créances;  
 2. les sociétés qui sont en liquidation.
 
 #### Section 2. Rémunération de l'apport.
@@ -985,11 +987,12 @@ Le commissaire, le réviseur d'entreprises ou l'expert-comptable externe désign
 § 3. Ni un examen du projet commun de fusion transfrontalière par le commissaire ou le réviseur d'entreprises ou expert-comptable externe désigné ni le rapport visé au paragraphe 1er ne sont requis si tous les associés ou actionnaires de chacune des sociétés participant à la fusion transfrontalière en ont ainsi décidé.  
 
 § 4. Pour l'opération assimilée à la fusion transfrontalière, le rapport visé au paragraphe 1er n'est pas requis.  
+Dans ce cas, les articles 5:121, 5:133, 6:108, § 2, 6:110, 7:179 et 7:197 ne s'appliquent pas.  
 
-§ 5. Si un rapport a été établi conformément au paragraphe 1er, les articles 5:133, 6:110 ou 7:197 ne s'appliquent pas à une société absorbante ayant la forme légale d'une société à responsabilité limitée, d'une société coopérative, d'une société anonyme, d'une société européenne ou d'une société coopérative européenne.  
-Si un rapport a été établi conformément au paragraphe 1er, les articles 7:7, 7:12, 7:13, alinéa 2, deuxième phrase, et 7:14, alinéa 1er, 2° et 7°, ne s'appliquent ni à la société anonyme, ni à la société européenne issues de la fusion.  
+§ 5. Si un rapport a été établi conformément au paragraphe 1er, les articles 5:121, 5:133, 6:110, 7:179 et 7:197 ne s'appliquent pas, selon le cas, à une société absorbante ayant la forme légale d'une société à responsabilité limitée, d'une société coopérative, d'une société anonyme, d'une société européenne ou d'une société coopérative européenne.  
+Si un rapport a été établi conformément au paragraphe 1er, les articles 7:7, 7:12, 7:13, alinéa 2, deuxième phrase, et 7:14, alinéa 1er, 2° et 7°, ne s'appliquent ni à la société anonyme, ni à la société européenne, ni à la société coopérative européenne issues de la fusion.  
 Si un rapport a été établi conformément au paragraphe 1er, les articles 5:7, 5:9 et 5:12, alinéa 1er, 2° et 5°, ne s'appliquent pas à la société à responsabilité limitée issue de la fusion.  
-Si un rapport a été établi conformément au paragraphe 1er, les articles 6:8, 6:10 et 6:13, alinéa 1er, 2° et 5°, ne s'appliquent ni à la société coopérative, ni à la société européenne coopérative issues de la fusion.
+Si un rapport a été établi conformément au paragraphe 1er, les articles 6:8, 6:10 et 6:13, alinéa 1er, 2° et 5°, ne s'appliquent pas à la société coopérative issue de la fusion.
 
 ***Article 12:115***  
 § 1er. Dans chaque société, l'ordre du jour de l'assemblée générale appelée à se prononcer sur le projet de fusion annonce le projet de fusion transfrontalière et les rapports prévus aux articles 12:113 et 12:114 ainsi que la possibilité réservée aux associés ou actionnaires d'obtenir lesdits documents sans frais. Cette obligation ne s'applique pas si l'organe d'administration approuve la fusion conformément à l'article 12:116, § 1er, alinéa 2 et § 2.  
@@ -1002,7 +1005,7 @@ Dans ce cas, tout actionnaire a le droit de prendre connaissance desdits documen
 1. le projet de fusion transfrontalière;  
 2. les rapports visés aux articles 12:113 et 12:114;  
 3. les comptes annuels des trois derniers exercices, de chacune des sociétés qui fusionnent;  
-4. pour les sociétés à responsabilité limitée, les sociétés anonymes, les sociétés coopératives, et les sociétés européennes, les rapports de l'organe d'administration, et les rapports du commissaire des trois derniers exercices s'il y en a un;  
+4. pour les sociétés à responsabilité limitée, les sociétés anonymes, les sociétés coopératives, les sociétés européennes, et les sociétés coopératives européennes, les rapports de l'organe d'administration, et les rapports du commissaire des trois derniers exercices s'il y en a un;  
 5. le cas échéant, lorsque le projet de fusion est postérieur de six mois au moins à la fin de l'exercice auquel se rapportent les derniers comptes annuels, d'un état comptable clôturé moins de trois mois avant la date du projet de fusion et rédigé conformément aux alinéas 2 à 4.  
 
 Cet état comptable est établi selon les mêmes méthodes et suivant la même présentation que les derniers comptes annuels.  
@@ -1025,14 +1028,14 @@ Le paragraphe 3 n'est pas d'application si le site internet de la société offr
 
 Par dérogation à l'alinéa précédent, l'approbation par l'assemblée générale de la société reprise n'est pas requise pour l'opération assimilée à la fusion par absorption.  
 
-§ 2. Lorsqu'une société absorbante ayant la forme légale d'une société à responsabilité limitée, d'une société coopérative, d'une société anonyme, d'une société européenne ou d'une société coopérative européenne détient au moins 90 % mais pas la totalité des actions, parts et autres titres conférant le droit de vote dans la société absorbée, l'approbation par l'assemblée générale de la société absorbante de la fusion et de la modification du nombre d'actions de la société absorbante, et, le cas échéant, de son capital, par suite de cette fusion n'est pas requise dans la mesure où les conditions suivantes sont remplies:  
+§ 2. Lorsqu'une société absorbante ayant la forme légale d'une société à responsabilité limitée, d'une société coopérative, d'une société anonyme, d'une société européenne ou d'une société coopérative européenne détient au moins 90 % des actions, parts et autres titres conférant le droit de vote dans la société absorbée, l'approbation par l'assemblée générale de la société absorbante de la fusion et de la modification du nombre d'actions de la société absorbante, et, le cas échéant, de son capital, par suite de cette fusion n'est pas requise dans la mesure où les conditions suivantes sont remplies:  
 1. le dépôt du projet de fusion visé à l'article 12:112 est effectué, pour la société absorbante, au plus tard six semaines avant sa décision de fusion;  
 2. sans préjudice des exceptions visées à l'article 12:115, chaque associé ou actionnaire de la société absorbante a le droit, un mois au moins avant la date précitée au 1°, de prendre connaissance des documents mentionnés à l'article 12:115, § 2, au siège de la société.  
 
 Un ou plusieurs actionnaires de la société absorbante qui détiennent 5 % des actions émises ou qui, dans une société anonyme ou une société européenne, représentent 5 % du capital souscrit ont néanmoins le droit d'obtenir la convocation de l'assemblée générale de cette société appelée à se prononcer sur le projet de fusion. Les actions sans droit de vote ne sont pas prises en considération dans le calcul de ce pourcentage.  
-Dans les cas mentionnés au paragraphe 1er, alinéa 2, et paragraphe 2, alinéa 1er, l'organe d'administration de la société absorbée se prononce sur l'approbation de la fusion et, si d'application, sur la modification du nombre d'actions de la société absorbante, et, le cas échéant, de son capital, par suite de la fusion. Les articles 7:198 à 7:203 ne sont pas applicables à une telle décision.  
+Dans les cas mentionnés au paragraphe 1er, alinéa 2, et paragraphe 2, alinéa 1er, l'organe d'administration de la société absorbée se prononce sur l'approbation de la fusion et, si d'application, sur la modification du nombre d'actions de la société absorbante, et, le cas échéant, de son capital, par suite de la fusion. Les articles 5:134 à 5:137 et 7:198 à 7:203 ne sont pas applicables à une telle décision.  
 
-§ 3. L'article 7:179 n'est pas applicable.  
+§ 3.   
 
 § 4. S'il existe plusieurs classes d'actions, parts ou titres, représentatifs ou non du capital exprimé dans les statuts, et si la fusion transfrontalière entraîne une modification de leurs droits respectifs, l'article 5:102, alinéa 3, l'article 6:87, alinéa 3, ou l'article 7:155, alinéa 3, s'applique par analogie.  
 

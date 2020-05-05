@@ -45,7 +45,7 @@ Sauf s'il s'agit des sociétés visées à l'article 3:1, § 3, 1°, 2°, 3° et
 3. aux sociétés en nom collectif, aux sociétés en commandite et aux groupements européens d'intérêt economique dont tous les associés à responsabilité illimitée sont des personnes physiques;  
 4. aux entreprises agricoles agréées conformément à l'article 8:2 qui ont pris la forme d'une société en nom collectif ou d'une société en commandite et qui sont assujetties à l'impôt des personnes physiques.  
 
-Les petites sociétés non cotées doivent cependant reprendre la justification visée à l'article 3:6, § 1er, 6°, dans l'annexe aux comptes annuels.
+Les petites sociétés non cotées doivent cependant reprendre la justification visée à l'article 3:6, § 1er, alinéa 1er, 6°, dans l'annexe aux comptes annuels. Les entités d'intérêt public visées à l'article 1:12, 2°, reprennent la justification visée à l'article 3:6, § 1er, alinéa 1er, 6°, exclusivement dans le rapport de gestion.
 
 ***Article 3:5***  
 L'organe d'administration établit un rapport dans lequel il rend compte de sa gestion.
@@ -58,7 +58,7 @@ L'organe d'administration établit un rapport dans lequel il rend compte de sa g
 4. des indications relatives aux activités en matière de recherche et de développement;  
 5. des indications relatives à l'existence de succursales de la société;  
 6. au cas ou le bilan fait apparaître une perte reportée ou le compte de résultats fait apparaître pendant deux exercices successifs une perte de l'exercice, une justification de l'application des règles comptables de continuité;  
-7. toutes les informations qui doivent y être insérées en vertu du présent code, spécialement les articles 5:77, § 1er, alinéa 2, 5:151, 6:12, 7:96, § 1er, alinéa 2, 7:97, § 4, dernier alinéa, et § 6, 7:102, alinéa 2, 7:108, alinéa 2, 7:115, § 1er, alinéa 2, 7:116, § 1er, § 4, dernier alinéa, et § 6, 7:203, 7:220, §§ 1er et 2, 15:29 et 16:29;  
+7. toutes les informations qui doivent y être insérées en vertu du présent code, spécialement les articles 5:77, § 1er, alinéa 2, 5:151, 6:65, § 1er, alinéa 2, 7:96, § 1er, alinéa 2, 7:97, § 4, dernier alinéa, et § 6, 7:102, alinéa 2, 7:108, alinéa 2, 7:115, § 1er, alinéa 2, 7:116, § 1er, § 4, dernier alinéa, et § 6, 7:203, 7:220, §§ 1er et 2, 15:29 et 16:29;  
 8. en ce qui concerne l'utilisation des instruments financiers par la société et lorsque cela est pertinent pour l'évaluation de son actif, de son passif, de sa situation financière et de ses pertes ou profits:  
    + les objectifs et la politique de la société en matière de gestion des risques financiers, y compris sa politique concernant la couverture de chaque catégorie principale des transactions prévues pour lesquelles il est fait usage de la comptabilité de couverture, et  
    + l'exposition de la société au risque de prix, au risque de crédit, au risque de liquidité et au risque de trésorerie;  
@@ -83,7 +83,7 @@ La description comprend en tout état de cause un aperçu des efforts consentis 
 8. les informations qui doivent y être insérées en vertu de l'article 74, § 7, de la loi du 1er avril 2007 relative aux offres publiques d'acquisition.  
 
 Les dispositions reprises aux points 3°, 4° et 6°, s'appliquent également aux entités d'intérêt public visées à l'article 1:12, 2°.  
-La disposition reprise au point 6°, alinéas 2 et 3, ne s'applique pas pour les sociétés qui dépassent plus d'un des critères visés à l'article 1:26, § 1er, à condition que ces critères soient calculés sur base simple, à moins que cette société ne soit une société mère.  
+La disposition reprise au point 6°, alinéas 1er et 2, ne s'applique pas pour les sociétés qui ne dépassent pas plus d'un des critères visés à l'article 1:26, § 1er, à condition que ces critères soient calculés sur base simple, à moins que cette société ne soit une société mère.  
 Le Roi peut, par un arrêté délibéré en Conseil des ministres, désigner un code de gouvernement d'entreprise qui s'appliquera obligatoirement, de la manière prévue à l'alinéa 1er, 1°.  
 
 § 3. Pour les sociétés cotées, la déclaration de gouvernement d'entreprise visée au paragraphe 2 comprend également le rapport de rémunération, qui en constitue une section spécifique.  
@@ -136,7 +136,7 @@ Le Roi peut établir une liste des référentiels européens et internationaux e
 La déclaration non financière contient, le cas échéant, également les renvois pertinents aux montants financiers indiqués dans les comptes annuels et des explications supplémentaires y afférentes.  
 Lorsque la société n'applique pas de politique en ce qui concerne l'une ou plusieurs de ces questions, la déclaration non financière comprend une explication claire et motivée des raisons justifiant cette non-application.  
 Dans des cas exceptionnels, l'organe d'administration de la société mère peut décider d'omettre dans la déclaration des informations portant sur des évolutions imminentes ou des affaires en cours de négociation, lorsque, de l'avis dûment motivé de l'organe d'administration et au titre de la responsabilité collective de ses membres quant à cet avis, la publication de ces informations pourraient nuire gravement à la position commerciale de la société, à condition que l'omission de ces informations ne fasse pas obstacle à une compréhension juste et équilibrée de l'évolution des affaires, des performances, de la situation de la société et des incidences de son activité.  
-La société qui a établi et publié une déclaration non financière, est réputée avoir satisfait à l'obligation prévue dans le paragraphe 1er, 1°, alinéa 2.  
+La société qui a établi et publié une déclaration non financière, est réputée avoir satisfait à l'obligation prévue dans le paragraphe 1er, alinéa 2.  
 Une filiale est exemptée des obligations prévues au présent paragraphe, lorsque l'information concernée est comprise dans le rapport de gestion sur les comptes consolidés, établi par la société mère en Belgique conformément à l'article 3:30, § 2.  
 La société qui a établi la déclaration non financière sur le même exercice dans un rapport distinct est exemptée de l'obligation d'établir une déclaration non financière dans le rapport de gestion. Dans ce cas, le rapport de gestion contient une mention selon laquelle la déclaration non financière est établie dans un rapport distinct. Ce rapport distinct est joint au rapport de gestion.
 
@@ -465,9 +465,9 @@ Sera punie des peines prévues à l'article 458 du Code pénal toute personne ex
 ## Titre 2. Comptes annuels et budgets des associations.
 
 ***Article 3:47***  
-§ 1er. L'organe d'administration établit chaque année des comptes annuels, dont la forme et le contenu sont déterminés par le Roi.  
+§ 1er. L'organe d'administration établit chaque année des comptes annuels.  
 Les comptes annuels de l'ASBL ou l'AISBL, ainsi que le budget de l'exercice social qui suit l'exercice social sur lequel portent ces comptes annuels, doivent être soumis pour approbation à l'assemblée générale dans les six mois de la date de clôture de l'exercice social.  
-L'organe d'administration dresse chaque année un inventaire suivant les critères d'évaluation fixés par le Roi.  
+L'organe d'administration dresse chaque année un inventaire suivant les critères d'évaluation fixés par le Roi et établit les comptes annuels visés à l'alinéa 1er dans la forme et le contenu déterminés par le Roi.  
 
 § 2. Les petites ASBL ou AISBL peuvent établir leurs comptes annuels conformément à un modèle simplifié déterminé par le Roi si, à la date du bilan du dernier exercice clôturé, elles ne dépassent pas plus d'un des critères suivants:  
 1. un nombre de travailleurs en moyenne annuelle de 5, déterminé conformément l'article 1:28, § 5;  
@@ -481,11 +481,11 @@ Le Roi peut adapter les montants visés à l'alinéa 1er à l'évolution de l'in
 
 § 4. Les micro-ASBL ou micro-AISBL peuvent établir leurs comptes annuels suivant un microschéma déterminé par le Roi.  
 
-§ 5. Le paragraphe 1er, alinéa 3, et les paragraphes 2 à 3 ne sont pas applicables aux:  
+§ 5. Le paragraphe 1er, alinéa 3, et les paragraphes 2 à 4 ne sont pas applicables aux:  
 1. aux ASBL ou AISBL soumises, en raison de la nature des activités qu'elles exercent à titre principal, à des règles particulières, résultant d'une législation ou d'une réglementation publique, relatives à la tenue de leur comptabilité et à leurs comptes annuels, pour autant qu'elles soient au moins équivalentes à celles prévues en vertu du présent titre;  
 2. aux associations visées à l'article 1er, 1°, de la loi du 14 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales, ainsi qu'au financement et à la comptabilité ouverte des partis politiques.  
 
-§ 6. Les associations autres que les petites ASBL ou AISBL sont tenues de confier à un ou plusieurs commissaires le contrôle de la situation financière, des comptes annuels et de la régularité au regard de la loi et des statuts, des opérations devant être constatées dans les comptes annuels.  
+§ 6. Les associations autres que les petites ASBL ou AISBL sont tenues de confier à un ou plusieurs commissaires le contrôle de la situation financière, des comptes annuels et de la régularité au regard de la loi et des statuts, des opérations à constater dans les comptes annuels.  
 Les commissaires sont nommés par l'assemblée générale parmi les membres, personnes physiques ou morales, de l'Institut des réviseurs d'entreprises.  
 
 § 7. Dans les trente jours de leur approbation par l'assemblée générale, les comptes annuels des ASBL ou AISBL autres que celles qui à la date du bilan du dernier exercice clôturé ne dépassent pas plus d'un des critères visés au paragraphe 2 sont déposés par les administrateurs à la Banque nationale de Belgique.  
@@ -535,8 +535,8 @@ Ce dépôt a lieu annuellement, dans le mois qui suit son approbation et au plus
 ## Titre 3. Comptes annuels et budgets des fondations.
 
 ***Article 3:51***  
-§ 1er. Chaque année et au plus tard six mois après la date de clôture de l'exercice social, l'organe d'administration de la fondation établit les comptes annuels de l'exercice social écoulé, dont la forme et le contenu sont déterminés par le Roi, ainsi que le budget de l'exercice qui suit celui auquel ces comptes annuels se rapportent.  
-L'organe d'administration dresse chaque année un inventaire suivant les critères d'évaluation fixés par le Roi.  
+§ 1er. Chaque année et au plus tard six mois après la date de clôture de l'exercice social, l'organe d'administration de la fondation établit les comptes annuels de l'exercice social écoulé, ainsi que le budget de l'exercice qui suit celui auquel ces comptes annuels se rapportent.  
+L'organe d'administration dresse chaque année un inventaire suivant les critères d'évaluation fixés par le Roi et établit les comptes annuels visés à l'alinéa 1er dans la forme et le contenu déterminés par le Roi.  
 
 § 2. Les petites fondations peuvent établir leurs comptes annuels conformément à un modèle simplifié déterminé par le Roi si à la date du bilan du dernier exercice clôturé, elles ne dépassent pas plus d'un des critères suivants:  
 1. un nombre de travailleurs en moyenne annuelle de 5, déterminé conformément l'article 1:28, § 5;  
@@ -550,9 +550,9 @@ Le Roi peut adapter les montants visés à l'alinéa 1er à l'évolution de l'in
 
 § 4. Les microfondations peuvent établir leurs comptes annuels suivant un microschéma déterminé par le Roi.  
 
-§ 5. Le paragraphe 1er, dernier alinéa, et les paragraphes 2 à 3, ne sont pas applicables aux fondations soumises, en raison de la nature des activités qu'elles exercent à titre principal, à des règles particulières, résultant d'une législation ou d'une réglementation publique, relatives à la tenue de leur comptabilité et à leurs comptes annuels, pour autant qu'elles soient au moins équivalentes à celles prévues en vertu du présent titre.  
+§ 5. Le paragraphe 1er, dernier alinéa, et les paragraphes 2 à 4, ne sont pas applicables aux fondations soumises, en raison de la nature des activités qu'elles exercent à titre principal, à des règles particulières, résultant d'une législation ou d'une réglementation publique, relatives à la tenue de leur comptabilité et à leurs comptes annuels, pour autant qu'elles soient au moins équivalentes à celles prévues en vertu du présent titre.  
 
-§ 6. Les fondations autres que les petites fondations sont tenues de confier à un ou plusieurs commissaires le contrôle de la situation financière, des comptes annuels et de la régularité au regard de la loi et des statuts, des opérations devant être constatées dans les comptes annuels.  
+§ 6. Les fondations autres que les petites fondations sont tenues de confier à un ou plusieurs commissaires le contrôle de la situation financière, des comptes annuels et de la régularité au regard de la loi et des statuts, des opérations à constater dans les comptes annuels.  
 Le commissaire est nommé par le conseil d'administration parmi les membres, personnes physiques ou morales, de l'Institut des réviseurs d'entreprises.  
 
 § 7. Dans les trente jours de leur approbation par l'organe d'administration, les comptes annuels des fondations autres que celles qui à la date du bilan du dernier exercice clôturé ne dépassent pas plus d'un des critères visés au paragraphe 2 sont déposés par les administrateurs à la Banque nationale de Belgique.  
@@ -1012,7 +1012,10 @@ Ils seront punis d'un emprisonnement d'un mois à un an et d'une amende de cinqu
 1. requis par le droit belge en ce qui concerne les associations visées à l'article 3:47, § 6, applicable par analogie en vertu du paragraphe 2;  
 2. volontairement effectué à la demande de petites associations, lorsque cette mission est assortie de la publication du rapport visé à l'article 3:74.  
 
-§ 2. Les articles 3:56 à 3:64, 3:65, §§ 1er à 6, 3:66 à 3:71, 3:73 à 3:75, à l'exception des articles 3:61, §§ 2 et 3, 3:63, § 3 et de l'article 3:75, § 1er, alinéa 1er, 6° et 8°, sont applicables par analogie aux ASBL et AISBL qui ont nommé un commissaire. Pour les besoins du présent article, le terme "société" utilisé dans les articles précités doit s'entendre comme étant "association".
+§ 2. Les articles 3:56 à 3:64, 3:65, §§ 1er à 6, 3:66 à 3:71, 3:73 à 3:75, à l'exception des articles 3:61, §§ 2 et 3, 3:63, § 3 et de l'article 3:75, § 1er, alinéa 1er, 8°, sont applicables par analogie aux ASBL et AISBL qui ont nommé un commissaire.   
+Pour les besoins de cette application par analogie, les articles précités doivent s'entendre avec les modifications suivantes:  
+1. le terme "société" doit s'entendre comme étant "association";  
+2. dans l'article 3:75, § 1er, alinéa 1er, 6°, les mots "conformément aux articles 3:5 et 3:6" sont remplacés par les mots "conformément à l'article 3:48".
 
 ## Titre 6. Le contrôle légal des comptes annuels des fondations.
 
@@ -1021,7 +1024,10 @@ Ils seront punis d'un emprisonnement d'un mois à un an et d'une amende de cinqu
 1. requis par le droit belge en ce qui concerne les fondations visés à l'article 3:51, § 6, applicable par analogie en vertu du paragraphe 2 ou;  
 2. volontairement effectué à la demande de petites fondations, lorsque cette mission est assortie de la publication du rapport visé à l'article 3:74.  
 
-§ 2. Les articles 3:56 à 3:64, 3:65, §§ 1er à 6, 3:66 à 3:71, 3:73 à 3:75, à l'exception des articles 3:61, §§ 2 et 3, 3:63, § 3 et de l'article 3:75, § 1er, alinéa 1er, 6° et 8°, sont applicables par analogie aux fondations qui ont nommé un commissaire. Pour les besoins du présent article, les termes "société" et "assemblée générale" utilisés dans les articles précités doivent s'entendre comme étant respectivement "fondation" et "organe d'administration".
+§ 2. Les articles 3:56 à 3:64, 3:65, §§ 1er à 6, 3:66 à 3:71, 3:73 à 3:75, à l'exception des articles 3:61, §§ 2 et 3, 3:63, § 3 et de l'article 3:75, § 1er, alinéa 1er, 8°, sont applicables par analogie aux fondations qui ont nommé un commissaire.   
+Pour les besoins de cette application par analogie, les articles précités doivent s'entendre avec les modifications suivantes:  
+1. les termes "société" et "assemblée générale" doivent s'entendre comme étant respectivement "fondation" et "organe d'administration";  
+2. dans l'article 3:75, § 1er, alinéa 1er, 6°, les mots "conformément aux articles 3:5 et 3:6" sont remplacés par les mots "conformément à l'article 3:52".
 
 ## Titre 7. Pouvoir individuel d'investigation et de contrôle des associés, des actionnaires et des membres.
 

@@ -11,7 +11,7 @@ L'AISBL est une association dont la personnalité juridique est reconnue par le 
 L'acte constitutif contient au moins les données mentionnées dans l'extrait visé à l'article 2:10, § 2.
 
 ***Article 10:3***  
-Toute action intentée par l'association n'ayant pas respecté les formalités prévues à l'article 2:10 est suspendue. Avant de déclarer l'action irrecevable, le juge fixe un délai endéans lequel l'association peut encore satisfaire à ces formalités.
+`Abrogé`
 
 ### Chapitre 2. Nullité.
 
@@ -60,17 +60,15 @@ Chaque année, l'organe d'administration établit le budget de l'exercice suivan
 Les statuts déterminent la forme, la composition, le fonctionnement et les pouvoirs de l'organe d'administration.  
 Les statuts déterminent le mode de désignation des personnes qui ont le pouvoir de représenter l'AISBL vis-à-vis des tiers.
 
-#### Section 2. Gestion journalière.
+#### Section 2. `Abrogé`
 
 ***Article 10:10***  
-Les statuts peuvent prévoir que l'organe d'administration peut charger une ou plusieurs personnes, qui agissent chacune individuellement, conjointement ou collégialement, de la gestion journalière de l'association, ainsi que de la représentation de l'association en ce qui concerne cette gestion. L'organe d'administration qui a désigné le délégué à la gestion journalière est chargé de la surveillance de celui-ci.  
-La gestion journalière comprend aussi bien les actes et les décisions qui n'excèdent pas les besoins de la vie quotidienne de l'association que les actes et les décisions qui, soit en raison de l'intérêt mineur qu'ils représentent, soit en raison de leur caractère urgent, ne justifient pas l'intervention de l'organe d'administration.  
-La disposition selon laquelle la gestion journalière est confiée à une ou plusieurs personnes agissant chacune individuellement, conjointement ou collégialement, est opposable aux tiers aux conditions fixées à l'article 2:18. Les limitations au pouvoir de représentation de l'organe de gestion journalière ne sont toutefois pas opposables aux tiers, même si elles sont publiées.
+`Abrogé`
 
 ## Titre 3. Libéralités.
 
 ***Article 10:11***  
-A l'exception des dons manuels, toute libération entre vifs au profit de l'association dont la valeur excède 100 000 euro doit être autorisée par le ministre de la Justice ou son délégué.  
+A l'exception des dons manuels, toute libéralité entre vifs au profit de l'association dont la valeur excède 100 000 euro doit être autorisée par le ministre de la Justice ou son délégué.  
 La libéralité est réputée autorisée si le ministre de la Justice ou son délégué n'a pas réagi dans un délai de trois mois à dater de la demande d'autorisation qui lui est adressée.  
 Le ministre de la Justice détermine les pièces qui doivent être jointes à la demande.  
 Si le dossier communiqué par l'association est incomplet, le ministre de la Justice ou son délégué en informe l'association par lettre recommandée en indiquant les pièces manquantes. Le délai de trois mois est suspendu à la date de cet envoi jusqu'à la communication de l'ensemble des pièces sollicitées.  

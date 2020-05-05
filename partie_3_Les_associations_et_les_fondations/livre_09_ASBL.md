@@ -51,7 +51,7 @@ La première assemblée générale qui suit doit confirmer le mandat de l'admini
 § 1er. L'organe d'administration a le pouvoir d'accomplir tous les actes nécessaires ou utiles à la réalisation de l'objet de l'association, à l'exception de ceux que la loi réserve à l'assemblée générale.  
 Les statuts peuvent apporter des restrictions aux pouvoirs de l'organe d'administration. Une telle limitation n'est pas opposable aux tiers, même si elle est publiée. Il en va de même pour une répartition des tâches entre les administrateurs.  
 
-§ 2. L'organe d'administration représente l'association, en ce compris la représentation en justice. Sans préjudice de l'article 9:5, alinéa 1er, les statuts peuvent octroyer le pouvoir de représentation à un ou plusieurs administrateurs pour représenter l'association individuellement ou conjointement. Une telle clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
+§ 2. L'organe d'administration représente l'association, en ce compris la représentation en justice. Sans préjudice de l'article 9:5, alinéa 1er, les statuts peuvent prévoir que l'association est représentée par un ou plusieurs administrateurs, agissant seuls ou ou conjointement. Une telle clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
 Les statuts peuvent apporter des restrictions à ce pouvoir de représentation. Une telle limitation n'est pas opposable aux tiers, même si elle est publiée. Il en va de même pour une répartition des tâches entre les administrateurs ayant le pouvoir de représentation.
 
 ***Article 9:8***  
@@ -72,7 +72,7 @@ Le procès-verbal des réunions de l'organe d'administration est signé par le p
 #### Section 3. Gestion journalière.
 
 ***Article 9:10***  
-Les statuts peuvent prévoir que l'organe d'administration peut charger une ou plusieurs personnes, qui agissent chacune individuellement, conjointement ou collégialement, de la gestion journalière de l'association, ainsi que de la représentation de l'association en ce qui concerne cette gestion. L'organe d'administration qui a désigné l'organe de gestion journalière est chargé de la surveillance de celui-ci.  
+L'organe d'administration peut charger une ou plusieurs personnes, qui agissent chacune individuellement, conjointement ou collégialement, de la gestion journalière de l'association, ainsi que de la représentation de l'association en ce qui concerne cette gestion. L'organe d'administration qui a désigné l'organe de gestion journalière est chargé de la surveillance de celui-ci.  
 La gestion journalière comprend aussi bien les actes et les décisions qui n'excèdent pas les besoins de la vie quotidienne de l'association que les actes et les décisions qui, soit en raison de l'intérêt mineur qu'ils représentent, soit en raison de leur caractère urgent, ne justifient pas l'intervention de l'organe d'administration.  
 La disposition selon laquelle la gestion journalière est confiée à une ou plusieurs personnes qui agissent chacune individuellement, conjointement ou collégialement, est opposable aux tiers aux conditions fixées à l'article 2:18. Les limitations au pouvoir de représentation de l'organe de gestion journalière ne sont toutefois pas opposables aux tiers, même si elles sont publiées.
 
@@ -126,7 +126,7 @@ Sauf disposition statutaire contraire, chaque membre a un droit de vote égal à
 
 ***Article 9:18***  
 Les administrateurs répondent aux questions qui leur sont posées par les membres, oralement ou par écrit, avant ou pendant l'assemblée générale, et qui sont en lien avec les points de l'ordre du jour. Ils peuvent, dans l'intérêt de l'association, refuser de répondre aux questions lorsque la communication de certaines données ou de certains faits peut porter préjudice à l'association ou est contraire aux clauses de confidentialité contractées par l'association.  
-Le commissaire répond aux questions qui lui sont posées par les membres, oralement ou par écrit, avant ou pendant l'assemblée générale, et qui sont en lien avec les points de l'ordre du jour à propos desquels il fait rapport. Il peut, dans l'intérêt de l'association, refuser de répondre aux questions lorsque la communication de certaines données ou de certains faits peut porter préjudice à l'association ou est contraire au secret professionnel auquel il est tenu ou aux clauses de confidentialité contractées par l'association. Il a le droit de prendre la parole à l'assemblée générale en relation avec l'accomplissement de sa mission.  
+Le commissaire communique sans délai les questions écrites qu'il reçoit à l'organe d'administration et répond aux questions qui lui sont posées par les membres, oralement ou par écrit, avant ou pendant l'assemblée générale, et qui sont en lien avec les points de l'ordre du jour à propos desquels il fait rapport. Il peut, dans l'intérêt de l'association, refuser de répondre aux questions lorsque la communication de certaines données ou de certains faits peut porter préjudice à l'association ou est contraire au secret professionnel auquel il est tenu ou aux clauses de confidentialité contractées par l'association. Il a le droit de prendre la parole à l'assemblée générale en relation avec l'accomplissement de sa mission.  
 Les administrateurs et le commissaire peuvent donner une réponse groupée à différentes questions portant sur le même sujet.
 
 #### Section 2. L'assemblée générale ordinaire.
@@ -148,7 +148,7 @@ Toutefois, la modification qui porte sur l'objet ou le but désintéressé de l'
 ## Titre 3. Libéralités.
 
 ***Article 9:22***  
-A l'exception des dons manuels, toute libération entre vifs au profit de l'association dont la valeur excède 100 000 euro doit être autorisée par le ministre de la Justice ou son délégué.  
+A l'exception des dons manuels, toute libéralité entre vifs au profit de l'association dont la valeur excède 100 000 euro doit être autorisée par le ministre de la Justice ou son délégué.  
 La libéralité est réputée autorisée si le ministre de la Justice ou son délégué n'a pas réagi dans un délai de trois mois à dater de la demande d'autorisation qui lui est adressée.  
 Le ministre de la Justice détermine les pièces qui doivent être jointes à la demande.  
 Si le dossier communiqué par l'association est incomplet, le ministre de la Justice ou son délégué en informe l'association par lettre recommandée en indiquant les pièces manquantes. Le délai de trois mois est suspendu à la date de cet envoi jusqu'à la communication de l'ensemble des pièces sollicitées.  
@@ -197,5 +197,4 @@ Tous les actes ou documents émanant de l'association agréée comme union profe
 
 ***Article 9:27***  
 A la requête du ministère public ou de tout intéressé, le tribunal de l'entreprise peut ordonner la fermeture de la succursale belge d'une association étrangère dotée de la personnalité juridique dont les activités contreviennent gravement aux statuts de l'association dont elle dépend, ou à la loi ou à l'ordre public. La décision judiciaire passée en force de chose jugée de fermeture de la succursale est déposée dans le mois par l'association, le ministère public ou tout intéressé, au greffe du tribunal de l'entreprise où est tenu le dossier visé à l'article 2:23.  
-Toute action intentée par une succursale ou par l'association dont la succursale dépend, est suspendue si la succursale ou l'association n'a pas respecté les formalités prévues à l'article 2:25. Avant de déclarer l'action irrecevable, le juge fixe un délai endéans lequel la succursale ou l'association peut encore satisfaire à ces formalités.  
 L'article 9:22 est applicable par analogie aux libéralités au profit des associations étrangères.

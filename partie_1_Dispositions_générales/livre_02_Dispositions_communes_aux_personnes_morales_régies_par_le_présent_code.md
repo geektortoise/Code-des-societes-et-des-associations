@@ -33,19 +33,19 @@ Nonobstant toute disposition contraire, les personnes morales ne sont tenues de 
 ***Article 2:5***  
 § 1er. Les sociétés en nom collectif, les sociétés en commandite et les groupements européens d'intérêt économique sont, à peine de nullité, constitués par acte authentique ou sous seing privé, en se conformant, dans ce dernier cas, à l'article 1325 du Code civil.  
 Les sociétés à responsabilité limitée, les sociétés coopératives, les sociétés anonymes, les sociétés européennes et les sociétés coopératives européennes sont, à peine de nullité, constituées par acte authentique.  
-Pour les sociétés auxquelles elles s'appliquent, les données mentionnées à l'article 2:8, § 2, 1°, 3°, 5°, 7°, 8°, 9°, 12° et 13°, sont reprises dans les statuts de la société. Les données mentionnées à l'article 2:8, § 2, 2°, 4°, 6°, 10° et 14°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
+Pour les sociétés auxquelles elles s'appliquent, les données mentionnées à l'article 2:8, § 2, 1°, 3°, 5°, 7°, 8°, 9°, 11°, 12°, 13° et 15°, a) et b)°, sont reprises dans les statuts de la société. Les données mentionnées à l'article 2:8, § 2, 2°, 4°, 6°, 10° et 14°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
 
 § 2. Les ASBL sont, à peine de nullité, constituées par acte authentique ou sous seing privé. Dans ce dernier cas, l'acte doit être dressé en deux originaux seulement, par dérogation à l'article 1325 du Code civil.  
-Les données mentionnées à l'article 2:9, § 2, 2°, 3°, 4°, 5°, 6°, 7°, 8°, 9° et 10°, sont reprises dans les statuts de l'ASBL. Les données mentionnées à l'article 2:9, § 2, 1°, 11° et 12°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
+Les données mentionnées à l'article 2:9, § 2, 2°, 3°, 4°, 5°, 6°, 7°, a) et b), 8°, 9° et 10°, sont reprises dans les statuts de l'ASBL. Les données mentionnées à l'article 2:9, § 2, 1°, 7°, c), 11° et 12°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
 
 § 3. Les AISBL et les fondations sont, à peine de nullité, constituées par acte authentique. Si la constitution de la fondation prend la forme d'un testament, la fondation peut recevoir des dons par testament nonobstant l'article 906, alinéa 2, du Code civil.  
-Les données mentionnées à l'article 2:10, § 2, 2°, 3°, 4°, 5°, 6°, 7°, 8° et 9°, sont reprises dans les statuts de l'AISBL. Les données mentionnées à l'article 2:10, § 2, 1°, 10° et 11°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
+Les données mentionnées à l'article 2:10, § 2, 2°, 3°, 4°, 5°, 6°, 7°, a), b) et c), 8° et 9°, sont reprises dans les statuts de l'AISBL. Les données mentionnées à l'article 2:10, § 2, 1°, 7°, d), 10° et 11°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
 Les données mentionnées à l'article 2:11, § 2, 2° à 6°, sont reprises dans les statuts de la fondation. Les données mentionnées à l'article 2:11, § 2, 1°, 7° et 8°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
 
 § 4. Toute modification des statuts doit, à peine de nullité, être faite en la forme requise pour l'acte constitutif.  
 Par dérogation à l'alinéa 1er:  
 1. dans le cas d'une AISBL, seule la modification des éléments visés à l'article 2:10, § 2, 6°, 8° et 9°, est constatée par acte authentique;  
-2. dans le cas d'une fondation, seule la modification des éléments visés à l'article 2:11, § 2, 3° à 6°, est constatée par acte authentique.  
+2. dans le cas d'une fondation, seule la modification des éléments visés à l'article 2:11, § 2, 4°, a) et b), à 6°, est constatée par acte authentique, ainsi que, dans le cas d'une fondation privée, les données visées à l'article 2:11, § 2, 3°.  
 
 Dans le cas d'une AISBL et d'une fondation d'utilité publique, toute modification des mentions reprises aux articles 2:10, § 2, 3°, et 2:11, § 2, 3°, doit être approuvée par le Roi.
 
@@ -56,7 +56,7 @@ Dans le cas d'une AISBL et d'une fondation d'utilité publique, toute modificati
 
 § 2. Les ASBL acquièrent la personnalité juridique à compter du jour où est effectué le dépôt des documents visés à l'article 2:9, § 1er, 1°, 3° et 4°.  
 
-§ 3. Les AISBL acquièrent la personnalité juridique à la date de l'arrêté royal portant leur reconnaissance. A cette fin, l'acte constitutif est communiqué au ministre qui a la Justice dans ses attributions avec la demande d'octroi de la personnalité juridique et d'approbation des statuts. La personnalité juridique sera accordée si l'objet de l'AISBL répond aux conditions visées à l'article 10:1.  
+§ 3. Les AISBL acquièrent la personnalité juridique à la date de l'arrêté royal portant leur reconnaissance. A cette fin, l'acte constitutif est communiqué au ministre qui a la Justice dans ses attributions avec la demande d'octroi de la personnalité juridique et d'approbation des statuts. La personnalité juridique sera accordée si l'objet de l'AISBL répond aux conditions visées à l'article 10:1, et à condition que le but ou l'objet en vue duquel elle est constituée, ou son but ou son objet réel, ne contreviennent pas à la loi ou à l'ordre public.  
 
 § 4. Les fondations privées acquièrent la personnalité juridique à compter du jour où est effectué le dépôt des documents visés à l'article 2:11, § 1er, 1°, 3° et 4°.  
 Les fondations d'utilité publique acquièrent la personnalité juridique à la date de l'arrêté royal portant leur reconnaissance. A cette fin, l'acte constitutif est communiqué au ministre qui a la Justice dans ses attributions avec la demande d'octroi de la personnalité juridique et d'approbation des statuts. La personnalité juridique sera accordée si l'objet de la fondation d'utilité publique répond aux conditions visées à l'article 11:1.
@@ -116,7 +116,7 @@ L'extrait visé à l'alinéa 1er, 6°, contient:
 3. la durée de la société lorsqu'elle n'est pas illimitée;  
 4. les nom, prénom et domicile des associés solidaires, des fondateurs et des associés ou actionnaires qui n'ont pas encore libéré leur apport; dans ce dernier cas, l'extrait contient pour chaque associé ou actionnaire le montant qui reste à libérer;  
 5. le cas échéant, le montant du capital et le montant du capital autorisé;  
-6. les apports des fondateurs, le montant pour lequel les apports sont libérés, le cas échéant, les conclusions du rapport du réviseur d'entreprises concernant les apports en nature, et, en outre, pour la société en commandite, le montant des valeurs libérées ou à libérer par les associés commanditaires;  
+6. les apports des fondateurs et des souscripteurs, le montant pour lequel les apports sont libérés, le cas échéant, les conclusions du rapport du réviseur d'entreprises concernant les apports en nature, et, en outre, pour la société en commandite, le montant des valeurs libérées ou à libérer par les associés commanditaires;  
 7. le début et la fin de chaque exercice social;  
 8. les dispositions relatives à la constitution des réserves, à la répartition des bénéfices et du boni de liquidation de la société;  
 9. le mode de nomination et de cessation de fonctions des personnes autorisées à administrer et à représenter la société, l'étendue de leurs pouvoirs et les modalités d'exercice de ces derniers soit séparément, soit conjointement, soit en collège, et le cas échéant, l'étendue des pouvoirs des membres du conseil de surveillance et les modalités d'exercice de ces derniers;  
@@ -132,7 +132,9 @@ L'extrait visé à l'alinéa 1er, 6°, contient:
 
 Le 13° et le 14° ne sont pas applicables à la société en nom collectif et à la société en commandite.  
 
-§ 3. Afin d'être versé au dossier de société, un extrait des conditions d'émission des titres peut être déposé. L'extrait contient au moins le nom, la forme légale, le numéro d'entreprise et le siège de la personne morale émettrice, une identification claire de l'émission et les restrictions à la cessibilité figurant dans les conditions d'émission.
+§ 3. Afin d'être versé au dossier de société, un extrait des conditions d'émission des titres peut être déposé. L'extrait contient au moins le nom, la forme légale, le numéro d'entreprise et le siège de la personne morale émettrice, une identification claire de l'émission et les restrictions à la cessibilité figurant dans les conditions d'émission.  
+
+§ 4. Pour la société à responsabilité limitée et la société anonyme, la réunion de toutes les actions entre les mains d'une personne ainsi que l'identité de cette personne doivent être déposées dans le dossier de société.
 
 ***Article 2:9***  
 § 1er. Afin d'être versés au dossier de l'association, les documents suivants sont déposés pour l'ASBL, dans les trente jours à compter de la date de l'acte définitif, du prononcé du jugement exécutoire par provision ou du moment où le jugement est passé en force de chose jugée:  
@@ -164,7 +166,7 @@ Les extraits visés à l'alinéa 1er, 4°, contiennent:
 7.  
    +  le mode de nomination et de cessation de fonctions des administrateurs, ainsi que la durée de leur mandat;  
    +  le cas échéant, le mode de nomination et de cessation de fonctions des personnes habilitées à représenter l'ASBL conformément à l'article 9:7, § 2, l'étendue de leurs pouvoirs de représentation et la manière d'exercer leurs pouvoirs, en agissant soit individuellement, soit conjointement, soit en collège;  
-   +  le cas échéant, le mode de nomination et de cessation de fonctions des personnes déléguées à la gestion journalière de l'ASBL conformément à l'article 9:10, et la manière d'exercer leurs pouvoirs, en agissant soit séparément, soit conjointement, soit en collège;  
+   +  le cas échéant, le mode de nomination et de cessation de fonctions des personnes déléguées à la gestion journalière de l'ASBL conformément à l'article 9:10, l'étendue de leurs pouvoirs et la manière d'exercer leurs pouvoirs, en agissant soit séparément, soit conjointement, soit en collège;  
 8. le montant maximum des cotisations ou des versements à effectuer par les membres;  
 9. le but désintéressé auquel l'ASBL doit affecter son patrimoine en cas de dissolution;  
 10. la durée de l'ASBL lorsqu'elle n'est pas illimitée;  
@@ -202,7 +204,7 @@ Les extraits visés à l'alinéa 1er, 4°, contiennent:
    +  les attributions, le mode de convocation et le mode de décision de l'organe d'administration de l'AISBL;  
    +  le mode de nomination, de révocation et de cessation de fonctions des administrateurs, leur nombre minimum, la durée de leur mandat, l'étendue de leurs pouvoirs et les modalités de leur exercice;  
    +  le mode de désignation des personnes qui ont le pouvoir de représenter l'AISBL vis-à-vis des tiers;  
-   +  le cas échéant, le mode de nomination et de cessation de fonction des personnes déléguées à la gestion journalière de l'AISBL conformément à l'article 10:11, et la manière d'exercer leurs pouvoirs, en agissant soit séparément, soit conjointement, soit en collège.  
+   +  le cas échéant, le mode de nomination et de cessation de fonction des personnes déléguées à la gestion journalière de l'AISBL, l'étendue de leurs pouvoirs et la manière d'exercer leurs pouvoirs, en agissant soit séparément, soit conjointement, soit en collège.  
 8. les conditions de modification des statuts;  
 9. les conditions de dissolution et de liquidation de l'AISBL et le but désintéressé auquel l'AISBL doit affecter son patrimoine en cas de dissolution;  
 10. la désignation précise de l'adresse à laquelle le siège de l'AISBL est établi et, le cas échéant, l'adresse électronique et le site internet de l'AISBL;  
@@ -234,7 +236,7 @@ Ces extraits contiennent les mentions suivantes:
 4.  
    +  le mode de nomination, de révocation et de cessation de fonctions des administrateurs;  
    +  le cas échéant, le mode de nomination, de révocation et de cessation de fonctions des personnes habilitées à représenter la fondation conformément à l'article 11:7, § 2, et la manière d'exercer leurs pouvoirs, en agissant soit séparément, soit conjointement, soit en collège;  
-   +  le cas échéant, le mode de nomination, de révocation et de cessation de fonctions des personnes déléguées à la gestion journalière de la fondation conformément à l'article 11:14, et les modalités d'exercice de ces derniers soit séparément, soit conjointement, soit en collège;  
+   +  le cas échéant, le mode de nomination, de révocation et de cessation de fonctions des personnes déléguées à la gestion journalière de la fondation conformément à l'article 11:14, et l'étendue de leurs pouvoirs et la manière d'exercer leurs pouvoirs, agissant soit séparément, soit conjointement, soit en collège;  
 5. les conditions de modification des statuts;  
 6. la destination du patrimoine de la fondation en cas de dissolution, qui doit être affecté à un but désintéressé;  
 7. la désignation précise de l'adresse à laquelle le siège de la fondation est établi et, le cas échéant, l'adresse électronique et le site internet de la fondation;  
@@ -265,7 +267,7 @@ Sont publiés pour les sociétés:
 Sont publiés, pour les ASBL, les documents visés à l'article 2:9, § 1er, 3°, 4°, 6°, 7° et 9°, et leurs modifications.
 
 ***Article 2:16***  
-Sont publiés, pour les AISBL, les documents visés à l'article 2:10, § 1er, 1°, 3°, 4°, 6°, 7° et 9°, et leurs modifications.
+Sont publiés, pour les AISBL, les documents visés à l'article 2:10, § 1er, 3°, 4°, 6°, 7° et 9°, et leurs modifications.
 
 ***Article 2:17***  
 Sont publiés, pour les fondations, les documents visés à l'article 2:11, § 1er, 1°, 3°, 4°, 6°, 7° et 9°, et leurs modifications.
@@ -494,7 +496,9 @@ Lorsqu'une régularisation de la situation de l'association ou de fondation est 
 
 § 2. Sans préjudice des articles 2:9, 2:10, 2:11 et 2:18, la nullité produit ses effets à dater de la décision qui la prononce.  
 La décision prononçant la nullité de l'association ou de la fondation entraîne la liquidation de celle-ci conformément aux articles 2:109 à 2:133 ou 2:134 à 2:135.  
-La nullité de l'association ou de la fondation ne porte pas atteinte par elle-même à la validité de ses engagements ni à celle des engagements pris envers elle sans préjudice des effets de l'état de liquidation.
+La nullité de l'association ou de la fondation ne porte pas atteinte par elle-même à la validité de ses engagements ni à celle des engagements pris envers elle sans préjudice des effets de l'état de liquidation.  
+
+§ 3. Le paragraphe 1er, alinéa 1er et le paragraphe 2, alinéa 1er, sont applicables à la nullité pour vice de forme des modifications des dispositions des statuts et de l'acte constitutif.
 
 ### Chapitre 2. Règles de délibération, de nullité et de suspension des décisions d'organes de personnes morales et des décisions de l'assemblée générale des obligataires.
 
@@ -552,7 +556,7 @@ Les personnes morales agissent par leurs organes dont les pouvoirs sont détermi
 Sans préjudice de dispositions légales impératives, et nonobstant toute disposition statutaire qui attribue la compétence à un autre organe, l'assemblée générale, l'assemblée des associés ou l'assemblée générale des membres a le pouvoir de déterminer les conditions notamment financières auxquelles le mandat d'un membre de l'organe d'administration est octroyé et exercé, de même que les conditions dans lesquelles il est mis fin à ce mandat.
 
 ***Article 2:51***  
-Chaque membre d'un organe d'administration ou délégué à la gestion journalière est tenu à l'égard de la personne morale de la bonne exécution du mandat qu'il a reçu.
+Chaque membre d'un organe d'administration ou délégué à la gestion journalière est tenu à l'égard de la personne morale de la bonne exécution de la mission qui lui a été confiée.
 
 ***Article 2:52***  
 Lorsque des faits graves et concordants sont susceptibles de compromettre la continuité de l'entreprise, l'organe d'administration est tenu de délibérer sur les mesures qui devraient être prises pour assurer la continuité de l'activité économique pendant une période minimale de douze mois.
@@ -566,7 +570,7 @@ Chaque membre d'un organe d'administration ou délégué à la gestion journali�
 ***Article 2:55***  
 Lorsqu'une personne morale assume un mandat de membre d'un organe d'administration ou de délégué à la gestion journalière, elle désigne une personne physique comme représentant permanent chargé de l'exécution de ce mandat au nom et pour le compte de cette personne morale. Ce représentant permanent doit satisfaire aux mêmes conditions que la personne morale et encourt solidairement avec elle les mêmes responsabilités civiles et pénales, comme s'il avait exercé ce mandat en son nom et pour son compte. Les règles en matière de conflit d'intérêt applicables aux gérants et membres de l'organe d'administration s'appliquent le cas échéant au représentant permanent. Le représentant permanent ne peut siéger au sein de l'organe concerné ni à titre personnel ni en qualité de représentant d'une autre personne morale administrateur. La personne morale ne peut mettre fin à la représentation permanente sans avoir désigné simultanément un successeur.  
 Les règles de publicité en matière de désignation et de cessation du mandat de la personne morale s'appliquent également au représentant permanent de celle-ci.  
-Sans préjudice de l'alinéa 1er, le représentant permanent d'une personne morale qui est également associée dans une société en nom collectif ou une société en commandite ne contracte aucune responsabilité personnelle relative aux engagements de la personne morale en sa qualité d'associé.  
+Le représentant permanent d'une personne morale qui est administrateur et associé dans une société en nom collectif ou une société en commandite, ou qui est l'administrateur unique d'une société anonyme dont les statuts prévoient que l'administrateur est solidairement et indéfiniment responsable des obligations de la société, ne contracte aucune responsabilité personnelle relative aux engagements de la personne morale.  
 A défaut d'autres administrateurs au sein de la personne morale administrée outre la personne morale administrateur, celle-ci peut désigner, en plus du représentant permanent, un représentant permanent suppléant agissant en cas d'empêchement du représentant permanent. Les dispositions du présent article sont également d'application à ce représentant permanent suppléant.
 
 ### Chapitre 2. Responsabilité des administrateurs.
@@ -578,8 +582,8 @@ Même si l'organe d'administration ne forme pas un collège, ses membres répond
 Elles sont toutefois déchargées de leur responsabilité pour les fautes visées aux alinéas 2 et 3 auxquelles elles n'ont pas pris part si elles ont dénoncé la faute alléguée à tous les autres membres de l'organe d'administration, ou, le cas échéant, à l'organe d'administration collégial et au conseil de surveillance. Si elle est faite à un organe collégial d'administration ou de surveillance, cette dénonciation et les discussions auxquelles elle donne lieu sont mentionnées dans le procès-verbal.
 
 ***Article 2:57***  
-§ 1er. La responsabilité visée à l'article 2:56, de même que toute autre responsabilité en raison de dommages causés découlant du présent code ou d'autres lois ou règlements à charge des personnes mentionnées à l'article 2:51, ainsi que la responsabilité pour les dettes de la personne morale visées aux articles XX.225 et XX.227 du Code de droit économique sont limitées aux montants suivants:  
-1. 125 000 euros, dans des personnes morales qui ont réalisé pendant l'exercice précédant l'intentement de l'action en responsabilité, ou au cours de la période écoulée depuis la constitution si moins de trois exercices se sont écoulés depuis cette constitution un chiffre d'affaires moyen sur base annuelle inférieur à 350 000 euros, hors taxe sur la valeur ajoutée, et dont le total du bilan moyen au cours de la même période n'a pas dépassé 175 000 euros;  
+§ 1er. La responsabilité visée à l'article 2:56, de même que toute autre responsabilité en raison de dommages causés découlant du présent code ou d'autres lois ou règlements à charge des personnes mentionnées à l'article 2:51, ainsi que la responsabilité pour les dettes de la personne morale visées à l'article XX.227 du Code de droit économique sont limitées aux montants suivants:  
+1. 125 000 euros, dans des personnes morales qui ont réalisé pendant les trois exercices précédant l'intentement de l'action en responsabilité, ou au cours de la période écoulée depuis la constitution si moins de trois exercices se sont écoulés depuis cette constitution un chiffre d'affaires moyen sur base annuelle inférieur à 350 000 euros, hors taxe sur la valeur ajoutée, et dont le total du bilan moyen au cours de la même période n'a pas dépassé 175 000 euros;  
 2. 250 000 euros, dans les personnes morales qui ne relèvent pas du 1° et qui ont réalisé pendant les trois exercices précédant l'intentement de l'action en responsabilité, ou au cours de la période écoulée depuis la constitution si moins de trois exercices se sont écoulés depuis cette constitution un chiffre d'affaires moyen sur base annuelle inférieur à 700 000 euros, hors taxe sur la valeur ajoutée, et dont le total du bilan moyen au cours de la même période n'a pas dépassé 350 000 euros;  
 3. 1 million d'euros, dans les personnes morales qui ne relèvent pas du 1° et 2° et qui, pendant les trois exercices précédant l'intentement de l'action en responsabilité, ou au cours de la période écoulée depuis la constitution si moins de trois exercices se sont écoulés depuis cette constitution, n'ont pas dépassé plus d'une des limites suivantes:  
    + chiffre d'affaires moyen hors taxe sur la valeur ajoutée, sur base annuelle: 9 000 000 euros;  
@@ -602,7 +606,7 @@ Chaque fois que la hausse ou la baisse de l'indice des prix à la consommation e
 
 ***Article 2:58***  
 La responsabilité d'un membre d'un organe d'administration ou délégué à la gestion journalière ne peut être limitée au-delà de ce qui est prévu à l'article 2:57.  
-La personne morale, ses filiales ou les entités qu'elle contrôle ne peuvent par avance exonérer ou garantir les personnes visées à l'alinéa 1er de leur responsabilité envers la société ou les tiers.  
+La personne morale, ses filiales ou les entités qu'elle contrôle ne peuvent par avance exonérer ou garantir les personnes visées à l'alinéa 1er de leur responsabilité envers la personne morale ou les tiers.  
 Toute disposition résultant des statuts, d'un contrat ou d'un engagement par déclaration unilatérale de volonté contraire aux dispositions du présent article est réputée non écrite.
 
 ### Chapitre 3. Règlement d'ordre intérieur.
@@ -613,7 +617,7 @@ L'organe d'administration peut édicter un règlement d'ordre intérieur moyenna
 2. relatives aux matières pour lesquelles le présent code exige une disposition statutaire;  
 3. touchant aux droits des associés, actionnaires ou membres, aux pouvoirs des organes ou à l'organisation et au mode de fonctionnement de l'assemblée générale.  
 
-Le règlement d'ordre intérieur et toute modification de celui-ci sont communiqués aux associés, actionnaires ou membres conformément à l'article 2:32. Les statuts font référence à la dernière version approuvée du règlement interne. L'organe d'administration peut adapter cette référénce dans les statuts et la publier.
+Le règlement d'ordre intérieur et toute modification de celui-ci sont communiqués aux associés, actionnaires ou membres conformément à l'article 2:32 ou mis à la disposition sur le site internet de la personne morale. Les statuts font référence à la dernière version approuvée du règlement interne. L'organe d'administration peut adapter cette référénce dans les statuts et la publier.
 
 ## Titre 7. Résolution des conflits internes.
 
@@ -682,7 +686,7 @@ Le juge condamne le défendeur à accepter les titres, dans le délai qu'il fixe
 Lorsqu'il fixe le prix de reprise, le juge est tenu par les dispositions contractuelles ou statutaires relatives à la fixation de la valeur des titres, pour autant que ces dispositions se rapportent spécifiquement à l'hypothèse d'un retrait judiciaire et que ces conventions ne donnent pas lieu à un prix manifestement déraisonnable. En tous les cas, le juge peut se substituer à toute partie ou à tout tiers désigné par les statuts ou les conventions pour fixer le prix.  
 Le juge estime la valeur des titres au moment où il ordonne leur reprise, sauf si cela conduit à un résultat manifestement déraisonnable. Dans ce cas, il peut, en tenant compte de toutes les circonstances pertinentes, décider d'une augmentation ou d'une réduction de prix équitable.  
 Le juge peut ordonner le transfert de propriété contre le paiement d'un prix provisoire en attendant la fixation du prix définitif.  
-Le juge peut subordonner une partie du prix à l'accord des demandeurs sur le respect d'une clause de non-concurrence qu'il propose ou sur le renforcement d'une clause de non-concurrence existante. A la demande des défendeurs, le juge peut également les délier d'une clause de non-concurrence existante, ou limiter une telle clause, en liant éventuellement cette décision à une diminution du prix.  
+Le juge peut subordonner une partie du prix à l'accord des demandeurs sur le respect d'une clause de non-concurrence qu'il propose ou sur le renforcement d'une clause de non-concurrence existante. A la demande des demandeurs, le juge peut également les délier d'une clause de non-concurrence existante, ou limiter une telle clause, en liant éventuellement cette décision à une diminution du prix.  
 Le juge peut imposer aux défendeurs de lever ou de faire lever les sûretés réelles et personnelles accordées par les demandeurs en faveur de la société, ou de fournir à cet effet une contre-garantie appropriée.  
 La décision du juge tient lieu de titre pour la réalisation de toutes les formalités liées au transfert.  
 Le transfert a lieu, le cas échéant, après l'exercice des droits éventuels de préemption mentionnés dans le jugement, proportionnellement à la détention d'actions de chacun, à moins qu'il en soit convenu autrement.  
@@ -707,13 +711,13 @@ La dissolution entraîne la clôture de l'exercice.
 ##### Sous-section 2. Dissolution volontaire.
 
 ***Article 2:71***  
-§ 1er. La société à responsabilité limitée, la société coopérative, la société anonyme, la société européenne ou la société coopérative européenne, peut à tout moment être dissoute par une décision de l'assemblée générale prise moyennant le respect des formalités et des conditions de quorum et de majorité prévues par le présent code.  
+§ 1er. La décision de l'assemblée générale de dissolution de la société à responsabilité limitée, la société coopérative, la société anonyme, la société européenne ou la société coopérative européenne, qui peut être prise à tout moment, requiert une modification des statuts.  
 
 § 2. L'organe d'administration justifie la proposition de dissolution dans un rapport annoncé dans l'ordre du jour de l'assemblée appelée à se prononcer sur la dissolution.  
-A ce rapport est joint un état résumant la situation active et passive de la société, clôturé à une date ne remontant pas à plus de trois mois avant l'assemblée générale appelée à se prononcer sur la proposition de dissolution. Dans le cas où la société décide de mettre fin à ses activités ou si l'on ne peut plus escompter que la société poursuivra ses activités, l'état précité est établi conformément aux règles d'évaluation fixées en exécution de l'article 3:1, sauf dérogation motivée.  
+A ce rapport est joint un état résumant la situation active et passive de la société, clôturé à une date ne remontant pas à plus de trois mois avant l'assemblée générale appelée à se prononcer sur la proposition de dissolution. L'état précité est établi conformément aux règles d'évaluation fixées en exécution de l'article 3:1, sauf dérogation motivée.  
 Le commissaire ou, lorsqu'il n'y a pas de commissaire, un réviseur d'entreprises ou un expert-comptable externe désigné par l'organe d'administration contrôle cet état, en fait rapport et indique spécialement s'il donne une image fidèle de la situation de la société.  
 
-§ 3. Une copie des rapports et de l'état résumant la situation active et passive, visés au paragraphe 1er, est adressée aux associés conformément aux articles 5:84 ou 7:132, suivant le cas, s'il s'agit d'une société à responsabilité limitée, d'une société coopérative ou d'une société anonyme.  
+§ 3. Une copie des rapports et de l'état résumant la situation active et passive, visés au paragraphe 1er, est mise à la disposition aux associés conformément aux articles 5:84, 6:70, § 2, ou 7:132, suivant le cas, s'il s'agit d'une société à responsabilité limitée, d'une société coopérative ou d'une société anonyme.  
 
 § 4. En l'absence des rapports visés au présent article, la décision de l'assemblée générale est nulle.  
 
@@ -827,13 +831,13 @@ Le président du tribunal compétent peut, sur requête du ministère public ou 
 ##### Sous-section 4. Pouvoirs du liquidateur.
 
 ***Article 2:87***  
-§ 1er. Sauf disposition contraire dans les statuts, dans l'acte de nomination ou dans la décision judiciaire, le liquidateur a le pouvoir d'accomplir tous les actes nécessaires ou utiles à la liquidation de la société.  
-Les statuts, l'arrêté de nomination ou la décision judiciaire peuvent limiter les pouvoirs du liquidateur. Pareille limitation peut être opposée aux tiers, moyennant dépôt et publication conformément aux articles 2:8 et 2:14, 1°.  
-Par dérogation à l'alinéa 2, les limitations des pouvoirs du liquidateur intégrées dans les statuts, dans l'arrêté de nomination ou dans la décision judiciaire ne sont pas opposables aux tiers, s'il s'agit d'une société à responsabilité limitée, d'une société coopérative et d'une société anonyme, même si ces limitations ont été publiées.  
+§ 1er. Sauf disposition contraire dans les statuts, dans la décision de nomination ou dans la décision judiciaire, le liquidateur a le pouvoir d'accomplir tous les actes nécessaires ou utiles à la liquidation de la société.  
+Les statuts, la décision de nomination ou la décision judiciaire peuvent limiter les pouvoirs du liquidateur. Pareille limitation peut être opposée aux tiers, moyennant dépôt et publication conformément aux articles 2:8 et 2:14, 1°.  
+Par dérogation à l'alinéa 2, les limitations des pouvoirs du liquidateur intégrées dans les statuts, dans la décision de nomination ou dans la décision judiciaire ne sont pas opposables aux tiers, s'il s'agit d'une société à responsabilité limitée, d'une société coopérative et d'une société anonyme, même si ces limitations ont été publiées.  
 
 § 2. Le liquidateur représente la société à l'égard des tiers, y compris en justice.  
-Les statuts, l'arrêté de nomination ou la décision judiciaire peuvent apporter des restrictions à ce pouvoir de représentation. Pareille limitation peut être opposée aux tiers, moyennant dépôt et publication conformément aux articles 2:8 et 2:14, 1°.  
-Par dérogation à l'alinéa 2, les limitations du pouvoir de représentation du liquidateur intégrées dans les statuts, dans l'arrêté de nomination ou dans la décision judiciaire ne sont pas opposables aux tiers, s'il s'agit d'une société à responsabilité limitée, d'une société coopérative et d'une société anonyme, même si cette limitation a été déposée et publiée conformément aux articles 2:8 et 2:14, 1°.  
+Les statuts, la décision de nomination ou la décision judiciaire peuvent apporter des restrictions à ce pouvoir de représentation. Pareille limitation peut être opposée aux tiers, moyennant dépôt et publication conformément aux articles 2:8 et 2:14, 1°.  
+Par dérogation à l'alinéa 2, les limitations du pouvoir de représentation du liquidateur intégrées dans les statuts, dans la décision de nomination ou dans la décision judiciaire ne sont pas opposables aux tiers, s'il s'agit d'une société à responsabilité limitée, d'une société coopérative et d'une société anonyme, même si cette limitation a été déposée et publiée conformément aux articles 2:8 et 2:14, 1°.  
 
 § 3. Le liquidateur ne peut aliéner les immeubles de la société que s'il juge la vente nécessaire au paiement des dettes sociales. Sans préjudice des dispositions de l'article 2:88, § 1er, 5°, les immeubles sont toujours aliénés par adjudication publique.
 
@@ -1014,9 +1018,11 @@ Si la violation des dispositions visées à l'alinéa 1er, 1°, a lieu dans un b
 
 ***Article 2:109***  
 L'ASBL et l'AISBL sont dissoutes:  
-1. par une décision de l'assemblée générale;  
+1. par une décision de l'assemblée générale de l'ASBL ou de l'organe désigné par les statuts de l'AISBL;  
 2. de plein droit, à la suite d'un fait ou événement défini par la loi ou les statuts;  
-3. par une décision judiciaire.
+3. par une décision judiciaire.  
+
+La dissolution entraîne la clôture de l'exercice.
 
 ##### Sous-section 2. Dissolution volontaire.
 
@@ -1059,6 +1065,13 @@ L'action en dissolution visée au paragraphe 1er, 4°, ne peut être introduite 
 
 § 3. Le tribunal prononçant la dissolution peut soit ordonner la clôture immédiate de la liquidation, soit désigner un ou plusieurs liquidateurs. Dans ce dernier cas, le tribunal détermine les pouvoirs des liquidateurs et le mode de liquidation.  
 
+§ 3/1. Le jugement prononçant la dissolution judiciaire d'une ASBL ou d'une AISBL est susceptible d'opposition par la partie défaillante.  
+L'opposition n'est recevable que si elle est formée dans le mois de la publication au Moniteur belge par le greffe de la dissolution judiciaire.  
+Le délai pour former appel du jugement est d'un mois à compter de la publication au Moniteur belge par le greffe de la dissolution judiciaire.  
+L'appel, l'opposition ou la tierce opposition dirigés contre le jugement prononçant la dissolution judiciaire ou refusant de la déclarer, sont instruits avec célérité.  
+Si le jugement entrepris a désigné un liquidateur, celui-ci doit être appelé à la cause avant la clôture des débats.  
+A la demande de la partie la plus diligente, l'affaire est fixée pour être plaidée dans le mois de la demande de fixation.  
+
 § 4. Le tribunal pourra prononcer l'annulation de l'opération visée au paragraphe 1er, 3°, même s'il rejette la demande de dissolution.
 
 #### Section 2. Dissolution des fondations.
@@ -1069,14 +1082,21 @@ L'action en dissolution visée au paragraphe 1er, 4°, ne peut être introduite 
 2. qui n'est plus en mesure de poursuivre le but ou l'objet en vue duquel elle a été constituée;  
 3. qui affecte son patrimoine ou les revenus de celui-ci à des buts autres que celui en vue duquel elle a été constituée;  
 4. qui viole l'interdiction de distribuer ou de procurer un quelconque avantage patrimonial direct ou indirect tel que visé à l'article 1:3, ou contrevient au présent code ou à l'ordre public, ou contrevient gravement à ses statuts;  
-5. qui est restée en défaut de satisfaire à l'obligation de déposer les comptes annuels conformément à l'article 2:11, § 1er, 8°, pendant trois exercices consécutifs, à moins que les comptes annuels manquants ne soient déposés avant la clôture des débats;  
+5. qui n'a pas satisfait à l'obligation de déposer les comptes annuels conformément à l'article 2:11, § 1er, 8°, à moins que les comptes annuels manquants ne soient déposés avant la clôture des débats;  
 6. dont la durée est venue à échéance;  
 7. dont la condition résolutoire expresse prévue dans les statuts est accomplie.  
 
 § 2. Dans le cas prévu au paragraphe 1er, 5°, le tribunal peut également être saisi après renvoi par la chambre des entreprises en difficulté conformément à l'article XX.29 du Code de droit économique. En pareil cas, le greffe convoque la fondation par pli judiciaire qui reproduit le texte de cet article.  
-L'action en dissolution visée au paragraphe 1er, 5°, ne peut être introduite qu'à l'expiration d'un délai de sept mois suivant la date de clôture du troisième exercice comptable.  
+L'action en dissolution visée au paragraphe 1er, 5°, ne peut être introduite qu'à l'expiration d'un délai de sept mois suivant la date de clôture de l'exercice comptable.  
 
 § 3. Le tribunal prononçant la dissolution peut soit ordonner la clôture immédiate de la liquidation, soit désigner un ou plusieurs liquidateurs. Dans ce dernier cas, le tribunal définit les pouvoirs des liquidateurs et le mode de liquidation.  
+
+§ 3/1. Le jugement prononçant la dissolution judiciaire d'une fondation est susceptible d'opposition par la partie défaillante.  
+L'opposition n'est recevable que si elle est formée dans le mois de la publication au Moniteur belge par le greffe de la dissolution judiciaire.  
+Le délai pour former appel du jugement est d'un mois à compter de la publication au Moniteur belge par le greffe de la dissolution judiciaire.  
+L'appel, l'opposition ou la tierce opposition dirigés contre le jugement prononçant la dissolution judiciaire ou refusant de la déclarer, sont instruits avec célérité.  
+Si le jugement entrepris a désigné un liquidateur, celui-ci doit être appelé à la cause avant la clôture des débats.  
+A la demande de la partie la plus diligente, l'affaire est fixée pour être plaidée dans le mois de la demande de fixation.  
 
 § 4. Le tribunal pourra prononcer l'annulation de l'opération visée au paragraphe 1er, 3°, même s'il rejette la demande de dissolution.
 
@@ -1128,7 +1148,7 @@ Le président du tribunal compétent peut, sur requête du ministère public ou 
 ##### Sous-section 2. Pouvoirs du liquidateur.
 
 ***Article 2:121***  
-§ 1er. Sauf disposition contraire dans les statuts ou dans l'acte de nomination, les liquidateurs ont le pouvoir d'accomplir tous les actes nécessaires ou utiles à la liquidation de l'ASBL ou de l'AISBL.  
+§ 1er. Sauf disposition contraire dans les statuts ou dans la décision de nomination, les liquidateurs ont le pouvoir d'accomplir tous les actes nécessaires ou utiles à la liquidation de l'ASBL ou de l'AISBL.  
 Les statuts ou la décision de nomination peuvent limiter les pouvoirs des liquidateurs. Pareille limitation ne peut être opposée aux tiers, même si elle est publiée.  
 
 § 2. Les liquidateurs représentent l'ASBL ou l'AISBL à l'égard des tiers, y compris en justice.  
@@ -1177,11 +1197,11 @@ Ils peuvent cependant, sous leur garantie personnelle, payer d'abord les créanc
 
 ***Article 2:129***  
 § 1er. Lorsqu'il y a plusieurs liquidateurs qui peuvent agir séparément, et qu'ils sont appelés à prendre une décision ou se prononcer sur une opération relevant de leurs pouvoirs à propos de laquelle un liquidateur a un intérêt direct ou indirect de nature patrimoniale qui est opposé à l'intérêt de l'ASBL ou de l'AISBL, ce liquidateur doit en informer les autres liquidateurs. Sa déclaration et ses explications sur la nature de cet intérêt opposé doivent figurer dans le procès-verbal d'une réunion des autres liquidateurs. Ces autres liquidateurs peuvent eux-mêmes prendre la décision ou réaliser l'opération. Dans ce cas, le liquidateur qui a le conflit d'intérêts ne peut pas participer à la réunion des autres liquidateurs concernant cette décision ou opération.  
-Si tous les liquidateurs ont un conflit d'intérêts, la décision ou l'opération est soumise à l'assemblée générale; en cas d'approbation par celle-ci, les liquidateurs peuvent l'exécuter.  
+Si tous les liquidateurs ont un conflit d'intérêts, la décision ou l'opération est soumise à l'assemblée générale de l'ASBL ou à l'organe désigné par les statuts de l'AISBL; en cas d'approbation par l'assemblée générale de l'ASBL ou l'organe désigné par les statuts de l'AISBL, les liquidateurs peuvent l'exécuter.  
 
 § 2. S'il y a un collège de liquidateurs et qu'un membre du collège a un intérêt direct ou indirect de nature patrimoniale opposé à une décision ou à une opération qui relève de la compétence du collège, le collège est tenu de se conformer à l'article 9:8, applicable par analogie.  
 
-§ 3. S'il n'y a qu'un seul liquidateur et qu'il a un conflit d'intérêts, la décision ou l'opération est soumise à l'assemblée générale; en cas d'approbation par celle-ci, le liquidateur peut l'exécuter.
+§ 3. S'il n'y a qu'un seul liquidateur et qu'il a un conflit d'intérêts, la décision ou l'opération est soumise à l'assemblée générale de l'ASBL ou à l'organe désigné par les statuts de l'AISBL; en cas d'approbation par l'assemblée générale de l'ASBL ou l'organe désigné par les statuts de l'AISBL, le liquidateur peut l'exécuter.
 
 ##### Sous-section 5. Clôture et réouverture de la liquidation.
 
@@ -1213,9 +1233,9 @@ Le tribunal prononce la clôture de la liquidation.
 Sans préjudice de l'article 2:110, une dissolution et une liquidation dans un seul acte ne sont possibles que moyennant le respect des conditions suivantes:  
 1. aucun liquidateur n'est désigné;  
 2. toutes les dettes à l'égard de membres ou de tiers mentionnées dans l'état résumant la situation active et passive visé à l'article 2:110, § 2, alinéa 2, ont été remboursées ou les sommes nécessaires à leur acquittement ont été consignées; le commissaire, qui fait rapport conformément à l'article 2:110, § 2, alinéa 3, ou, lorsqu'il n'y a pas de commissaire, un réviseur d'entreprises, ou un expert-comptable externe confirme ce paiement ou cette consignation dans les conclusions de son rapport; le remboursement ou la consignation n'est toutefois pas requis pour ce qui concerne les dettes à l'égard de membres ou de tiers dont la créance figure dans l'état résumant la situation active et passive visé à l'article 2:110, § 2, alinéa 2, et qui ont confirmé par écrit leur accord sur l'application de l'article 2:135; le commissaire, qui fait rapport conformément à l'article 2:110, § 2, alinéa 3, ou, lorsqu'il n'y a pas de commissaire, le réviseur d'entreprises ou l'expert-comptable externe, confirme l'existence de cet accord écrit dans les conclusions de son rapport;  
-3. tous les membres sont présents ou représentés à l'assemblée générale et se prononcent à l'unanimité des voix.  
+3. tous les membres sont présents ou représentés à l'assemblée générale de l'ASBL ou à la réunion de l'organe désigné par les statuts de l'AISBL et se prononcent à l'unanimité des voix.  
 
-L'actif restant est affecté au but désintéressé à cette fin indiqué dans les statuts, ou, à défaut, au but désintéressé que l'assemblée générale indique dans le respect des conditions de quorum et de majorité requises pour la modification des statuts.
+L'actif restant est affecté au but désintéressé à cette fin indiqué dans les statuts, ou, à défaut, au but désintéressé que l'assemblée générale de l'ASBL ou l'organe désigné par les statuts de l'AISBL indique dans le respect des conditions de quorum et de majorité requises pour la modification des statuts.
 
 ***Article 2:136***  
 La clôture de la liquidation est publiée conformément aux articles 2:7 et 2:13.  
@@ -1234,7 +1254,7 @@ Pour chaque liquidation, les pièces suivantes sont déposées au greffe dans le
 Tout intéressé peut prendre gratuitement connaissance du dossier et en obtenir copie moyennant paiement des frais de greffe.
 
 ***Article 2:138***  
-§ 1er. Tout créancier qui n'a pas recouvré l'intégralité de sa créance peut demander la réouverture de la liquidation si la liquidation était déficitaire lors de la clôture et s'il s'avère après celle-ci qu'un ou plusieurs actifs de l'ASBL ou de l'AISBL ont été oubliés.  
+§ 1er. Tout créancier qui n'a pas recouvré l'intégralité de sa créance peut demander la réouverture de la liquidation s'il s'avère après la clôture qu'un ou plusieurs actifs de l'ASBL ou de l'AISBL ont été oubliés.  
 L'action en réouverture de la liquidation est introduite contre le dernier liquidateur en fonction.  
 Le tribunal n'ordonne la réouverture de la liquidation que si la valeur de l'actif oublié dépasse les frais de réouverture. Le tribunal peut remplacer le liquidateur.  
 
@@ -1286,7 +1306,7 @@ Les actions contre les sociétés, les associations et les fondations se prescri
 § 3. L'action en réouverture de la liquidation se prescrit après l'expiration d'un délai de cinq ans à compter de la publication de la clôture de la liquidation. Elle ne peut plus être introduite après l'expiration d'un délai d'un an à compter du jour de la découverte de l'actif oublié.  
 
 § 4. Les actions en nullité d'une fusion ou d'une scission prévues aux articles 12:19, 12:20 et 13:7, ne peuvent plus être intentées après l'expiration d'un délai de six mois à compter de la date à laquelle la fusion ou la scission est opposable à celui qui invoque la nullité, ou si la situation a été régularisée.  
-Les actions en nullité d'une décision d'un organe d'une personne morale prévues par l'article 2:44 ne peuvent plus être intentées après l'expiration d'un délai de six mois à compter de la date à laquelle les décisions prises sont opposables à celui qui invoque la nullité ou sont connues de lui.
+Les actions en nullité d'une décision d'un organe d'une personne morale ou de l'assemblée générale des obligataires d'une société prévues par l'article 2:44 ne peuvent plus être intentées après l'expiration d'un délai de six mois à compter de la date à laquelle les décisions prises sont opposables à celui qui invoque la nullité ou sont connues de lui.
 
 ***Article 2:144***  
 Les créanciers peuvent, dans toutes les sociétés, faire décréter par justice les versements stipulés aux statuts et qui sont nécessaires à la conservation de leurs droits; la société peut écarter l'action en remboursant leur créance à sa valeur, après déduction de l'escompte.  
@@ -1306,7 +1326,7 @@ Les membres de l'organe d'administration, délégués à la gestion journalière
 
 ***Article 2:148***  
 Les personnes morales qui ont leur siège statutaire à l'étranger, peuvent exercer leurs activités, ester en justice en Belgique, et y établir une succursale.  
-Toutefois les actions intentées par les personnes morales étrangères qui ont une succursale en Belgique, sont irrecevables si elles n'ont pas déposé leur acte constitutif conformément à l'article 2:24.
+Toutefois les actions intentées par les personnes morales étrangères qui ont une succursale en Belgique, sont irrecevables si elles n'ont pas déposé leur acte constitutif conformément aux articles 2:24, 2:25 ou 2:26.
 
 ***Article 2:149***  
 Ceux qui sont préposés à la gestion de la succursale belge d'une personne morale étrangère sont soumis à la même responsabilité envers les tiers que ceux qui gèrent une personne morale belge.

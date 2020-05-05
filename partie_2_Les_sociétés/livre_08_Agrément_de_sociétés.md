@@ -15,7 +15,7 @@ Une société coopérative peut être reconnue comme une entreprise agricole dan
 
 ***Article 8:3***  
 Pour l'application de la loi sur le bail à ferme, l'exploitation à titre d'associé gérant d'une SNCEA, d'associé commandité d'une SCommEA, d'administrateur d'une SRLEA ou d'administrateur d'une SCEA, est assimilée à l'exploitation personnelle. Cette règle s'applique tant au preneur qu'au bailleur, dont les droits et obligations subsistent intégralement.  
-En cas d'apport de la propriété, du droit d'usage ou du droit de jouissance du bien loué par le bailleur dans une SNCEA, une SCommEA, d'une SRLEA ou d'une SCEA, cette société ne peut donner le congé que si le bailleur-apporteur, son conjoint, ses descendants ou enfants adoptifs ou ceux de son conjoint, ont, selon le cas, le statut d'associé gérant, d'associé commandité ou d'administrateur dans la société.
+En cas d'apport de la propriété, du droit d'usage ou du droit de jouissance du bien loué par le bailleur dans une SNCEA, une SCommEA, d'une SRLEA ou d'une SCEA, cette société ne peut donner le congé que si le bailleur-apporteur, son conjoint ou son cohabitant légal, ses descendants ou enfants adoptifs ou ceux de son conjoint ou de son cohabitant légal, ont, selon le cas, le statut d'associé gérant, d'associé commandité ou d'administrateur dans la société.
 
 ## Titre 3. L'agrément de la société coopérative, comme entreprise sociale ou non.
 

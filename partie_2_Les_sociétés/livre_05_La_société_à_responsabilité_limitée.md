@@ -6,9 +6,12 @@
 La société à responsabilité limitée est une société dépourvue de capital dont les actionnaires n'engagent que leur apport.
 
 ***Article 5:2***  
-Si une société à responsabilité limitée est cotée au sens de l'article 1:11, les articles 7:53, 7:61, § 1er, alinéas 3 et 5, deuxième phrase, 7:82, § 1er, 7:83, 7:84, 7:86, 7:87, 7:90, 7:91, 7:97, 7:99, 7:100, 7:108, dernier alinéa, 7:128, 7:129, §§ 2 et 3, 7:130, 7:131, 7:132, alinéas 2 et 3, 7:134, § 2, 7:139, alinéa 4, 7:143, 7:144, 7:145, 7:146, § 3, alinéa 3, et § 4, 7:148, 7:150, 7:151, 7:175, 7:189, 7:215, § 1er, 4°, et § 2, et 7:218, 2°, s'appliquent par analogie.  
-Lorsque dans une des dispositions précitées, il est fait référence à une fraction ou un pourcentage du capital, cette disposition doit être lue comme une fraction ou un pourcentage du nombre d'actions émises.  
-Par dérogation à l'article 5:42, alinéa 1er, chaque action ne peut avoir qu'une voix.
+Si une société à responsabilité limitée est cotée au sens de l'article 1:11, les règles suivantes sont d'application:  
+1. s'il y a plusieurs administrateurs, ils forment un collège;  
+2. les articles 7:53, 7:61, § 1er, alinéas 3 et 5, deuxième phrase, 7:82, § 1er, 7:83, 7:84, 7:86, 7:87, 7:89/1, 7:90, 7:91, 7:97, 7:99, 7:100, 7:101, § 1er, alinéa 2, 7:128, 7:129, §§ 2 et 3, 7:130, 7:131, 7:132, alinéas 2 et 3, 7:134, § 2, 7:139, alinéa 4, 7:143, 7:144, 7:145, 7:146, § 3, alinéa 3, et §§ 4 et 5, 7:146/1, 7:146/2, 7:148, 7:150, 7:151, 7:175, 7:189, 7:215, § 1er, 4°, et § 2, et 7:218, 2°, s'appliquent par analogie;  
+3. par dérogation à l'article 5:42, alinéa 1er, chaque action ne peut avoir qu'une voix, sans préjudice de l'application de l'article 7:53.  
+
+Lorsque dans une des dispositions visées à l'alinéa 1er, 2°, il est fait référence à une fraction ou un pourcentage du capital, cette disposition doit être lue comme une fraction ou un pourcentage du nombre d'actions émises.  
 
 ## Titre 2. Constitution.
 
@@ -167,7 +170,7 @@ La société tient à son siège un registre pour chaque catégorie de titres no
 ***Article 5:25***  
 Le registre des actions nominatives mentionne:  
 1. le nombre total des actions émises par la société et, le cas échéant, le nombre total par classe;  
-2. pour les personnes physiques, le nom et le domicile et pour les personnes morales, la dénomination, le siège et le numéro d'immatriculation visé à l'article 2:24, § 1er, 3°, et § 2, 3°, de chaque actionnaire;  
+2. pour les personnes physiques, le nom et le domicile et pour les personnes morales, la dénomination et le siège de chaque actionnaire;  
 3. le nombre d'actions détenues par chaque actionnaire et leur classe;  
 4. les versements faits sur chaque action;  
 5. les restrictions relatives à la cessibilité résultant des statuts et, lorsqu'une des parties le demande, les restrictions relatives à la cessibilité des actions résultant de conventions ou des conditions d'émission;  
@@ -205,6 +208,7 @@ L'organe d'administration délivre à la demande de celui qui est inscrit en qua
 Le titre dématérialisé est représenté par une inscription en compte, au nom de son propriétaire ou de son détenteur, auprès d'un organisme de liquidation ou d'un teneur de comptes agréé.  
 Le Roi désigne par catégorie de titres les organismes de liquidation chargés d'assurer la conservation des titres dématérialisés et la liquidation des transactions sur de tels titres. Il agrée les teneurs de comptes en Belgique de manière individuelle ou de manière générale par catégorie d'établissements, en fonction de leur activité.  
 Le nombre des titres dématérialisés en circulation à tout moment est inscrit, par catégorie de titres, dans le registre des titres nominatifs au nom de l'organisme de liquidation ou, le cas échéant, du teneur de comptes agréé en cas d'application de l'article 5:39.  
+Par dérogation à l'alinéa qui précède, pour les obligations l'inscription visée par ledit alinéa concerne non le nombre des titres dématérialisés, mais leur montant total.  
 L'inscription de titres en compte confère un droit de copropriété, de nature incorporelle, sur l'universalité des titres de même catégorie inscrits au nom de l'organisme de liquidation ou, le cas échéant, du teneur de comptes agréé en cas d'application de l'article 5:39, dans le registre des titres nominatifs visé à l'alinéa 3.  
 La Banque nationale de Belgique est chargée de contrôler le respect, par les teneurs de comptes agréés en Belgique, des règles prévues par ou en vertu de la présente section. Pour l'exercice de ce contrôle, pour l'imposition de sanctions administratives et pour la prise d'autres mesures à l'égard des teneurs de comptes agréés, la Banque nationale de Belgique:  
 1. utilise, s'agissant d'établissements de crédit, les compétences qui lui ont été attribuées par la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse;  
@@ -299,11 +303,11 @@ Sont nulles:
 ##### Sous-section 2. Actions sans droit de vote.
 
 ***Article 5:47***  
-§ 1er. En cas d'émission d'actions sans droit de vote, celles-ci donnent néanmoins droit à une voix par action au moins dans les cas suivants, nonobstant toute disposition contraire:  
+§ 1er. En cas d'émission d'actions sans droit de vote, celles-ci donnent néanmoins droit à une voix par action dans les cas suivants, nonobstant toute disposition contraire:  
 1. dans le cas visé à l'article 5:102;  
 2. en cas de transformation de la société;  
 3. en cas de fusion transfrontalière entraînant la dissolution la société;  
-4. en cas de déplacement transfrontalier du siège statutaire conformément à l'article 14:15.  
+4. en cas de déplacement transfrontalier du siège conformément à l'article 14:15.  
 
 § 2. En cas d'émission d'actions sans droit de vote auxquelles un dividende privilégié est attribué, ces actions bénéficient néanmoins d'un droit de vote, nonobstant toute disposition statutaire contraire, la décision d'émission ou une convention si les dividendes privilégiés n'ont pas été entièrement mis en paiement durant deux exercices successifs. Le droit de vote cesse à nouveau lorsqu'il est distribué un dividende qui, additionné au dividende de l'exercice concerné, est équivalent au montant des dividendes privilégiés non distribués.
 
@@ -315,24 +319,24 @@ Lorsqu'il est attaché à une action ou à une série d'actions d'autres droits 
 #### Section 3. Certificats.
 
 ***Article 5:49***  
-§ 1er. Des certificats se rapportant à des actions peuvent être émis, en collaboration ou non avec la société, par une personne morale qui conserve ou acquiert la propriété des actions auxquelles se rapportent les certificats et s'engage à réserver tout produit ou revenu de ces actions au titulaire des certificats. Ces certificats doivent être nominatifs.  
-L'émetteur des certificats exerce tous les droits attachés aux actions auxquelles ils se rapportent, en ce compris le droit de vote.  
-L'émetteur des certificats est tenu de se faire connaître en cette qualité à la société qui a émis les actions certifiées.  
-Celle-ci portera cette mention au registre des actions.  
-L'émetteur de certificats met en paiement immédiatement, sauf disposition contraire dans les conditions d'émission, sous déduction de ses frais éventuels, au titulaire de certificats les dividendes et le produit de liquidation éventuellement distribués par la société ainsi que toute somme provenant d'un remboursement de l'apport.  
-Sauf disposition contraire dans les conditions d'émission, l'émetteur de certificats ne peut céder les actions auxquelles se rapportent les certificats.  
-Les certificats sont échangeables en actions auxquelles ils se rapportent. L'échangeabilité peut être exclue pour une durée déterminée ou indéterminée dans les conditions d'émission.  
+§ 1er. Des certificats se rapportant à des actions, obligations convertibles ou droits de souscription peuvent être émis, en collaboration ou non avec la société, par une personne morale qui conserve ou acquiert la propriété des titres auxquels se rapportent les certificats et s'engage à réserver tout produit ou revenu de ces titres au titulaire des certificats. Ces certificats doivent être nominatifs.  
+L'émetteur des certificats exerce tous les droits attachés aux titres auxquels ils se rapportent, en ce compris le droit de vote.  
+L'émetteur des certificats se rapportant à des titres nominatifs est tenu de se faire connaître en cette qualité à la société qui a émis les titres certifiés.  
+Celle-ci portera cette mention au registre concerné.  
+L'émetteur de certificats se rapportant à des actions met en paiement immédiatement, sauf disposition contraire dans les conditions d'émission, sous déduction de ses frais éventuels, au titulaire de certificats les dividendes, l'éventuel produit du droit de souscription et le produit de liquidation éventuellement distribués par la société ainsi que toute somme provenant d'un remboursement de l'apport.  
+Sauf disposition contraire dans les conditions d'émission, l'émetteur de certificats ne peut céder les titres auxquels se rapportent les certificats.  
+Les certificats sont échangeables en actions, obligations ou droits de souscription auxquels ils se rapportent. L'échangeabilité peut être exclue pour une durée déterminée ou indéterminée dans les conditions d'émission.  
 Nonobstant toute disposition contraire, l'échange peut être obtenu à tout moment par chaque titulaire de certificats en cas d'inexécution des obligations de l'émetteur à son égard ou lorsque ses intérêts sont gravement méconnus.  
 
-§ 2. En cas de faillite de l'émetteur de certificats ou de toute autre situation de concours, les certificats sont échangés de plein droit nonobstant toute disposition contraire des conditions d'émission et les titulaires de certificats exercent collectivement leur revendication sur l'universalité des actions certifiées émises par la même société, appartenant à l'émetteur de certificats.  
-Si, dans le cas visé à l'alinéa précédent, cette universalité est insuffisante pour assurer la restitution intégrale des actions, elle sera répartie entre les titulaires de certificats en proportion de leurs droits.
+§ 2. En cas de faillite de l'émetteur de certificats ou de toute autre situation de concours, les certificats sont échangés de plein droit nonobstant toute disposition contraire des conditions d'émission et les titulaires de certificats exercent collectivement leur revendication sur l'universalité des titres certifiés de la même catégorie et classe émis par la même société, appartenant à l'émetteur de certificats.  
+Si, dans le cas visé à l'alinéa précédent, cette universalité est insuffisante pour assurer la restitution intégrale des titres, elle sera répartie entre les titulaires de certificats en proportion de leurs droits.
 
 #### Section 4. Obligations.
 
 ##### Sous-section 1. Dispositions générales.
 
 ***Article 5:50***  
-La société à responsabilité limitée peut contracter des emprunts sous la forme d'émission d'obligations nominatives, le cas échéant convertibles en actions, la conversion pouvant intervenir indifféremment, selon les conditions d'émission, soit à l'option de l'obligataire ou de la société, soit automatiquement, le cas échéant, à certaines conditions. Les obligations peuvent être émises pour une durée déterminée ou à titre perpétuel.
+La société à responsabilité limitée peut contracter des emprunts sous la forme d'émission d'obligations, le cas échéant convertibles en actions, la conversion pouvant intervenir indifféremment, selon les conditions d'émission, soit à l'option de l'obligataire ou de la société, soit automatiquement, le cas échéant, à certaines conditions. Les obligations peuvent être émises pour une durée déterminée ou à titre perpétuel.
 
 ***Article 5:51***  
 § 1er. Les conditions d'émission ou l'assemblée générale des obligataires peuvent désigner un ou plusieurs représentants des obligataires faisant partie de la même émission ou du même programme d'émission. Dans les limites des articles 1984 à 2010 du Code civil, ces représentants peuvent engager tous les obligataires de cette émission ou de ce programme d'émission à l'égard de tiers. Ils peuvent notamment représenter les obligataires dans les procédures d'insolvabilité, en cas de saisie ou dans tout autre cas de concours, dans lequel ils interviennent en leur nom mais pour le compte des obligataires, sans divulguer l'identité de ceux-ci.  
@@ -400,10 +404,10 @@ Un transfert d'un titre dématérialisé n'est opposable à la société et aux 
 § 1er. Sauf disposition statutaire contraire, tout transfert d'actions à titre particulier ou à titre universel, à titre onéreux ou à titre gratuit, entre vifs ou à cause de mort est soumis à l'agrément d'au moins la moitié des actionnaires possédant les trois quarts au moins des actions, déduction faite des actions dont la cession est proposée. Cet agrément doit être établi par écrit.  
 Cet agrément n'est toutefois pas requis lorsque les actions sont cédées ou transmises:  
 1. à un actionnaire;  
-2. au conjoint du cédant;  
+2. au conjoint ou au cohabitant légal du cédant;  
 3. à des ascendants ou descendants du cédant en ligne directe.  
 
-§ 2. Les cessions réalisées en méconnaissance du paragraphe 1er ne sont pas opposables à la société ni aux tiers, indépendamment de la bonne ou la mauvaise foi du cessionnaire, et même lorsqu'une restriction statutaire à la cessibilité n'est pas reprise dans le registre des actionnaires.
+§ 2. Les cessions réalisées en méconnaissance du paragraphe 1er ne sont pas opposables à la société ni aux tiers, indépendamment de la bonne ou la mauvaise foi du cessionnaire.
 
 ***Article 5:64***  
 Les parties à la cession proposée pourront, conformément à l'article 5:63, § 1er, s'opposer au refus d'agrément d'une cession entre vifs devant le président du tribunal de l'entreprise siégeant comme en référé. La société, les parties à la cession proposée et les actionnaires qui se sont opposés à la cession sont appelés à la cause.  
@@ -423,7 +427,8 @@ Sauf convention contraire, le cédant d'une action non libérée auquel la libé
 #### Section 3. Restrictions à la cessibilité des titres.
 
 ***Article 5:67***  
-Les statuts, les conditions d'émission de titres ou des conventions peuvent limiter la cessibilité entre vifs ou la transmissibilité à cause de mort des actions, de droits de souscription ou de tous les autres titres donnant accès à des actions. Des conventions ou des conditions d'émission de titres ne peuvent pas assouplir les conditions légales ou statutaires applicables à leur cessibilité.
+Les statuts, les conditions d'émission de titres ou des conventions peuvent limiter la cessibilité entre vifs ou la transmissibilité à cause de mort des actions, de droits de souscription ou de tous les autres titres donnant accès à des actions. Des conventions ou des conditions d'émission de titres ne peuvent pas assouplir les conditions légales ou statutaires applicables à leur cessibilité.  
+Une cession contraire aux restrictions à la cessibilité qui figurent dans des statuts publiés régulièrement, n'est opposable ni à la société ni aux tiers, que le cessionnaire soit de bonne ou de mauvaise foi, même lorsque la restriction statutaire ne figure pas dans le registre des actionnaires.
 
 ***Article 5:68***  
 Les statuts et les conditions d'émission de titres nominatifs ou dématérialisés autres que des actions, des droits de souscription ou des autres titres donnant accès à des actions peuvent limiter la cessibilité entre vifs ou à cause de mort.  
@@ -433,7 +438,7 @@ Les conditions d'émission de titres visés à l'alinéa 1er sont publiées rég
 #### Section 4. Offre de reprise.
 
 ***Article 5:69***  
-§ 1er. Toute personne physique ou morale qui, agissant seule ou de concert, détient 95 % des actions avec droit de vote d'une société à responsabilité limitée peut faire une offre de reprise afin d'acquérir la totalité des actions avec droit de vote ou des titres donnant accès au droit de vote de cette société.  
+§ 1er. Toute personne physique ou morale qui, agissant seule ou de concert, détient directement ou indirectement 95 % des actions avec droit de vote d'une société à responsabilité limitée peut faire une offre de reprise afin d'acquérir la totalité des actions avec droit de vote ou des titres donnant accès au droit de vote de cette société.  
 On entend par personnes agissant de concert:  
    +  les personnes physiques ou morales qui coopèrent sur la base d'un accord, formel ou tacite, oral ou écrit, visant à obtenir le contrôle de la société ou à le maintenir;  
    +  les personnes physiques ou morales qui ont conclu un accord portant sur l'exercice concerté de leurs droits de vote, en vue de mener une politique commune durable vis-à-vis de la société concernée.  
@@ -482,7 +487,7 @@ Sauf disposition statutaire contraire ou à moins que l'assemblée générale n'
 Les statuts peuvent apporter des restrictions aux pouvoirs de chaque administrateur. Une telle restriction n'est pas opposable aux tiers, même si elle est publiée. Il en va de même pour une répartition des tâches entre les administrateurs.  
 Les statuts peuvent prévoir que les administrateurs constituent un organe d'administration collégial. Les statuts peuvent apporter des restrictions aux pouvoirs de cet organe d'administration collégial. Une telle restriction n'est pas opposable aux tiers, même si elle est publiée. Il en va de même pour une répartition des tâches entre les administrateurs.  
 
-§ 2. Chaque administrateur ou, en cas d'organe d'administration collégial, l'organe d'administration représente la société à l'égard des tiers, en ce compris la représentation en justice. Toutefois, les statuts peuvent stipuler que la société est représentée par un ou plusieurs administrateurs désignés à cet effet, ou par plusieurs administrateurs agissant conjointement. Une telle clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
+§ 2. Chaque administrateur ou, en cas d'organe d'administration collégial, l'organe d'administration représente la société à l'égard des tiers, en ce compris la représentation en justice. Toutefois, les statuts peuvent prévoir que la société est représentée par un ou plusieurs administrateurs, agissant seuls ou conjointement. Une telle clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
 Les statuts peuvent apporter des restrictions à ce pouvoir de représentation. Ces restrictions ne sont pas opposables aux tiers, même si elles sont publiées. Il en va de même pour une répartition des tâches entre les administrateurs ayant le pouvoir de représentation.
 
 ***Article 5:74***  
@@ -518,7 +523,7 @@ Sans préjudice de l'article 2:56, les administrateurs sont personnellement et s
 #### Section 4. Gestion journalière.
 
 ***Article 5:79***  
-L'organe d'administration peut charger une ou plusieurs personnes, qui agissent chacune individuellement, conjointement ou collégialement de la gestion journalière de la société, ainsi que de la représentation de la société en ce qui concerne cette gestion. Leur nomination, leur révocation et leurs pouvoirs sont déterminés par les statuts. L'organe d'administration qui a désigné l'organe de gestion journalière est chargé de la surveillance de celui-ci.  
+L'organe d'administration peut charger une ou plusieurs personnes, qui agissent chacune individuellement, conjointement ou collégialement de la gestion journalière de la société, ainsi que de la représentation de la société en ce qui concerne cette gestion. L'organe d'administration qui a désigné l'organe de gestion journalière est chargé de la surveillance de celui-ci.  
 La gestion journalière comprend aussi bien les actes et les décisions qui n'excèdent pas les besoins de la vie quotidienne de la société que les actes et les décisions qui, soit en raison de leur intérêt mineur qu'ils représentent soit en raison de leur caractère urgent, ne justifient pas l'intervention de l'organe d'administration.  
 La disposition selon laquelle la gestion journalière est confiée à une ou plusieurs personnes qui agissent chacune individuellement, conjointement ou collégialement est opposable aux tiers aux conditions fixées à l'article 2:18. Les restrictions apportées au pouvoir de représentation de l'organe chargé de la gestion journalière ne sont toutefois pas opposables aux tiers, même si elles sont publiées.
 
@@ -535,7 +540,7 @@ Dans l'application du présent chapitre, la société veille à assurer l'égali
 
 ***Article 5:81***  
 L'assemblée générale des actionnaires exerce les pouvoirs que lui confère le présent code.  
-Les statuts peuvent étendre les pouvoirs de l'assemblée générale. Une telle extension n'est pas opposable aux tiers, sauf si la société prouve que le tiers en avait connaissance ou ne pouvait l'ignorer compte tenu des circonstances, sans que la seule publication des statuts suffise à constituer cette preuve.
+Les statuts peuvent étendre les pouvoirs de l'assemblée générale. Une telle extension n'est pas opposable aux tiers, même si elle est publiée.
 
 ***Article 5:82***  
 Lorsque la société ne compte qu'un seul actionnaire, il exerce les pouvoirs dévolus à l'assemblée générale. Il ne peut les déléguer.
@@ -545,7 +550,7 @@ Lorsque la société ne compte qu'un seul actionnaire, il exerce les pouvoirs d�
 ***Article 5:83***  
 L'organe d'administration et, le cas échéant, le commissaire, convoquent l'assemblée générale et en fixent l'ordre du jour. Ils doivent convoquer l'assemblée générale dans un délai de trois semaines lorsque des actionnaires qui représentent un dixième du nombre d'actions en circulation le demandent, avec au moins les points de l'ordre du jour proposés par ces actionnaires.  
 La convocation à l'assemblée générale contient l'ordre du jour avec les sujets à traiter.  
-Elle est communiquée, conformément à l'article 2:32, au moins quinze jours avant l'assemblée, aux actionnaires, aux titulaires d'obligations convertibles nominatives, de droits de souscription nominatifs ou de certificats nominatifs émis avec la collaboration de la société, aux membres de l'organe d'administration et, le cas échéant, au commissaire.
+Elle est communiquée, conformément à l'article 2:32, au moins quinze jours avant l'assemblée, aux actionnaires, aux actionnaires sans droit de vote, aux titulaires d'obligations convertibles nominatives, de droits de souscription nominatifs ou de certificats nominatifs émis avec la collaboration de la société, aux membres de l'organe d'administration et, le cas échéant, au commissaire.
 
 ***Article 5:84***  
 En même temps que la convocation à l'assemblée générale, la société fournit aux actionnaires les pièces qu'elle doit mettre à leur disposition en vertu du présent code, de la manière visée à l'article 2:32.  
@@ -560,7 +565,7 @@ Les actionnaires peuvent, à l'unanimité et par écrit, prendre toutes les déc
 
 ***Article 5:86***  
 Les actionnaires peuvent participer à l'assemblée générale.  
-Les titulaires d'obligations convertibles, de droits de souscription et de certificats émis en collaboration avec la société peuvent assister à l'assemblée générale avec voix consultative.
+Les titulaires d'actions sans droit de vote, d'obligations convertibles, de droits de souscription et de certificats émis en collaboration avec la société peuvent assister à l'assemblée générale avec voix consultative.
 
 ***Article 5:87***  
 Les membres de l'organe d'administration assistent à l'assemblée générale.  
@@ -589,11 +594,11 @@ Lorsque la société autorise le vote à distance sous forme électronique, elle
 ##### Sous-section 6. Tenue de l'assemblée générale.
 
 ***Article 5:90***  
-Il est tenu à chaque assemblée générale une liste des présences. Ceux qui ont participé à l'assemblée générale ou qui y étaient représentés peuvent consulter cette liste pour autant que les statuts le prévoient.
+Il est tenu à chaque assemblée générale une liste des présences. Tout actionnaire peut consulter cette liste.
 
 ***Article 5:91***  
 Les membres de l'organe d'administration répondent aux questions qui leur sont posées oralement ou par écrit avant ou pendant l'assemblée générale par les titulaires d'actions, d'obligations convertibles ou de droits de souscription ou de certificats émis avec la collaboration de la société et qui portent sur les points à l'ordre du jour. Les membres de l'organe d'administration peuvent, dans l'intérêt de la société, refuser de répondre aux questions lorsque la communication de certaines données ou de certains faits peut porter préjudice à la société ou qu'elle viole les engagements de confidentialité souscrits par eux ou par la société.  
-Le commissaire répond aux questions qui lui sont posées oralement ou par écrit avant ou pendant l'assemblée générale par les titulaires d'actions, d'obligations convertibles, de droits de souscription et de certificats émis en collaboration avec la société et qui portent sur les points de l'ordre du jour à propos desquels il fait rapport. Les questions écrites adressées au commissaire doivent dans le même temps être transmises à la société. Il peut, dans l'intérêt de la société, refuser de répondre aux questions lorsque la communication de certaines données ou de certains faits peut porter préjudice à la société ou qu'elle viole le secret professionnel auquel il est tenu ou les engagements de confidentialité souscrits par la société. Il a le droit de prendre la parole à l'assemblée générale en relation avec l'accomplissement de sa mission.  
+Le commissaire communique sans délai les questions écrites qu'il reçoit à l'organe d'administration et répond aux questions qui lui sont posées oralement ou par écrit avant ou pendant l'assemblée générale par les titulaires d'actions, d'obligations convertibles, de droits de souscription et de certificats émis en collaboration avec la société et qui portent sur les points de l'ordre du jour à propos desquels il fait rapport. Il peut, dans l'intérêt de la société, refuser de répondre aux questions lorsque la communication de certaines données ou de certains faits peut porter préjudice à la société ou qu'elle viole le secret professionnel auquel il est tenu ou les engagements de confidentialité souscrits par la société. Il a le droit de prendre la parole à l'assemblée générale en relation avec l'accomplissement de sa mission.  
 Les membres de l'organe d'administration et le commissaire peuvent donner une réponse groupée à différentes questions portant sur le même sujet.  
 Dès le moment où l'assemblée générale est convoquée, les actionnaires et les titulaires d'obligations convertibles, de droits de souscription et de certificats émis avec la collaboration de la société peuvent, dans les délais définis dans les statuts, poser des questions par écrit à l'adresse communiquée dans la convocation à l'assemblée ou à l'adresse électronique visée à l'article 2:31. Si les titulaires de titres concernés ont rempli les formalités pour être admis à l'assemblée, il sera répondu à ces questions pendant la réunion.
 
@@ -638,6 +643,7 @@ L'organe d'administration a le droit de proroger, séance tenante, la décision 
 ##### Sous-section 1. Modification des statuts en général.
 
 ***Article 5:100***  
+L'assemblée générale a le droit d'apporter des modifications aux statuts.  
 L'assemblée générale ne peut valablement délibérer et statuer sur les modifications aux statuts que lorsque les modifications proposées ont été mentionnées de manière précise dans la convocation, et lorsque les actionnaires présents ou représentés représentent la moitié au moins du nombre total des actions émises.  
 Si cette dernière condition n'est pas respectée, une deuxième convocation est nécessaire et la nouvelle assemblée délibère et statue valablement, quel que soit le nombre d'actions représentées par les actionnaires présents ou représentés.  
 Une modification n'est admise que lorsqu'elle réunit les trois quarts des voix exprimées, sans qu'il soit tenu compte des abstentions dans le numérateur ou dans le dénominateur.
@@ -765,10 +771,10 @@ Tous les obligataires peuvent voter en personne ou par procuration.
 #### Section 1. Dispositions communes.
 
 ***Article 5:120***  
-§ 1er. L'émission d'actions nouvelles nécessite une modification des statuts, le cas échéant en appliquant l'article 5:102.  
+§ 1er. L'émission d'actions nouvelles, d'obligations convertibles ou de droits de souscription nécessite une modification des statuts, le cas échéant en appliquant l'article 5:102.  
 Les actions émises doivent être intégralement et, nonobstant toute disposition contraire, inconditionnellement souscrites.  
 
-§ 2. L'assemblée générale, statuant à la majorité simple, a le pouvoir d'accepter des apports supplémentaires sans émission d'actions nouvelles. Cette décision est constatée par acte authentique.
+§ 2. L'assemblée générale, statuant à la majorité simple, a le pouvoir d'accepter des apports supplémentaires sans émission d'actions nouvelles. Cette décision est constatée par acte authentique et est déposée et publiée conformément aux articles 2:8 et 2:14, 1°.
 
 ***Article 5:121***  
 § 1er. L'organe d'administration rédige un rapport qui justifie spécialement le prix d'émission et décrit les conséquences de l'opération sur les droits patrimoniaux et les droits sociaux des actionnaires.  
@@ -802,7 +808,7 @@ Lorsque la souscription d'actions nouvelles n'est pas concomitante à la décisi
 Cet acte mentionne également le respect des conditions légales relatives à la souscription et à la libération des actions.
 
 ***Article 5:127***  
-Lorsque des actions nouvelles sont émises à la suite d'une conversion d'obligations convertibles en actions, d'une substitution d'obligations par des actions conformément à l'article 5:108, 3°, ou d'une souscription d'actions en cas d'exercice d'un droit de souscription, la conversion, la substitution ou la souscription, les apports qui en découlent et le nombre de nouvelles actions émises sont constatés par un acte authentique. Cet acte est établi à la demande de l'organe d'administration moyennant la production d'une liste des conversions ou substitutions demandées ou des droits de souscription exercés. Ce constat a pour effet de modifier les dispositions statutaires relatives au nombre d'actions émises; il confère la qualité d'actionnaire à l'obligataire qui a demandé la conversion de ses titres, à l'obligataire dont les obligations ont été substituées par des actions et au titulaire d'un droit de souscription qui a exercé son droit.
+Lorsque des actions nouvelles sont émises à la suite d'une conversion d'obligations convertibles en actions, d'une substitution d'obligations par des actions conformément à l'article 5:108, 3°, ou d'une souscription d'actions en cas d'exercice d'un droit de souscription, la conversion, la substitution ou la souscription, les apports qui en découlent et le nombre de nouvelles actions émises sont constatés par un acte authentique. Cet acte est établi à la demande de l'organe d'administration moyennant la production d'une liste des conversions ou substitutions demandées ou des droits de souscription exercés. Ce constat a pour effet de modifier les dispositions statutaires relatives au nombre d'actions émises; il confère la qualité d'actionnaire à l'obligataire dont les obligations ont été converties ou substituées par des actions et au titulaire d'un droit de souscription qui a exercé son droit.
 
 #### Section 2. Apports en numéraire.
 
@@ -852,8 +858,8 @@ Les détenteurs des titres visés à l'alinéa 6 ne peuvent davantage participer
 ##### Sous-section 3. Libération des apports en numéraire.
 
 ***Article 5:132***  
-En cas d'apport en numéraire à libérer lors de la réception de l'acte constatant l'émission d'actions nouvelles ou l'acceptation de l'apport par l'assemblée générale, les fonds sont préalablement déposés par versement ou virement sur un compte spécial ouvert au nom de la société auprès auprès d'un établissement de crédit établi dans l'Espace économique européen au sens de l'article 4, paragraphe 1er, point 1), du règlement (UE) nr. 575/2013. Une preuve de ce dépôt est remise au notaire instrumentant.  
-Le compte spécial est à la disposition exclusive de la société. Il ne peut en être disposé que par les personnes habilitées à engager la société et après que le notaire instrumentant eut informé l'établissement de la passation de l'acte.  
+En cas d'apport en numéraire à libérer lors de la réception de l'acte constatant l'émission d'actions nouvelles ou l'acceptation de l'apport par l'assemblée générale, les fonds sont préalablement déposés par versement ou virement sur un compte spécial ouvert au nom de la société auprès d'un établissement de crédit établi dans l'Espace économique européen au sens de l'article 4, paragraphe 1er, point 1), du règlement (UE) nr. 575/2013. Une preuve de ce dépôt est remise au notaire instrumentant.  
+Le compte spécial est à la disposition exclusive de la société. Il ne peut en être disposé que par les personnes habilitées à engager la société et après que le notaire instrumentant eut informé l'établissement de la passation de l'acte. Si, conformément à l'article 5:137, § 2, l'organe d'administration a émis de nouvelles actions sans modifier immédiatement les statuts, il informe l'établissement de la réalisation de l'opération. L'établissement permet aux personnes habilitées à engager la société de disposer du compte spécial. Dans l'acte authentique constatant les émissions d'actions de l'exercice visée à l'article 5:137, § 2, deuxième phrase, le notaire indique, pour chaque apport en numéraire, si l'obligation de versement sur le compte spécial a été respectée.  
 Si l'apport n'est pas réalisé dans le mois de l'ouverture du compte spécial, les fonds sont restitués à leur demande à ceux qui les ont déposés.
 
 #### Section 3. Apport en nature.
@@ -900,7 +906,7 @@ Lorsque les fondateurs ou l'assemblée générale décident de conférer ou de r
 ***Article 5:135***  
 L'organe d'administration ne peut utiliser le pouvoir visé à l'article 5:134 pour les opérations suivantes, à moins que l'autorisation ne le prévoit expressément:  
 1. les émissions d'actions, d'obligations convertibles ou de droits de souscription avec limitation ou suppression du droit de préférence conformément à l'article 5:130;  
-2. les émissions d'actions, d'obligations convertibles ou de droits de souscription à l'occasion desquelles le droit de préférence des actionnaires est limité ou supprimé en faveur d'une ou plusieurs personnes déterminées, autres que les membres du personnel; dans ce cas, les administrateurs qui représentent en fait le bénéficiaire de l'exclusion du droit de préférence ou une personne liée au bénéficiaire au sens de l'article 5:131, alinéa 6, ne peuvent participer au vote.
+2. les émissions d'actions, d'obligations convertibles à l'occasion desquelles le droit de préférence des actionnaires est limité ou supprimé en faveur d'une ou plusieurs personnes déterminées, autres que les membres du personnel; dans ce cas, les administrateurs qui représentent en fait le bénéficiaire de l'exclusion du droit de préférence ou une personne liée au bénéficiaire au sens de l'article 5:131, alinéa 6, ne peuvent participer au vote.
 
 ***Article 5:136***  
 L'organe d'administration ne peut pas utiliser le pouvoir visé à l'article 5:134 pour les opérations suivantes:  
@@ -911,10 +917,10 @@ L'organe d'administration ne peut pas utiliser le pouvoir visé à l'article 5:1
 
 Pour le calcul du seuil de 10 % des droits de vote visé à l'alinéa 1er, 3°, les titres visés à l'article 5:131, alinéas 6 et 7, sont ajoutés aux titres détenus par un actionnaire.
 
-##### Sous-section 3. Emission d'actions par l'organe d'administration.
+##### Sous-section 3. Emission d'actions, d'obligations convertibles et de droits de souscription par l'organe d'administration. 
 
 ***Article 5:137***  
-§ 1er. En cas d'émission d'actions par l'organe d'administration, les articles 5:120, § 1er, alinéa 2, 5:121 à 5:130 sont d'application.  
+§ 1er. En cas d'émission d'actions, d'obligations convertibles ou de droits de souscription par l'organe d'administration, les articles 5:120, § 1er, et 5:121 à 5:133, à l'exception de l'article 5:130, § 2 sont d'application.  
 Si l'émission d'actions a lieu contre un apport en nature en application de la procédure prévue à l'article 5:133, § 2, un avis indiquant la date à laquelle la décision d'émettre les actions a été prise et contenant les éléments mentionnés à l'aricle 5:133, § 3, est déposé et publié conformément aux articles 2:8 et 2:14, 4°, avant la réalisation de l'apport. Dans ce cas, la déclaration prévue à l'article 5:133, § 3, doit uniquement attester qu'aucune circonstance particulière nouvelle n'est survenue depuis la publication de l'avis.  
 Lorsque l'organe d'administration a exercé le pouvoir qui lui a été conféré conformément à l'article 5:134, il en fait rapport lors de la première assemblée générale qui suit. Le rapport visé à l'article 5:121, le cas échéant complété par les éléments visés à l'article 5:130, § 3, est annoncé dans l'ordre du jour de cette assemblée. Une copie peut en être obtenue conformément à l'article 5:84.  
 L'émission des actions nouvelles et la modification des statuts qui en résulte sont constatées par un acte authentique reçu à la requête de l'organe d'administration.  
@@ -927,7 +933,7 @@ L'émission des actions nouvelles et la modification des statuts qui en résulte
 Nonobstant toute disposition contraire, les membres de l'organe d'administration sont tenus solidairement envers les intéressés:  
 1. des actions qui ne seraient pas valablement souscrites conformément à l'article 5:120, § 1er, alinéa 2; ils en sont de plein droit réputés souscripteurs;  
 2. de la libération effective des actions dont ils sont réputés souscripteurs en vertu du 1° ;  
-3. de la libération d'actions souscrites, directement ou au moyen de certificats, en violation de l'article 5:123.
+3. de la libération d'actions souscrites, directement ou au moyen de certificats, en violation de l'article 5:124.
 
 ***Article 5:139***  
 Nonobstant toute disposition contraire, les membres de l'organe d'administration sont responsables solidairement envers les intéressés du préjudice qui est une suite immédiate et directe soit de l'absence ou de la fausseté des mentions prescrites par l'article 5:133, soit de la surévaluation manifeste des apports en nature.
@@ -950,11 +956,12 @@ Par actif net, on entend le total de l'actif, déduction faite des provisions, d
 
 ***Article 5:143***  
 La décision de distribution prise par l'assemblée générale ne produit ses effets qu'après que l'organe d'administration aura constaté qu'à la suite de la distribution, la société pourra, en fonction des développements auxquels on peut raisonnablement s'attendre, continuer à s'acquitter de ses dettes au fur et à mesure de leur échéance pendant une période d'au moins douze mois à compter de la date de la distribution.  
-La décision de l'organe d'administration est justifiée dans un rapport qui n'est pas déposé. Dans les sociétés qui ont nommé un commissaire, ce dernier évalue les données comptables et financières historiques et prospectives de ce rapport. Le commissaire mentionne dans son rapport de contrôle annuel qu'il a exécuté cette mission.
+La décision de l'organe d'administration est justifiée dans un rapport qui n'est pas déposé. Dans les sociétés qui ont nommé un commissaire, ce dernier évalue les données comptables et financières historiques et prospectives de ce rapport. Le commissaire mentionne dans son rapport de contrôle annuel qu'il a exécuté cette mission.  
+Lors de la prise de la décision visée par cet article, les articles 5:76, 5:77 et 5:78 ne sont pas applicables.
 
 ***Article 5:144***  
 S'il est établi que lors de la prise de la décision visée à l'article 5:143, les membres de l'organe d'administration savaient ou, au vu des circonstances, auraient dû savoir, qu'à la suite de la distribution, la société ne serait manifestement plus en mesure de s'acquitter de ses dettes tel que précisé à l'article 5:143, ils sont solidairement responsables envers la société et les tiers de tous les dommages qui en résultent.  
-La société peut demander le remboursement de toute distribution effectuée en violation des articles 5:142 et 5:143 par les actionnaires qui l'ont reçue, qu'ils soient de bonne ou mauvaise foi.
+La société peut demander le remboursement de toute distribution effectuée en violation des articles 5:142 et 5:143 par les actionnaires ou toutes autres personnes en faveur desquelles la distribution a été décidée, qu'ils soient de bonne ou mauvaise foi.
 
 #### Section 2. De l'acquisition d'actions ou de certificats propres.
 
@@ -976,7 +983,7 @@ L'organe d'administration fait mention expresse de la nullité dans le registre 
 L'alinéa 1er s'applique proportionnellement au nombre d'actions et de certificats de la même classe détenus par la société.
 
 ***Article 5:147***  
-Les articles 5:142, 5:143 et 5:149, alinéa 1er, ne s'appliquent pas:  
+Les articles 5:145 et 5:149, alinéa 1er, ne s'appliquent pas:  
 1. aux actions ou aux certificats acquis par la société à la suite d'une transmission de patrimoine à titre universel;  
 2. aux actions ou aux certificats acquis lors d'une vente faite conformément aux articles 1494 et suivants du Code judiciaire en vue de recouvrer une créance de la société sur le propriétaire de ces actions ou certificats.
 
@@ -994,7 +1001,7 @@ Aussi longtemps que les actions acquises demeurent dans le patrimoine de la soci
 § 4. Le droit aux dividendes attaché aux certificats acquis est également frappé de caducité. Le droit de vote attaché aux actions auxquelles se rapportent les certificats acquis est suspendu dans la mesure où ces certificats ont été émis avec la collaboration de la société.
 
 ***Article 5:149***  
-La société ne peut aliéner les actions et les certificats acquis conformément aux articles 5:142 et 5:143 qu'en vertu d'une décision prise dans le respect, le cas échéant dans chaque classe, des conditions de quorum et de majorité requises pour la modification des statuts, qui détermine les conditions d'aliénation, le cas échéant, par classe ou par catégorie de titres.  
+La société ne peut aliéner les actions et les certificats acquis conformément à l'article 5:145 qu'en vertu d'une décision prise dans le respect, le cas échéant dans chaque classe, des conditions de quorum et de majorité requises pour la modification des statuts, qui détermine les conditions d'aliénation, le cas échéant, par classe ou par catégorie de titres.  
 Les actions ou certificats sont offerts par préférence aux actionnaires existants proportionnellement au nombre d'actions qu'ils détiennent. S'il existe plusieurs classes d'actions et que l'aliénation ne se fait pas dans chaque classe proportionnellement au nombre d'actions que les actionnaires de chaque classe détiennent, l'aliénation ne peut alors avoir lieu que moyennant l'autorisation de l'assemblée générale prise dans chaque classe, dans le respect des conditions de quorum et de majorité requises pour la modification des statuts.  
 Une telle autorisation n'est pas requise pour l'aliénation au personnel d'actions et de certificats acquis à ces fins.
 
@@ -1073,14 +1080,14 @@ Toute décision d'exclusion est motivée.
 
 § 2. L'organe d'administration communique dans les quinze jours à l'actionnaire concerné la décision motivée d'exclusion conformément à l'article 2:32 et inscrit l'exclusion conformément au paragraphe 4 dans le registre des actions. Si l'actionnaire a choisi de communiquer avec la société par courrier, la décision lui est communiquée par pli recommandé.  
 
-§ 3. Sauf disposition statutaire contraire, l'actionnaire exclu recouvre la valeur de sa part de retrait conformément à l'article 5:154. En pareil cas, le délai de deux ans à compter de la constitution de la société, visé à l'article 5:154, § 1er, alinéa 2, 1°, n'est pas d'application. Les actions de l'actionnaire exclu sont annulées.  
+§ 3. Sauf disposition statutaire contraire, l'actionnaire exclu recouvre la valeur de sa part de retrait conformément à l'article 5:154. En pareil cas, les délais visés à l'article 5:154, § 1er, alinéa 2, 1° et 2°, ne sont pas d'application. Les actions de l'actionnaire exclu sont annulées.  
 
 § 4. L'organe d'administration met à jour le registre des actions. Y sont mentionnés plus précisément: les exclusions d'actionnaires, la date à laquelle elles sont intervenues ainsi que le montant versé aux actionnaires concernés.  
 
 § 5. Les exclusions et les modifications statutaires qui en découlent sont établies, avant la fin de chaque exercice, par un acte authentique reçu à la demande de l'organe d'administration.
 
 ***Article 5:156***  
-§ 1er. Les statuts peuvent prévoir qu'en cas de décès, de faillite, de déconfiture, de liquidation ou d'interdiction d'un actionnaire, celui-ci est réputé démissionnaire de plein droit à cette date. L'actionnaire, ou, selon le cas, ses héritiers, créanciers ou représentants recouvrent la valeur de sa part de retrait de la manière déterminée par l'article 5:154. En pareil cas, le délai visé à l'article 5:154, § 1 er, alinéa 2, 1°, n'est pas d'application.  
+§ 1er. Les statuts peuvent prévoir qu'en cas de décès, de faillite, de déconfiture, de liquidation ou d'interdiction d'un actionnaire, celui-ci est réputé démissionnaire de plein droit à cette date. L'actionnaire, ou, selon le cas, ses héritiers, créanciers ou représentants recouvrent la valeur de sa part de retrait de la manière déterminée par l'article 5:154. En pareil cas, les délais visés à l'article 5:154, § 1er, alinéa 2, 1° et 2°, ne sont pas d'application.  
 Les actionnaires démissionnaires ou, en cas de décès, de faillite, de déconfiture, de liquidation ou d'interdiction d'un actionnaire, ses héritiers, créanciers ou représentants ne peuvent provoquer la liquidation de la société.  
 
 § 2. Les statuts peuvent prévoir que l'actionnaire qui ne répond plus aux exigences statutaires pour devenir actionnaire est à ce moment réputé démissionnaire de plein droit. Les dispositions du paragraphe 1er s'appliquent par analogie, pour autant que les statuts n'y dérogent pas.
@@ -1090,7 +1097,6 @@ Les actionnaires démissionnaires ou, en cas de décès, de faillite, de déconf
 ***Article 5:157***  
 Sauf disposition statutaire contraire, les sociétés à responsabilité limitée sont constituées pour une durée illimitée.  
 Lorsqu'une durée est déterminée, l'assemblée générale peut décider la prorogation pour une durée limitée ou illimitée. Cette décision requiert une modification des statuts.  
-Sans préjudice de la dissolution pour de justes motifs précisés à l'article 2:73, la société ne peut être dissoute que par une décision de l'assemblée générale. Cette décision requiert une modification des statuts.
 
 ## Titre 8. Dispositions pénales.
 
@@ -1098,4 +1104,4 @@ Sans préjudice de la dissolution pour de justes motifs précisés à l'article 
 Seront punis d'une amende de cinquante euros à dix mille euros et pourront en outre être punis d'un emprisonnement d'un mois à un an:  
 1. les administrateurs visés à l'article 2:51 qui n'ont pas présenté le rapport spécial accompagné du rapport du commissaire ou du réviseur d'entreprises, ainsi que le prévoient les articles 5:7 ou 5:133;  
 2. les administrateurs visés à l'article 2:51 ou le commissaire qui auront fait, par un usage quelconque, aux frais de la société, des versements sur les actions ou admis comme faits des versements qui ne sont pas effectués réellement de la manière et aux époques prescrites;  
-3. les administrateurs visés à l'article 2:51 qui ont contrevenu à l'article 5:142 ou l'article 5:143.
+3. les administrateurs visés à l'article 2:51 qui ont contrevenu à l'article 5:142 ou l'article 5:143, alinéa 1er.

@@ -9,7 +9,7 @@ Une société est constituée par un acte juridique par lequel une ou plusieurs 
 Une association est constituée par une convention entre deux ou plusieurs personnes, dénommées membres. Elle poursuit un but désintéressé dans le cadre de l'exercice d'une ou plusieurs activités déterminées qui constituent son objet. Elle ne peut distribuer ni procurer directement ou indirectement un quelconque avantage patrimonial à ses fondateurs, ses membres, ses administrateurs ni à toute autre personne sauf dans le but désintéressé déterminé par les statuts. Toute opération violant cette interdiction est nulle.
 
 ***Article 1:3***  
-Une fondation est une personne morale dépourvue de membres, constituée par une ou plusieurs personnes, dénommées fondateurs. Son patrimoine est affecté à la poursuite d'un but désintéressé dans le cadre de l'exercice d'une ou plusieurs activités déterminées qui constituent son objet. Elle ne peut distribuer ni procurer, directement ou indirectement, un quelconque avantage patrimonial à ses fondateurs, ses administrateurs ni à toute autre personne, sauf dans le but désintéressé déterminé par les statuts. Toute opération violant cette interdiction est nulle.
+Une fondation est une personne morale dépourvue de membres, constituée par un acte juridique par une ou plusieurs personnes, dénommées fondateurs. Son patrimoine est affecté à la poursuite d'un but désintéressé dans le cadre de l'exercice d'une ou plusieurs activités déterminées qui constituent son objet. Elle ne peut distribuer ni procurer, directement ou indirectement, un quelconque avantage patrimonial à ses fondateurs, ses administrateurs ni à toute autre personne, sauf dans le but désintéressé déterminé par les statuts. Toute opération violant cette interdiction est nulle.
 
 ***Article 1:4***  
 Aux fins des articles 1:2 et 1:3 est considérée comme distribution indirecte d'un avantage patrimonial toute opération par laquelle les actifs de l'association ou de la fondation diminuent ou les passifs augmentent et pour laquelle celle-ci soit ne reçoit pas de contrepartie soit reçoit une contrepartie manifestement trop faible par rapport à sa prestation.  
@@ -94,14 +94,14 @@ Par "règlement (UE) n° 537/2014", il faut entendre: le règlement (UE) n° 537
 § 1er. Par "contrôle" d'une société, il faut entendre le pouvoir de droit ou de fait d'exercer une influence décisive sur la désignation de la majorité des administrateurs ou gérants de celle-ci ou sur l'orientation de sa gestion.  
 
 § 2. Le contrôle est de droit et présumé de manière irréfragable:  
-1. lorsqu'il résulte de la détention de la majorité des droits de vote attachés à l'ensemble des actions, parts ou droits d'associés de la société en cause;  
+1. lorsqu'il résulte de la détention de la majorité des droits de vote attachés à l'ensemble des actions, parts ou autres titres de la société en cause;  
 2. lorsqu'un associé a le droit de nommer ou de révoquer la majorité des administrateurs ou gérants;  
 3. lorsqu'un associé dispose du pouvoir de contrôle en vertu des statuts de la société en cause ou de conventions conclues avec celle-ci;  
-4. lorsque, par l'effet de conventions conclues avec d'autres associés de la société en cause, un associé dispose de la majorité des droits de vote attachés à l'ensemble des actions, parts ou droits d'associés de celle-ci;  
+4. lorsque, par l'effet de conventions conclues avec d'autres associés de la société en cause, un associé dispose de la majorité des droits de vote attachés à l'ensemble des actions, parts ou autres titres de celle-ci;  
 5. en cas de contrôle conjoint.  
 
 § 3. Le contrôle est de fait lorsqu'il résulte d'autres éléments que ceux visés au paragraphe 2.  
-Un associé est, sauf preuve contraire, présumé disposer d'un contrôle de fait sur la société si, à l'avant-dernière et à la dernière assemblée générale de cette société, il a exercé des droits de vote représentant la majorité des voix attachées aux titres représentés à ces assemblées.
+Un associé est, sauf preuve contraire, présumé disposer d'un contrôle de fait sur la société si, à l'avant-dernière et à la dernière assemblée générale de cette société, il a exercé des droits de vote représentant la majorité des voix attachées aux actions, parts ou autres titres représentés à ces assemblées.
 
 ***Article 1:15***  
 Pour l'application du présent code, il faut entendre par:  
@@ -114,7 +114,7 @@ Pour l'application du présent code, il faut entendre par:
 2. le pouvoir détenu par une personne servant d'intermédiaire à une autre personne est censé détenu exclusivement par cette dernière.  
 
 Pour la détermination du pouvoir de contrôle, il n'est pas tenu compte d'une suspension du droit de vote ni des limitations à l'exercice du droit de vote prévues par le présent code ou par des dispositions légales ou statutaires d'effet analogue.  
-Pour l'application de l'article 1:14, § 2, 1° et 4°, les droits de vote afférents à l'ensemble des titres d'une filiale s'entendent déduction faite des droits de vote afférents aux titres de cette filiale détenus par elle-même ou par ses filiales. La même règle s'applique dans le cas visé à l'article 1:14, § 3, alinéa 2, en ce qui concerne les titres représentés aux deux dernières assemblées générales.  
+Pour l'application de l'article 1:14, § 2, 1° et 4°, les droits de vote afférents à l'ensemble des actions, parts ou autres titres d'une filiale s'entendent déduction faite des droits de vote afférents aux actions, parts ou autres titres de cette filiale détenus par elle-même ou par ses filiales. La même règle s'applique dans le cas visé à l'article 1:14, § 3, alinéa 2, en ce qui concerne les actions, parts ou autres titres représentés aux deux dernières assemblées générales.  
 
 § 2. Par "personne servant d'intermédiaire", il faut entendre toute personne agissant en vertu d'une convention de mandat, de commission, de portage, de prête-nom, de fiducie ou d'une convention d'effet équivalent, pour le compte d'une autre personne.
 
@@ -134,8 +134,8 @@ Par "filiale commune", il faut entendre la société à l'égard de laquelle un 
 1. lorsque la direction unique de ces sociétés résulte de contrats conclus entre ces sociétés ou de dispositions statutaires, ou,  
 2. lorsque leurs organes d'administration sont composés en majorité des mêmes personnes.  
 
-§ 3. Des sociétés sont présumées, sauf preuve contraire, être placées sous une direction unique, lorsque les droits de vote attachés à leurs titres sont détenus en majorité par les mêmes personnes. Les dispositions de l'article 1:16 sont applicables.  
-Ce paragraphe n'est pas applicable aux titres détenus par des pouvoirs publics.
+§ 3. Des sociétés sont présumées, sauf preuve contraire, être placées sous une direction unique, lorsque les droits de vote attachés à leurs actions, parts ou autres titres sont détenus en majorité par les mêmes personnes. Les dispositions de l'article 1:16 sont applicables.  
+Ce paragraphe n'est pas applicable aux actions, parts ou autres titres détenus par des pouvoirs publics.
 
 ### Chapitre 3. Sociétés liées et associées.
 
@@ -216,7 +216,8 @@ Pour l'application du présent paragraphe et du paragraphe 6, les sociétés con
 § 2. Les chiffres visés au paragraphe 1er sont vérifiés à la date de clôture des comptes annuels de la société consolidante, sur la base des derniers comptes annuels arrêtés des sociétés à comprendre dans la consolidation.  
 L'article 1:24, § 2, est pour le surplus d'application.  
 
-§ 3. Le nombre moyen des travailleurs occupés, visé au paragraphe 1er, est déterminé conformément à l'article 1:24, § 5, alinéas 1 à 3.  
+§ 3. Le nombre moyen des travailleurs occupés, visé au paragraphe 1er, est déterminé conformément à l'article 1:24, § 5, alinéas 1 et 2.  
+Lorsque plus de la moitié des produits résultant de l'activité normale d'une société sont des produits non visés par la définition du poste "chiffre d'affaires", il y a lieu, pour l'application du paragraphe 1er, d'entendre par "chiffre d'affaires", le total des produits d'exploitation et financiers à l'exclusion des produits non récurrents.  
 Le total du bilan visé au paragraphe 1er est la valeur comptable totale de l'actif tel qu'il apparaît au schéma du bilan qui est déterminé par arrêté royal pris en exécution de l'article 3:30, § 1er.  
 Si, lors du calcul des seuils indiqués au paragraphe 1er, les calculs définis par arrêté royal en vertu de l'article 3:30, § 1er, et toute élimination qui en découle ne sont pas effectués, ces seuils relatifs au total du bilan et au chiffre d'affaires net sont augmentés de vingt pour cent.  
 

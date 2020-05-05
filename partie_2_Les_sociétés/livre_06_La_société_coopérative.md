@@ -3,7 +3,7 @@
 ## Titre 1. Nature et qualification.
 
 ***Article 6:1***  
-§ 1er. La société coopérative a pour but principal la satisfaction des besoins et/ou le développement des activités économiques et/ou sociales de ses actionnaires ou bien de tiers intéressés notamment par la conclusion d'accords avec ceux-ci en vue de la fourniture de biens ou de services ou de l'exécution de travaux dans le cadre de l'activité que la société coopérative exerce ou fait exercer. La société coopérative peut également avoir pour but de répondre aux besoins de ses actionnaires ou de ses sociétés mères et leurs actionnaires ou des tiers intéressés que ce soit ou non par l'intervention de filiales. Elle peut également avoir pour objet de favoriser leurs activités économiques et/ou sociales par une participation à une ou plusieurs autres sociétés.  
+§ 1er. La société coopérative a pour but principal la satisfaction des besoins et/ou le développement des activités économiques et/ou sociales de ses actionnaires ou bien de tiers intéressés notamment par la conclusion d'accords avec ceux-ci en vue de la fourniture de biens ou de services ou de l'exécution de travaux dans le cadre de l'activité que la société coopérative exerce ou fait exercer. La société coopérative peut également avoir pour but de répondre aux besoins de ses actionnaires ou de ses sociétés mères et leurs actionnaires ou des tiers intéressés que ce soit ou non par l'intervention de filiales. Elle peut également avoir pour but de favoriser leurs activités économiques et/ou sociales par une participation à une ou plusieurs autres sociétés.  
 La qualité d'actionnaire peut être acquise sans modification des statuts et les actionnaires peuvent, dans les limites prévues par les statuts, démissionner à charge du patrimoine social ou être exclus de la société.  
 
 § 2. Les actions d'une société coopérative ne peuvent être admises à la négociation sur un marché réglementé au sens de l'article 1:11, ni sur un marché non réglementé. En cas de cotation des autres titres sur un marché réglementé au sens de l'article 1:11, la société devient une entité d'intérêt public visée à l'article 1:12, 2°.  
@@ -13,7 +13,8 @@ La qualité d'actionnaire peut être acquise sans modification des statuts et le
 § 4. La finalité coopérative et les valeurs de la société coopérative sont décrites dans les statuts et, le cas échéant, complétées par une explication plus détaillée dans un règlement intérieur ou une charte.
 
 ***Article 6:2***  
-Les actionnaires d'une société coopérative n'engagent que leur apport.
+Les actionnaires d'une société coopérative n'engagent que leur apport.  
+Les actionnaires peuvent être dénommés par les statuts "actionnaires", "associés", "coopérateurs", "sociétaires" ou toute autre dénomination similaire.
 
 ## Titre 2. Constitution.
 
@@ -46,7 +47,8 @@ Les fondateurs veillent à ce que la société coopérative dispose lors de sa c
 #### Section 1. Souscription intégrale.
 
 ***Article 6:6***  
-Les actions émises par la société doivent être intégralement et, nonobstant toute disposition statutaire contraire, inconditionnellement souscrites.
+Les actions émises par la société doivent être intégralement et, nonobstant toute disposition statutaire contraire, inconditionnellement souscrites.  
+Les actions peuvent être dénommées par les statuts "actions" ou "parts".
 
 ***Article 6:7***  
 § 1er. La société ne peut souscrire ses propres actions, ni directement, ni par une société filiale, ni par une personne agissant en son nom propre mais pour le compte de la société ou de la société filiale.  
@@ -153,6 +155,10 @@ Ceux qui se sont engagés pour des tiers sont réputés personnellement obligés
 Une société coopérative peut seulement émettre des actions nominatives avec droit de vote et des obligations. Ses titres ne peuvent pas être certifiés.  
 Les obligations sont nominatives ou, si les statuts le permettent, dématérialisées.  
 Les sociétés coopératives qui sont des entreprises réglementées au sens de l'article 3, 42°, de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse peuvent émettre tout autre titre que leur statut légal leur permet d'émettre, dématérialisé ou non.  
+Une société coopérative soumise à un statut réglementaire spécial peut toutefois émettre d'autres titres que ceux visés aux alinéas précédents:  
+1. pour autant qu'il s'agisse de titres dont l'émission est autorisée par le statut réglementaire auquel la société est soumise; et  
+2. pour autant que cette émission soit compatible avec la finalité coopérative visée à l'article 6:1.  
+
 Les obligations émises exclusivement à l'étranger et régies par un droit étranger, peuvent cependant prendre la forme de titres individuels ou collectifs au porteur. Ces obligations au porteur ne peuvent toutefois pas être délivrées physiquement en Belgique. Les propriétaires de ces obligations au porteur peuvent, à tout moment, en demander la conversion, à leurs frais, en obligations nominatives.
 
 ***Article 6:20***  
@@ -177,7 +183,7 @@ La société tient à son siège un registre pour chaque catégorie de titres no
 ***Article 6:25***  
 Le registre des actions nominatives mentionne:  
 1. le nombre total des actions émises par la société et, le cas échéant, le nombre total par classe;  
-2. pour les personnes physiques, le nom et le domicile et pour les personnes morales, la dénomination, le siège et le numéro d'immatriculation visé à l'article 2:24, § 1er, 3° et § 2, 3°, de chaque actionnaire;  
+2. pour les personnes physiques, le nom et le domicile et pour les personnes morales, la dénomination et le siège de chaque actionnaire;  
 3. le nombre d'actions détenues par chaque actionnaire et leur classe;  
 4. les versements faits sur chaque action;  
 5. les restrictions relatives à la cessibilité résultant des statuts et, lorsqu'une des parties le demande, les restrictions relatives à la cessibilité des actions résultant de conventions ou des conditions d'émission;  
@@ -210,7 +216,8 @@ L'organe d'administration délivre à la demande de celui qui est inscrit en qua
 ***Article 6:29***  
 Le titre dématérialisé est représenté par une inscription en compte, au nom de son propriétaire ou de son détenteur, auprès d'un organisme de liquidation ou d'un teneur de comptes agréé.  
 Le Roi désigne les organismes de liquidation chargés d'assurer la conservation des titres dématérialisés et la liquidation des transactions sur de tels titres. Il agrée les teneurs de comptes en Belgique de manière individuelle ou de manière générale par catégorie d'établissements, en fonction de leur activité.  
-Le nombre de titres dématérialisés en circulation à tout moment et, le cas échéant, leur classe, est inscrit dans le registre de titres nominatifs au nom de l'organisme de liquidation ou, le cas échéant, du teneur de comptes agréé en cas d'application de l'article 6:38  
+Le nombre de titres dématérialisés en circulation à tout moment et, le cas échéant, leur classe, est inscrit dans le registre de titres nominatifs au nom de l'organisme de liquidation ou, le cas échéant, du teneur de comptes agréé en cas d'application de l'article 6:38.  
+Par dérogation à l'alinéa 3, pour les obligations l'inscription visée par ledit alinéa concerne non le nombre des titres dématérialisés, mais leur montant total.  
 L'inscription de titres en compte confère un droit de copropriété, de nature incorporelle, sur l'universalité des titres inscrits au nom de l'organisme de liquidation ou, le cas échéant, du teneur de comptes agréé en cas d'application de l'article 6:38, dans le registre des titres nominatifs visé à l'alinéa 3.  
 La Banque nationale de Belgique est chargée de contrôler le respect, par les teneurs de comptes agréés en Belgique, des règles prévues par ou en vertu de la présente section. Pour l'exercice de ce contrôle, pour l'imposition de sanctions administratives et pour la prise d'autres mesures à l'égard des teneurs de comptes agréés, la Banque nationale de Belgique:  
 1. utilise, s'agissant d'établissements de crédit, les compétences qui lui ont été attribuées par la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse;  
@@ -349,7 +356,7 @@ L'alinéa 1er n'est pas applicable à l'acquisition ou la prise en gage d'action
 
 ***Article 6:54***  
 Les actions ne peuvent être transférées à des tiers que s'ils appartiennent aux catégories déterminées par les statuts et satisfont aux exigences statutaires pour devenir actionnaire. L'organe d'administration a le pouvoir d'en décider, sauf si les statuts prévoient que ce pouvoir appartient à l'assemblée générale. Les statuts peuvent prévoir que l'organe compétent peut refuser un candidat acquéreur, à condition de motiver son refus.  
-Les cessions réalisées en méconnaissance de l'alinéa 1er ne sont pas opposables à la société ni aux tiers, indépendamment de la bonne ou la mauvaise foi du cessionnaire, et même lorsqu'une restriction statutaire à la cessibilité n'est pas reprise dans le registre des actionnaires.
+Les cessions réalisées en méconnaissance de l'alinéa 1er ne sont pas opposables à la société ni aux tiers, indépendamment de la bonne ou la mauvaise foi du cessionnaire.
 
 ***Article 6:55***  
 En cas de cession d'une action non libérée, le cédant et le cessionnaire sont, nonobstant toute disposition contraire, tenus solidairement de la libération envers la société et les tiers. En cas de cessions successives, tous les cessionnaires consécutifs sont tenus solidairement.  
@@ -358,7 +365,8 @@ Sauf convention contraire, le cédant d'une action non libérée auquel la libé
 #### Section 3. Restrictions à la cessibilité des titres.
 
 ***Article 6:56***  
-Des conventions peuvent limiter la cessibilité entre vifs ou la transmissibilité à cause de mort des actions. Elles ne peuvent pas assouplir les conditions légales ou statutaires applicables à leur cessibilité.
+Les statuts ou des conventions peuvent limiter la cessibilité entre vifs ou la transmissibilité à cause de mort des actions. Les conventions ne peuvent pas assouplir les conditions légales ou statutaires applicables à leur cessibilité.  
+Une cession contraire aux restrictions à la cessibilité qui figurent dans des statuts publiés régulièrement, n'est opposable ni à la société ni aux tiers, que le cessionnaire soit de bonne ou de mauvaise foi, même lorsque la restriction statutaire ne figure pas dans le registre des actionnaires.
 
 ***Article 6:57***  
 Les statuts et les conditions d'émission de titres nominatifs ou dématérialisés autres que des actions peuvent limiter la cessibilité entre vifs ou à cause de mort.  
@@ -402,7 +410,7 @@ Sauf disposition statutaire contraire ou à moins que l'assemblée générale n'
 Les statuts peuvent apporter des restrictions aux pouvoirs de chaque administrateur. Une telle restriction n'est pas opposable aux tiers, même si elle est publiée. Il en va de même pour une répartition des tâches entre les administrateurs.  
 Les statuts peuvent prévoir que les administrateurs constituent un organe d'administration collégial. Les statuts peuvent apporter des restrictions aux pouvoirs de cet organe d'administration collégial. Une telle restriction n'est pas opposable aux tiers, même si elle est publiée. Il en va de même pour une répartition des tâches entre les administrateurs.  
 
-§ 2. Chaque administrateur ou, en cas d'organe d'administration collégial, l'organe d'administration représente la société à l'égard des tiers, en ce compris la représentation en justice. Toutefois, les statuts peuvent stipuler que la société est représentée par un ou plusieurs administrateurs désignés à cet effet, ou par plusieurs administrateurs agissant conjointement. Une telle clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
+§ 2. Chaque administrateur ou, en cas d'organe d'administration collégial, l'organe d'administration représente la société à l'égard des tiers, en ce compris la représentation en justice. Toutefois, les statuts peuvent prévoir que la société est représentée par un ou plusieurs administrateurs, agissant seuls ou conjointement. Une telle clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
 Les statuts peuvent apporter des restrictions à ce pouvoir de représentation. Ces restrictions ne sont pas opposable aux tiers, même si elles sont publiées. Il en va de même pour une répartition des tâches entre les administrateurs ayant le pouvoir de représentation.
 
 ***Article 6:62***  
@@ -436,7 +444,7 @@ Sans préjudice de l'article 2:56, les administrateurs sont personnellement et s
 #### Section 4. Gestion journalière.
 
 ***Article 6:67***  
-L'organe d'administration peut charger une ou plusieurs personnes, qui agissent chacune individuellement, conjointement ou collégialement de la gestion journalière de la société, ainsi que de la représentation de la société en ce qui concerne cette gestion. Leur nomination, leur révocation et leurs pouvoirs sont déterminés par les statuts. L'organe d'administration qui a désigné l'organe de ge gestion journalière est chargé de la surveillance de celui-ci.  
+L'organe d'administration peut charger une ou plusieurs personnes, qui agissent chacune individuellement, conjointement ou collégialement de la gestion journalière de la société, ainsi que de la représentation de la société en ce qui concerne cette gestion. L'organe d'administration qui a désigné l'organe de gestion journalière est chargé de la surveillance de celui-ci.  
 La gestion journalière comprend aussi bien les actes et les décisions qui n'excèdent pas les besoins de la vie quotidienne de la société que les actes et les décisions qui, soit en raison de leur intérêt mineur qu'ils représentent soit en raison de leur caractère urgent, ne justifient pas l'intervention de l'organe d'administration.  
 La disposition selon laquelle la gestion journalière est confiée à une ou plusieurs personnes qui agissent chacune individuellement, conjointement ou collégialement est opposable aux tiers aux conditions fixées à l'article 2:18. Les restrictions apportées au pouvoir de représentation de l'organe chargé de la gestion journalière ne sont toutefois pas opposables aux tiers, même si elles sont publiées.
 
@@ -453,7 +461,7 @@ Dans l'application du présent chapitre, la société veille à assurer l'égali
 
 ***Article 6:69***  
 § 1er. L'assemblée générale des actionnaires exerce les pouvoirs que lui confère le présent code.  
-Les statuts peuvent étendre les pouvoirs de l'assemblée générale. Une telle extension n'est pas opposable aux tiers, sauf si la société prouve que le tiers en avait connaissance ou ne pouvait l'ignorer compte tenu des circonstances, sans que la seule publication des statuts suffise à constituer cette preuve.  
+Les statuts peuvent étendre les pouvoirs de l'assemblée générale. Une telle extension n'est pas opposable aux tiers, même si elle est publiée.  
 
 § 2. Les statuts ou, si les statuts le prévoient, un règlement d'ordre intérieur, approuvé par une décision prise dans le respect des conditions de quorum et de majorité requises pour la modification des statuts, peuvent contenir des dispositions supplémentaires et complémentaires concernant les droits des actionnaires et le fonctionnement de la société, y compris les matières visées à l'article 2:59, 2° et 3°.
 
@@ -504,7 +512,7 @@ Lorsque la société autorise le vote à distance sous forme électronique, elle
 ##### Sous-section 6. Tenue de l'assemblée générale.
 
 ***Article 6:76***  
-Il est tenu à chaque assemblée générale une liste des présences. Ceux qui ont participé à l'assemblée générale ou qui y étaient représentés peuvent consulter cette liste pour autant que les statuts le prévoient.
+Il est tenu à chaque assemblée générale une liste des présences. Tout actionnaire peut consulter cette liste.
 
 ***Article 6:77***  
 Les membres de l'organe d'administration répondent aux questions qui leur sont posées oralement ou par écrit avant ou pendant l'assemblée générale par les actionnaires et qui portent sur les points à l'ordre du jour. Les membres de l'organe d'administration peuvent, dans l'intérêt de la société, refuser de répondre aux questions lorsque la communication de certaines données ou de certains faits peut porter préjudice à la société ou qu'elle viole les engagements de confidentialité souscrits par eux ou par la société.  
@@ -550,6 +558,7 @@ L'organe d'administration a le droit de proroger, séance tenante, la décision 
 ##### Sous-section 1. Modification des statuts en général.
 
 ***Article 6:85***  
+L'assemblée générale a le droit d'apporter des modifications aux statuts.  
 L'assemblée générale ne peut valablement délibérer et statuer sur les modifications aux statuts, et sauf disposition statutaire contraire, que lorsque les modifications proposées ont été mentionnées de manière précise dans la convocation, et si les actionnaires présents ou représentés représentent la moitié au moins du nombre total des actions émises.  
 Si cette dernière condition n'est pas respectée, une deuxième convocation, sauf disposition statutaire contraire, est nécessaire et la nouvelle assemblée délibère et statue valablement, quel que soit le nombre d'actions représentées par les actionnaires présents ou représentés.  
 Sauf disposition statutaire contraire, une modification n'est admise que si elle réunit les trois quarts des voix exprimées, sans qu'il soit tenu compte des abstentions dans le numérateur ou dans le dénominateur.
@@ -768,7 +777,7 @@ La décision de l'organe d'administration est justifiée dans un rapport qui n'e
 
 ***Article 6:117***  
 S'il est établi que lors de la prise de la décision visée à l'article 6:116, les membres de l'organe d'administration savaient ou, au vu des circonstances, auraient dû savoir, qu'à la suite de la distribution, la société ne serait raisonnablement plus en mesure de s'acquitter de ses dettes comme il est dit à l'article 6:116, ils sont solidairement responsables envers la société et les tiers de tous les dommages qui en résultent.  
-La société peut demander le remboursement de toute distribution effectuée en violation des articles 6:115 et 6:116 par les actionnaires qui l'ont reçue qu'ils soient de bonne ou mauvaise foi.
+La société peut demander le remboursement de toute distribution effectuée en violation des articles 6:115 et 6:116 par les actionnaires ou toutes autres personnes en faveur desquelles la distribution a été décidée qu'ils soient de bonne ou mauvaise foi.
 
 #### Section 2. Financement de l'acquisition d'actions de la société par des tiers.
 
@@ -838,7 +847,7 @@ Toute décision d'exclusion est motivée.
 
 § 2. L'organe d'administration communique dans les quinze jours à l'actionnaire concerné la décision motivée d'exclusion conformément à l'article 2:32 et inscrit l'exclusion dans le registre des actions. Si l'actionnaire a choisi de communiquer avec la société par courrier, la décision lui est communiquée par pli recommandé.  
 
-§ 3. Sauf disposition statutaire contraire, l'actionnaire exclu recouvre la valeur de sa part de retrait conformément à l'article 6:120. En pareil cas, les 1° en 2° de l'article 6:120, § 1er, alinéa 2, ne sont pas d'application. Les actions de l'actionnaire exclu sont annulées.  
+§ 3. Sauf disposition statutaire contraire, l'actionnaire exclu recouvre la valeur de sa part de retrait conformément à l'article 6:120, § 1er, laquelle doit, sauf disposition statutaire contraire, être payée au plus tard dans le mois qui suit l'exclusion. En pareil cas, les délais visés à l'article 6:120, § 1er, alinéa 2, 1°, 2° et 4° ne sont pas d'application. Les actions de l'actionnaire exclu sont annulées.  
 L'actionnaire exclu ne peut provoquer la liquidation de la société.  
 
 § 4. L'organe d'administration met à jour le registre des actions. Y sont mentionnés plus précisément: les exclusions d'actionnaires, la date à laquelle elles sont intervenues ainsi que le montant versé aux actionnaires concernés.
@@ -853,7 +862,6 @@ Le rapport de gestion, ou à défaut, un document à déposer en même temps que
 ***Article 6:125***  
 Sauf disposition statutaire contraire, les sociétés coopératives sont constituées pour une durée illimitée.  
 Lorsqu'une durée est déterminée, l'assemblée générale peut décider la prorogation pour une durée limitée ou illimitée. Cette décision requiert une modification des statuts.  
-Sans préjudice de la dissolution pour de justes motifs précisés à l'article 2:73, la société ne peut être dissoute que par une décision de l'assemblée générale. Cette décision requiert une modification des statuts.
 
 ***Article 6:126***  
 Si au cours de son existence une société coopérative compte moins de trois actionnaires, tout intéressé peut en demander la dissolution devant le tribunal de l'entreprise du siège de la société. Le tribunal peut accorder à la société un délai pour régulariser la situation en prenant une autre forme légale ou en ramenant à nouveau le nombre d'actionnaires à trois.
@@ -868,4 +876,4 @@ Le tribunal peut, le cas échéant, accorder à la société un délai en vue de
 Seront punis d'une amende de cinquante euros à dix mille euros et pourront en outre être punis d'un emprisonnement d'un mois à un an:  
 1. les administrateurs visés à l'article 2:51 qui n'ont pas présenté le rapport spécial accompagné du rapport du commissaire ou du réviseur d'entreprises, ainsi que le prévoient les articles 6:8 et 6:110;  
 2. les administrateurs visés à l'article 2:51 ou le commissaire qui auront fait, par un usage quelconque, aux frais de la société, des versements sur les actions ou admis comme faits des versements qui ne sont pas effectués réellement de la manière et aux époques prescrites;  
-3. les administrateurs visés à l'article 2:51 qui ont contrevenu à l'article 6:115 ou à l'article 6:116.
+3. les administrateurs visés à l'article 2:51 qui ont contrevenu à l'article 6:115 ou à l'article 6:116, alinéa 1er.

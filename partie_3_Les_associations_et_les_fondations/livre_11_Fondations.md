@@ -13,7 +13,7 @@ L'acte constitutif contient au moins les données mentionnées dans l'extrait vi
 Les statuts peuvent prévoir que, lorsque le but désintéressé de la fondation est réalisé, le fondateur ou ses ayants droit peuvent reprendre une somme égale à la valeur des biens ou les biens eux-mêmes que le fondateur a affectés à la réalisation de ce but.
 
 ***Article 11:3***  
-Toute action intentée par une fondation n'ayant pas respecté les formalités prévues à l'article 2:11 est suspendue. Avant de déclarer l'action irrecevable, le juge fixe un délai endéans lequel la fondation peut encore satisfaire à ces formalités.
+`Abrogé`
 
 ***Article 11:4***  
 Si le maintien des statuts sans modification aurait des conséquences que le fondateur n'a raisonnablement pas pu vouloir au moment de la création, et que les personnes habilitées à les modifier négligent de le faire, le tribunal de l'entreprise peut, à la demande d'un administrateur au moins ou à la requête du ministère public, modifier les statuts. Dans ce cadre, il veille à s'écarter le moins possible des statuts existants.
@@ -43,7 +43,7 @@ S'il y a plusieurs administrateurs, ils exercent leur mandat de manière collég
 § 1er. L'organe d'administration a le pouvoir d'accomplir tous les actes nécessaires ou utiles à la réalisation de l'objet de la fondation.  
 Les administrateurs peuvent convenir de la répartition des tâches entre eux. Une telle répartition des tâches n'est pas opposable aux tiers, même si elle est publiée.  
 
-§ 2. L'organe d'administration représente la fondation, en ce compris la représentation en justice. Sans préjudice de l'article 11:6, les statuts peuvent octroyer le pouvoir de représentation à un ou plusieurs administrateurs pour représenter la fondation individuellement, conjointement ou collégialement. Une telle clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
+§ 2. L'organe d'administration représente la fondation, en ce compris la représentation en justice. Sans préjudice de l'article 11:6, les statuts peuvent prévoir que la fondation est représentée par un ou plusieurs administrateurs, agissant seuls ou conjointement. Une telle clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
 Les statuts peuvent apporter des restrictions à ce pouvoir de représentation. Une telle limitation n'est pas opposable aux tiers, même si elle est publiée. Il en va de même pour une répartition des tâches entre les administrateurs ayant le pouvoir de représentation.
 
 ***Article 11:8***  
@@ -79,14 +79,14 @@ Dans ce cas, les nouveaux administrateurs seront nommés par le tribunal en conf
 #### Section 3. Gestion journalière.
 
 ***Article 11:14***  
-Les statuts peuvent prévoir que l'organe d'administration peut charger une ou plusieurs personnes, qui agissent chacune individuellement, conjointement ou collégialement, de la gestion journalière de la fondation, ainsi que de la représentation de la fondation en ce qui concerne cette administration. L'organe d'administration qui a désigné l'organe de gestion journalière est chargé de la surveillance de celui-ci.  
+L'organe d'administration peut charger une ou plusieurs personnes, qui agissent chacune individuellement, conjointement ou collégialement, de la gestion journalière de la fondation, ainsi que de la représentation de la fondation en ce qui concerne cette administration. L'organe d'administration qui a désigné l'organe de gestion journalière est chargé de la surveillance de celui-ci.  
 La gestion journalière comprend aussi bien les actes et les décisions qui n'excèdent pas les besoins de la vie quotidienne de la fondation que les actes et les décisions qui, soit en raison de l'intérêt mineur qu'ils représentent, soit en raison de leur caractère urgent, ne justifient pas l'intervention de l'organe d'administration.  
 La disposition selon laquelle la gestion journalière est confiée à une ou plusieurs personnes qui agissent chacune individuellement, conjointement ou collégialement, est opposable aux tiers aux conditions fixées à l'article 2:18. Les limitations au pouvoir de représentation de l'organe de gestion journalière ne sont toutefois pas opposables aux tiers, même si elles sont publiées.
 
 ## Titre 3. Libéralités.
 
 ***Article 11:15***  
-A l'exception des dons manuels, toute libération entre vifs au profit de la fondation dont la valeur excède 100 000 euro doit être autorisée par le ministre de la Justice ou son délégué.  
+A l'exception des dons manuels, toute libéralité entre vifs au profit de la fondation dont la valeur excède 100 000 euro doit être autorisée par le ministre de la Justice ou son délégué.  
 La libéralité est réputée autorisée si le ministre de la Justice ou son délégué n'a pas réagi dans un délai de trois mois à dater de la demande d'autorisation qui lui est adressée.  
 Le ministre de la Justice détermine les pièces qui doivent être jointes à la demande.  
 Si le dossier communiqué par la fondation est incomplet, le ministre de la Justice ou son délégué en informe la fondation par lettre recommandée en indiquant les pièces manquantes. Le délai de trois mois est suspendu à la date de cet envoi jusqu'à la communication de l'ensemble des pièces sollicitées.  
@@ -97,5 +97,4 @@ Le montant visé à l'alinéa 1er peut être modifié par arrêté royal délib�
 
 ***Article 11:16***  
 A la requête du ministère public ou de tout intéressé, le tribunal de l'entreprise peut ordonner la fermeture d'une succursale belge d'une fondation étrangère dont les activités contreviennent gravement aux statuts de la fondation dont elle dépend, ou contreviennent à la loi ou à l'ordre public. La décision judiciaire passée en force de chose jugée de fermeture de la succursale est déposée dans le mois par la fondation, le ministère public ou tout intéressé, au greffe du tribunal de l'entreprise où est tenu le dossier visé à l'article 2:23.  
-Toute action intentée par une succursale ou par la fondation dont la succursale dépend, est suspendue si la succursale ou la fondation n'a pas respecté les formalités prévues aux articles 2:26 et 3:54. Avant de déclarer l'action irrecevable, le juge fixe un délai endéans lequel la succursale ou la fondation peut encore satisfaire à ces formalités.  
 L'article 11:15 est applicable aux libéralités au profit des fondations étrangères.

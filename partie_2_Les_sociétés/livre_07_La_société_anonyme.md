@@ -215,7 +215,7 @@ La société tient à son siège un registre pour chaque catégorie de titres no
 ***Article 7:29***  
 Le registre des actions nominatives mentionne:  
 1. le nombre total des actions émises par la société et, le cas échéant, le nombre total par classe;  
-2. pour les personnes physiques, le nom et le domicile et pour les personnes morales, la dénomination, le siège et le numéro d'immatriculation visé à l'article 2:24, § 1er, 3°, et § 2, 3°, de chaque actionnaire;  
+2. pour les personnes physiques, le nom et le domicile et pour les personnes morales, la dénomination et le siège de chaque actionnaire;  
 3. le nombre d'actions détenues par chaque actionnaire et leur classe;  
 4. les versements faits sur chaque action;  
 5. les restrictions relatives à la cessibilité résultant des statuts et, lorsqu'une des parties le demande, les restrictions relatives à la cessibilité des actions résultant de conventions ou des conditions d'émission;  
@@ -229,10 +229,17 @@ La société tient à son siège un registre pour chaque catégorie de titres no
 
 ***Article 7:31***  
 Le registre des parts bénéficiaires nominatives mentionne:  
-1. les droits de vote ainsi que les droits aux bénéfices attachés à chaque part bénéficiaire, ainsi que leur part dans le solde de liquidation;  
-2. la date de leur émission;  
-3. les conditions de leur cession;  
-4. les transferts avec leur date et la conversion des parts bénéficiaires nominatives en parts bénéficiaires dématérialisées, si les statuts autorisent la conversion.
+1. le nombre total des parts bénéficiaires émises par la société et, le cas échéant, le nombre total par classe;  
+2. pour les personnes physiques, le nom et le domicile et pour les personnes morales, la dénomination et le siège de chaque actionnaire;  
+3. le nombre de parts bénéficiaires détenues par chaque titulaire de part bénéficiaire et leur classe;  
+4. le cas échéant, les versements faits sur chaque part bénéficiaire;  
+5. les droits de vote ainsi que les droits aux bénéfices attachés à chaque part bénéficiaire, ainsi que leur part dans le solde de liquidation;  
+6. la date de leur émission;  
+7. les conditions de leur cession;  
+8. les transferts avec leur date et la conversion des parts bénéficiaires nominatives en parts bénéficiaires dématérialisées, si les statuts autorisent la conversion. Si le registre est tenu sous forme électronique, la déclaration de cession peut adopter une forme électronique et être signée par un ensemble de données électroniques pouvant être imputé à une personne déterminée et établissant le maintien de l'intégrité du contenu de l'acte;  
+9. les restrictions relatives à la cessibilité résultant des statuts et, lorsqu'une des parties le demande, les restrictions relatives à la cessibilité des parts bénéficiaires résultant de conventions ou des conditions d'émission.  
+
+En cas de contradiction entre les statuts et le registre des parts bénéficiaires, les statuts prévalent.
 
 ***Article 7:32***  
 Le registre des obligations nominatives mentionne:  
@@ -259,6 +266,7 @@ L'organe d'administration délivre à la demande de celui qui est inscrit en qua
 Le titre dématérialisé est représenté par une inscription en compte, au nom de son propriétaire ou de son détenteur, auprès d'un organisme de liquidation ou d'un teneur de comptes agréé.  
 Le Roi désigne par catégorie de titres les organismes de liquidation chargés d'assurer la conservation des titres dématérialisés et la liquidation des transactions sur de tels titres. Il agrée les teneurs de comptes en Belgique de manière individuelle ou de manière générale par catégorie d'établissements, en fonction de leur activité.  
 Le nombre des titres dématérialisés en circulation à tout moment est inscrit, par catégorie de titres, dans le registre des titres nominatifs au nom de l'organisme de liquidation ou, le cas échéant, du teneur de comptes agréé en cas d'application de l'article 7:44.  
+Par dérogation à l'alinéa qui précède, pour les obligations l'inscription visée par ledit alinéa concerne non le nombre des titres dématérialisés, mais leur montant total.  
 L'inscription de titres en compte confère un droit de copropriété, de nature incorporelle, sur l'universalité des titres de même catégorie inscrits au nom de l'organisme de liquidation ou, le cas échéant, du teneur de comptes agréé en cas d'application de l'article 7:44, dans le registre des titres nominatifs visé à l'alinéa 3.  
 La Banque nationale de Belgique est chargée de contrôler le respect, par les teneurs de comptes agréés en Belgique, des règles prévues par ou en vertu de la présente section. Pour l'exercice de ce contrôle, pour l'imposition de sanctions administratives et pour la prise d'autres mesures à l'égard des teneurs de comptes agréés, la Banque nationale de Belgique:  
 1. utilise, s'agissant d'établissements de crédit, les compétences qui lui ont été attribuées par la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse;  
@@ -347,14 +355,15 @@ Lorsqu'elles n'ont pas toutes la même valeur représentative du capital, leur t
 Dans les sociétés non cotées, les statuts peuvent déroger à l'article 7:51.
 
 ***Article 7:53***  
-§ 1er. Dans les sociétés cotées, les statuts peuvent conférer aux actions entièrement libérées, qui sont inscrites depuis au moins deux années sans interruption au nom du même actionnaire dans le registre des actions nominatives, un double droit de vote par rapport aux autres actions représentant une même part du capital. Par dérogation à l'article 7:153, alinéa 4, cette décision peut être prise à la majorité des deux tiers des voix exprimées. Cette disposition statutaire s'applique à toutes les actions qui répondent aux conditions.  
+§ 1er. Dans les sociétés cotées, les statuts peuvent conférer aux actions entièrement libérées, qui sont inscrites depuis au moins deux années sans interruption au nom du même actionnaire dans le registre des actions nominatives, un double droit de vote par rapport aux autres actions représentant une même part du capital. Par dérogation à l'article 7:153, alinéa 4, cette décision peut être prise à la majorité des deux tiers des voix exprimées. Il ne peut être dérogé à cette majorité que par une disposition statutaire qui vise spécifiquement l'introduction du droit de vote double. Cette disposition statutaire s'applique à toutes les actions qui répondent aux conditions.  
 Le délai de deux ans commence à courir à la date où les actions sont inscrites au nominatif, alors même que cette inscription aurait été effectuée avant le jour de l'adoption de la disposition statutaire instaurant le droit de vote double et avant que la société ne soit cotée.  
 En cas d'augmentation de capital par incorporation de réserves, le double droit de vote est reconnu dès leur émission aux actions de bonus qui sont attribuées aux actionnaires à raison des actions anciennes pour lesquelles ils disposent de ce droit.  
+La suppression du droit de vote double est soumise aux mêmes conditions de quorum et de majorité que pour son introduction.  
 
 § 2. Toute action convertie en action dématérialisée ou transférée en propriété perd le droit de vote double attribué en application du paragraphe 1er.  
 Toutefois, le transfert d'actions par suite de succession, de liquidation de régime matrimonial ou de cession à titre onéreux ou à titre gratuit au profit d'un successible n'entraîne pas la perte du droit de vote double et n'interrompt pas le délai mentionné au paragraphe 1er. Il en est de même en cas du transfert d'actions entre sociétés qui sont contrôlées par un même, ou s'il y a contrôle conjoint, par les mêmes actionnaires de contrôle, personnes physiques ou morales, ou entre l'une de ces sociétés et ces actionnaires de contrôle.  
-Si les actions sont détenues par une société, le changement de contrôle de celle-ci vaut transfert de ces actions, sauf si le changement de contrôle s'opère au bénéfice de l'époux ou d'un ou plusieurs successibles de l'actionnaire ou des actionnaires contrôlant cette société.  
-N'a pas davantage pour effet la perte du droit de vote double visé au paragraphe 1er et n'interrompt pas le délai visé au même paragraphe, le transfert d'actions à une personne morale contre l'émission de certificats visés à l'article 7:61, § 1er, alinéa 1er, assortie de l'engagement de cette personne de réserver tout produit ou revenu au titulaire de ces certificats, ni l'échange de certificats contre des actions visé à l'article 7:61, § 1er, alinéa 6, ou § 2, alinéa 2, pour autant qu'il intervienne au profit de celui qui a procédé à la certification ou d'un de ses cessionnaires répondant aux conditions de l'alinéa 2 ou 3.  
+Si les actions sont détenues par une société, le changement de contrôle de celle-ci vaut transfert de ces actions, sauf si le changement de contrôle s'opère au bénéfice de l'époux, du cohabitant légal ou d'un ou plusieurs successibles de l'actionnaire ou des actionnaires contrôlant cette société.  
+N'a pas davantage pour effet la perte du droit de vote double visé au paragraphe 1er et n'interrompt pas le délai visé au même paragraphe, le transfert d'actions à une personne morale contre l'émission de certificats visés à l'article 7:61, § 1er, alinéa 1er, assortie de l'engagement de cette personne de réserver tout produit ou revenu au titulaire de ces certificats, ni l'échange de certificats contre des actions visé à l'article 7:61, § 1er, alinéa 6, ou § 2, alinéa 2, pour autant qu'il intervienne au profit de celui qui a procédé à la certification ou d'un de ses cessionnaires répondant aux conditions de l'alinéa 2 ou 3. Un changement de contrôle de la personne morale visée dans la phrase précédente entraîne la perte du droit de vote double sauf si ce changement de contrôle a lieu au bénéfice de cessionnaires qui remplissent les conditions prévues au deuxième ou troisième alinéa. Les articles 1:14 à 1:18 s'appliquent mutatis mutandis.  
 La fusion ou la scission de la société cotée est sans effet sur le droit de vote double qui peut continuer à être exercé au sein des sociétés bénéficiaires, si les statuts de celles-ci le prévoient.  
 
 § 3. Les actions qui bénéficient du double droit de vote par application du présent article, ne constituent pas une classe d'actions au sens de l'article 7:155.  
@@ -369,10 +378,11 @@ Les statuts peuvent limiter le nombre de voix dont chaque actionnaire dispose da
 
 ***Article 7:56***  
 § 1er. L'exercice du droit de vote peut faire l'objet de conventions.  
-Ces conventions doivent être limitées dans le temps et ne peuvent être contraires à l'intérêt de la société.  
+Ces conventions doivent être limitées dans le temps et ne peuvent être contraires à l'intérêt social.  
 Sont nulles:  
-1. les conventions qui ne sont pas limitées dans le temps ou qui sont contraires aux dispositions du présent code ou à l'intérêt de la société;  
-2. les conventions par lesquelles un actionnaire s'engage à voter conformément aux instructions de la société, d'une filiale ou de l'un de leurs organes ou s'engage, envers ces mêmes sociétés ou organes, à approuver les propositions émanant des organes de la société.  
+1. les conventions qui sont contraires aux dispositions du présent code ;  
+2. les conventions par lesquelles un actionnaire s'engage à voter conformément aux directives données par la société, par une filiale ou encore par l'un des organes de ces sociétés;  
+3. les conventions par lesquelles un actionnaire ou un autre titulaire de titres s'engage envers les mêmes sociétés ou les mêmes organes à approuver les propositions émanant des organes de la société.  
 
 § 2. Les votes émis en assemblée générale en vertu des conventions visées au paragraphe 1er, alinéa 3, sont nuls. Ces votes entraînent la nullité des décisions prises à moins qu'ils n'aient eu aucune incidence sur la validité du vote intervenu.
 
@@ -383,7 +393,7 @@ Sont nulles:
 1. dans le cas visé à l'article 7:155;  
 2. en cas de transformation de la société;  
 3. en cas de fusion transfrontalière entraînant la dissolution la société;  
-4. en cas de déplacement transfrontalier du siège statutaire conformément à l'article 14:15.  
+4. en cas de déplacement transfrontalier du siège conformément à l'article 14:15.  
 
 § 2. En cas d'émission d'actions sans droit de vote auxquelles un dividende privilégié est attribué, ces actions bénéficient néanmoins d'un droit de vote, nonobstant toute disposition contraire dans les statuts, la décision d'émission ou une convention si les dividendes privilégiés n'ont pas été entièrement mis en paiement durant deux exercices successifs. Le droit de vote cesse à nouveau lorsqu'il est distribué un dividende qui, additionné au dividende de l'exercice concerné, est équivalent au montant des dividendes privilégiés non distribués.  
 Lorsqu'elles n'ont pas toutes la même valeur représentative du capital, l'article 7:51, alinéa 2, est d'application.
@@ -519,7 +529,7 @@ Les conditions d'émission de titres visés à l'alinéa 1er sont publiées rég
 #### Section 3. L'offre de reprise.
 
 ***Article 7:82***  
-§ 1er. Toute personne physique ou morale, qui, agissant seule ou de concert, détient 95 % des titres conférant le droit de vote émis par une société anonyme cotée, peut faire une offre publique de reprise afin d'acquérir la totalité des titres de cette société conférant le droit de vote ou donnant accès au droit de vote.  
+§ 1er. Toute personne physique ou morale, qui, agissant seule ou de concert, détient directement ou indirectement 95 % des titres conférant le droit de vote émis par une société anonyme cotée, peut faire une offre publique de reprise afin d'acquérir la totalité des titres de cette société conférant le droit de vote ou donnant accès au droit de vote.  
 Pour le calcul du pourcentage de 95 % des titres avec droit de vote visé à l'alinéa 1er, il n'est pas tenu compte du droit de vote double visé à l'article 7:53.  
 A l'issue de la procédure, les titres non présentés, que leur propriétaire se soit ou non manifesté, sont réputés transférés de plein droit à cette personne avec consignation du prix.  
 A l'issue de l'offre de reprise, la société n'est plus considérée comme une société cotée.  
@@ -527,7 +537,7 @@ Par personnes agissant de concert, il faut entendre:
 1. les personnes physiques ou morales qui coopèrent avec l'offrant, avec la société visée ou avec d'autres personnes, sur la base d'un accord, formel ou tacite, oral ou écrit, visant à obtenir le contrôle de la société visée ou à maintenir le contrôle de la société visée;  
 2. les personnes physiques ou morales qui ont conclu un accord portant sur l'exercice concerté de leurs droits de vote, en vue de mener une politique commune durable vis-à-vis de la société concernée.  
 
-§ 2. Toute personne physique ou morale, qui, agissant seule ou de concert, détient 95 % des titres conférant le droit de vote émis par une société anonyme non cotée, peut faire une offre de reprise afin d'acquérir la totalité des titres de cette société conférant le droit de vote ou donnant accès au droit de vote.  
+§ 2. Toute personne physique ou morale, qui, agissant seule ou de concert, détient directement ou indirectement 95 % des titres conférant le droit de vote émis par une société anonyme non cotée, peut faire une offre de reprise afin d'acquérir la totalité des titres de cette société conférant le droit de vote ou donnant accès au droit de vote.  
 Pour le calcul du pourcentage de 95 % des titres, avec droit de vote visé à l'alinéa 1er, il n'est pas tenu compte du droit de vote multiple.  
 A l'issue de la procédure, à l'exception des titres dont le propriétaire a fait savoir expressément et par écrit qu'il refusait de s'en défaire, les titres non présentés sont réputés transférés de plein droit à la personne ayant fait offre de reprise avec consignation du prix. Les titres dématérialisés dont le propriétaire a fait savoir qu'il refusait de se défaire sont convertis de plein droit en titres nominatifs et sont inscrits au registre des titres nominatifs par l'émetteur.  
 L'offre visée à l'alinéa 1er n'est pas soumise à la loi du 1er avril 2007 relative aux offres publiques d'acquisition.  
@@ -587,7 +597,7 @@ L'assemblée générale peut toutefois, en toute hypothèse, mettre un terme au 
 Dans les sociétés cotées et les entités d'intérêt public visées à l'article 1:12, 2°, au moins un tiers des membres du conseil d'administration sont de sexe différent de celui des autres membres; le nombre minimum exigé étant arrondi au nombre entier le plus proche. Si l'administrateur est une personne morale, son sexe est déterminé par celui de son représentant permanent.  
 Si pour quelque raison que ce soit, la composition du conseil d'administration ne répond pas ou plus aux conditions fixées à l'alinéa 1er, la première assemblée générale qui suit constitue un conseil d'administration qui répond à ces exigences, sans qu'il soit porté préjudice à la régularité de la composition du conseil d'administration jusqu'à cette date. Toute autre nomination est nulle.  
 Si après l'assemblée générale visée à l'alinéa 2, la composition du conseil d'administration n'est pas conforme aux alinéas 1er et 2, tout avantage, financier ou autre, revenant aux administrateurs sur la base de leur mandat, est suspendu à partir de ce moment et ce, jusqu'au moment où au moins un tiers des membres du conseil d'administration sera d'un sexe différent de celui des autres membres.  
-La composition du conseil d'administration des sociétés dont les actions sont cotées pour la première fois doit être au conforme à l'alinéa 1er, à compter du premier jour de la sixième année qui suit la cotation.
+La composition du conseil d'administration des sociétés dont les titres sont cotés pour la première fois doit être au conforme à l'alinéa 1er, à compter du premier jour de la sixième année qui suit la cotation.
 
 ***Article 7:87***  
 § 1er. Un administrateur d'une société cotée est considéré comme indépendant s'il n'entretient pas avec la société ou un actionnaire important de celle-ci de relation qui soit de nature à mettre son indépendance en péril. Si l'administrateur est une personne morale, l'indépendance doit être appréciée tant dans le chef de la personne morale que de son représentant permanent.  
@@ -601,7 +611,7 @@ Un administrateur indépendant qui cesse de remplir les conditions précitées e
 § 1er. En cas de vacance d'une place d'administrateur, les administrateurs restants ont le droit de coopter un nouvel administrateur, sauf si les statuts l'excluent.  
 La première assemblée générale qui suit doit confirmer le mandat de l'administrateur coopté; en cas de confirmation, l'administrateur coopté termine le mandat de son prédécesseur, sauf si l'assemblée générale en décide autrement. A défaut de confirmation, le mandat de l'administrateur coopté prend fin après l'assemblée générale, sans que cela puisse porter préjudice à la régularité de la composition du conseil d'administration jusqu'à cette date.  
 
-§ 2. Si la composition du conseil d'administration d'une société cotée ne satisfait plus aux conditions fixées à l'article 7:86, alinéa 1er, en raison de la vacance d'une place d'administrateur, le conseil d'administration qui fait usage de son pouvoir de cooptation veille à ce que sa composition réponde à nouveau à ces exigences, sans que cela puisse porter préjudice à la régularité de la composition du conseil d'administration jusqu'à ce moment. Toute autre nomination est nulle.  
+§ 2. Si la composition du conseil d'administration d'une société cotée ou d'une entité d'intérêt public visée à l'article 1:12, 2° ne satisfait plus aux conditions fixées à l'article 7:86, alinéa 1er, en raison de la vacance d'une place d'administrateur, le conseil d'administration qui fait usage de son pouvoir de cooptation veille à ce que sa composition réponde à nouveau à ces exigences, sans que cela puisse porter préjudice à la régularité de la composition du conseil d'administration jusqu'à ce moment. Toute autre nomination est nulle.  
 L'article 7:86, alinéa 3, s'applique par analogie à compter du moment où le conseil d'administration a usé de son pouvoir de cooptation sans mettre sa composition en conformité avec l'article 7:86, alinéa 1er.
 
 ##### Sous-section 2. Rémunération.
@@ -633,7 +643,7 @@ Les alinéas 2 et 3 sont applicables par analogie à l'alinéa 4.
 § 1er. Le conseil d'administration a le pouvoir d'accomplir tous les actes nécessaires ou utiles à la réalisation de l'objet de la société, à l'exception de ceux que la loi réserve à l'assemblée générale.  
 Les statuts peuvent apporter des restrictions aux pouvoirs du conseil d'administration. Ces restrictions ne sont pas opposables aux tiers, même si elles sont publiées. Il en va de même pour une répartition des tâches entre les administrateurs.  
 
-§ 2. Le conseil d'administration représente la société à l'égard des tiers, en ce compris la représentation en justice. Sans préjudice de l'article 7:85, § 1er, alinéa 1er, les statuts peuvent donner qualité à un ou plusieurs administrateurs pour représenter la société, soit seuls, soit conjointement. Cette clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
+§ 2. Le conseil d'administration représente la société à l'égard des tiers, en ce compris la représentation en justice. Sans préjudice de l'article 7:85, § 1er, alinéa 1er, les statuts peuvent prévoir que la société est représentée par un ou plusieurs administrateurs, agissant seuls ou conjointement. Cette clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
 Les statuts peuvent apporter des restrictions à ce pouvoir de représentation. Ces restrictions ne sont pas opposables aux tiers, même si elles sont publiées. Il en va de même pour une répartition des tâches entre les administrateurs ayant le pouvoir de représentation.
 
 ***Article 7:94***  
@@ -688,7 +698,7 @@ Le conseil d'administration peut créer en son sein et sous sa responsabilité u
 ***Article 7:99***  
 § 1er. Les sociétés cotées et les entités d'intérêt public visées à l'article 1:12, 2°, constituent un comité d'audit au sein de leur conseil d'administration.  
 
-§ 2. Le comité d'audit est composé de membres non exécutifs du conseil d'administration. Au moins un membre du comité d'audit est un administrateur indépendant.  
+§ 2. Le comité d'audit est composé de membres non exécutifs du conseil d'administration. Au moins un membre du comité d'audit est un administrateur indépendant au sens de l'article 7:87, § 1er.  
 Le président du comité d'audit est désigné par les membres du comité.  
 Les membres du comité d'audit disposent d'une compétence collective dans le domaine d'activités de la société contrôlée. Au moins un membre du comité d'audit justifie de la compétence nécessaire en matière de comptabilité et d'audit.  
 
@@ -736,7 +746,7 @@ Les missions du commissaire et, le cas échéant, du réviseur d'entreprises cha
 § 1er. Les sociétés cotées constituent un comité de rémunération au sein de leur conseil d'administration.  
 
 § 2. Le comité de rémunération est composé de membres non exécutifs du conseil d'administration. Tout administrateur qui s'est vu déléguer la gestion journalière visée à l'article 7:121 est dans tous les cas présumé être un membre exécutif du conseil d'administration.  
-Le comité de rémunération est composé d'une majorité d'administrateurs indépendants et est compétent en matière de politique de rémunération.  
+Le comité de rémunération est composé d'une majorité d'administrateurs indépendants au sens de l'article 7:87, § 1er, et est compétent en matière de politique de rémunération.  
 
 § 3. Sans préjudice du paragraphe 2, le président du conseil d'administration ou un autre administrateur non exécutif préside le comité.  
 
@@ -767,8 +777,9 @@ Le conseil d'administration communique le rapport de rémunération visé au par
 
 ***Article 7:101***  
 § 1er. Les statuts peuvent prévoir que la société est administrée par un administrateur unique, qui peut être nommé dans les statuts.  
-Dans une société cotée ou lorsqu'une disposition légale impose une administration collégiale, l'administrateur unique doit être une société anonyme administrée par un organe collégial. Dans ce cas, la section 1re s'applique par analogie tant à l' administrateur unique qu'à son organe d'administration et aux membres de celui-ci.  
-Si l'administrateur unique est une société anonyme avec une administration duale, les dispositions de la section 3 sont d'application par analogie tant à l'administrateur unique qu'à son conseil de surveillance et à son conseil de direction et à leurs membres.  
+Dans une société cotée ou lorsqu'une disposition légale impose une administration collégiale, l'administrateur unique doit être une société anonyme administrée par un organe collégial.  
+Si l'administrateur unique est une société anonyme avec une administration moniste, les articles 7:89, 7:89/1, 7:90, 7:91, 7:92, alinéas 1er, 2 et 3, 7:93 et 7:94 s'appliquent par analogie à l'administrateur unique. La section 1re s'applique à son organe d'administration et à ses membres, à l'exception de l'article 7:96.  
+Si l'administrateur unique est une société anonyme avec une administration duale, les articles 7:89, 7:89/1, 7:90, 7:91, 7:92, alinéas 1er, 2 et 3, 7:93 et 7:94 s'appliquent par analogie à l'administrateur unique. La section 3 s'applique à son conseil de surveillance et à son conseil de direction ainsi qu'à leurs membres, à l'exception de l'article 7:115.  
 Les statuts peuvent nommer un successeur de l'administrateur unique.  
 
 § 2. Les statuts peuvent prévoir que l'administrateur unique est solidairement et indéfiniment responsable des obligations de la société. Dans ce cas, l'administrateur ne peut être personnellement condamné en raison des obligations de la société tant que cette dernière n'a pas été elle-même condamnée.  
@@ -783,14 +794,14 @@ A défaut, le président remet la cause à une date rapprochée à laquelle la s
 
 ***Article 7:102***  
 § 1er. Lorsque l'administrateur unique est appelé à prendre une décision ou à se prononcer sur une opération relevant de sa compétence à propos de laquelle il a un intérêt direct ou indirect de nature patrimoniale qui est opposé à celui de la société, il soumet cette décision ou cette opération à l'assemblée générale; en cas d'approbation de la décision ou de l'opération par celle-ci, l'organe d'administration peut l'exécuter.  
-Lorsque l'administrateur unique, personne morale, est doté d'un organe d'administration collégial et est appelé à prendre une décision ou se prononcer sur une opération à propos de laquelle un membre de cet organe d'adminstration a un intérêt direct ou indirect de nature patrimoniale qui est opposé à l'intérêt de la société, l'article 7:96 est d'application. Lorsque tous les administrateurs de l'organe d'administration de l'administrateur unique ont un intérêt opposé, la décision ou l'opération est soumise à l'assemblée générale; en cas d'approbation de la décision ou de l'opération par celle-ci, l'organe d'administration peut l'exécuter.  
+Lorsque l'administrateur unique, personne morale, est doté d'un organe d'administration collégial et est appelé à prendre une décision ou se prononcer sur une opération à propos de laquelle un membre de cet organe d'adminstration a un intérêt direct ou indirect de nature patrimoniale qui est opposé à l'intérêt de la société, l'article 7:96 en cas d'administration moniste ou l'article 7:117 en cas d'administration duale sont d'application. Lorsque tous les membres de l'organe d'administration de l'administrateur unique appelé à statuer sur le conflit d'intérêts ont un intérêt opposé, la décision ou l'opération est soumise à l'assemblée générale; en cas d'approbation de la décision ou de l'opération par l'assemblée générale de la société administrée, l'organe d'administration, ou, en cas d'administration duale, le conseil de direction, peut l'exécuter.  
 Si l'administrateur unique est également l'actionnaire unique, il peut prendre la décision ou réaliser l'opération lui-même.  
 
 § 2. A moins que l'administrateur unique soit également l'actionnaire unique, le paragraphe 1er n'est pas applicable lorsque les décisions ou opérations visées ci-dessus ont été conclues entre sociétés dont l'une détient directement ou indirectement 95 % au moins des voix attachées à l'ensemble des titres émis par l'autre ou entre sociétés dont 95 % au moins des voix attachées à l'ensemble des titres émis par chacune d'elles sont détenus par une autre société.  
 En outre, le paragraphe 1er n'est pas applicable lorsque les décisions de l'administrateur unque concernent des opérations habituelles conclues dans des conditions et sous les garanties normales du marché pour des opérations de même nature.
 
 ***Article 7:103***  
-§ 1er. Selon le cas, l'assemblée générale, les autres administrateurs, ou l'administrateur unique qui est également l'actionnaire unique décrivent, dans le procès-verbal ou dans un rapport spécial, la nature de la décision ou de l'opération visée à l'article 7:102, § 1er, ainsi que les conséquences patrimoniales de celle-ci pour la société et justifient la décision qui a été prise. Lorsque l'administrateur unique est également l'actionnaire unique, il inscrit également dans son rapport spécial les contrats conclus entre lui et la société.  
+§ 1er. Selon le cas, l'assemblée générale, les autres membres de l'organe d'administration, ou l'administrateur unique qui est également l'actionnaire unique décrivent, dans le procès-verbal ou dans un rapport spécial, la nature de la décision ou de l'opération visée à l'article 7:102, § 1er, ainsi que les conséquences patrimoniales de celle-ci pour la société et justifient la décision qui a été prise. Lorsque l'administrateur unique est également l'actionnaire unique, il inscrit également dans son rapport spécial les contrats conclus entre lui et la société.  
 Cette partie du procès-verbal ou ce rapport figure dans son intégralité dans le rapport de gestion ou dans une pièce qui est déposée en même temps que les comptes annuels.  
 Si la société a nommé un commissaire, le procès-verbal ou le rapport lui est communiqué. Dans son rapport visé à l'article 3:74, le commissaire évalue dans une section séparée les conséquences patrimoniales pour la société des décisions de l'assemblée générale ou de l'administrateur unique ou, telles que décrites dans le procès-verbal ou le rapport, pour lesquelles il existe un intérêt opposé tel que visé à l'article 7:102.  
 
@@ -837,7 +848,7 @@ Les articles 7:90, 7:91 et 7:92 s'appliquent par analogie aux membres du conseil
 ***Article 7:109***  
 § 1er. Le conseil de surveillance est chargé de la politique générale et la stratégie de la société et de tous les actes qui sont réservés spécifiquement au conseil d'administration au sens de la section 1re par d'autres dispositions du présent code. Il rédige tous les rapports prévus par le code ainsi que tous les projets prescrits par les livres 12 et 14. Il exerce la surveillance du conseil de direction. Les membres du conseil de surveillance peuvent se partager entre eux les tâches du conseil de surveillance.  
 
-§ 2. Sans préjudice de l'article 7:110, alinéa 2, le conseil de surveillance représente la société envers les tiers dans toutes les matières pour lesquelles il est exclusivement compétent conformément au paragraphe 1er. Sans préjudice de l'article 7:105, § 1er, les statuts peuvent donner qualité à un ou à plusieurs membres du conseil de surveillance pour représenter la société dans ces matières, soit seuls, soit conjointement. Une telle clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
+§ 2. Sans préjudice de l'article 7:110, alinéa 2, le conseil de surveillance représente la société envers les tiers, en ce compris la représentation en justice, dans toutes les matières pour lesquelles il est exclusivement compétent conformément au paragraphe 1er. Sans préjudice de l'article 7:105, § 1er, les statuts peuvent prévoir que la société est représentée dans ces matières par un ou à plusieurs membres du conseil de surveillance, agissant seuls ou conjointement. Une telle clause de représentation est opposable aux tiers aux conditions fixées à l'article 2:18.  
 Les statuts peuvent apporter des restrictions à ce pouvoir de représentation. Une telle limitation n'est pas opposable aux tiers, même si elle est publiée. Il en va de même pour une répartition des tâches entre les membres du conseil de surveillance ayant le pouvoir de représentation.  
 
 § 3. Après l'arrêt des comptes annuels, le conseil de surveillance se prononce par un vote spécial sur la décharge des membres du conseil de direction. Cette décharge n'est valable que lorsque l'information qui est à la base du projet de comptes annuels ne comprend pas d'omissions ni de mentions erronées qui sont de nature à donner une image de la situation de la société qui ne correspond pas à la réalité, et, pour les violations des statuts ou du présent code, lorsque le conseil de direction a expressément communiqué ces violations au conseil de surveillance.
@@ -891,7 +902,7 @@ Le comité rend au conseil de surveillance un avis écrit circonstancié et moti
 
 § 4. Après avoir pris connaissance de l'avis du comité visé au paragraphe 3, et sans préjudice de l'article 7:115, le conseil de surveillance délibère quant aux décisions et opérations prévues.  
 Le conseil de surveillance confirme dans le procès-verbal de la réunion que la procédure décrite ci-dessus a été respectée et précise, le cas échéant, les motifs sur la base desquels il déroge à l'avis du comité.  
-Le commissaire apprécie la fidélité des données figurant dans l'avis du comité et dans le procès-verbal de l'organe d'administration. Cette appréciation est jointe au procès-verbal du conseil de surveillance.  
+Le commissaire évalue si les données financières et comptables figurant dans le procès-verbal de l'organe d'administration et dans l'avis du comité ne contiennent pas d'incohérences significatives par rapport à l'information dont il dispose dans le cadre de sa mission. Cette appréciation est jointe au procès-verbal du conseil de surveillance.
 La décision du comité, l'intégralité de la partie pertinente du procès-verbal du conseil de surveillance et l'appréciation du commissaire sont intégralement mentionnés dans le rapport de gestion.  
 
 § 5. Sans préjudice du droit des personnes mentionnées aux articles 2:44 et 2:46 de demander la nullité ou la suspension de la décision du conseil de surveillance, la société peut demander la nullité des décisions prises ou des opérations accomplies en violation du présent article, si l'autre partie à ces décisions ou opérations avait ou devait avoir connaissance de cette violation.  
@@ -913,7 +924,7 @@ Le conseil de surveillance peut créer en son sein et sous sa responsabilité un
 ***Article 7:119***  
 § 1er. Les sociétés cotées et les entités d'intérêt public visées à l'article 1:12, 2°, constituent un comité d'audit au sein de leur conseil de surveillance.  
 
-§ 2. Au moins un membre du comité d'audit est un membre indépendant du conseil de surveillance.  
+§ 2. Au moins un membre du comité d'audit est un membre indépendant du conseil de surveillance au sens de l'article 7:87, § 1er.  
 Le président du comité d'audit est désigné par les membres du comité.  
 Les membres du comité d'audit disposent d'une compétence collective dans le domaine d'activités de la société contrôlée. Au moins un membre du comité d'audit justifie de la compétence nécessaire en matière de comptabilité et d'audit.  
 
@@ -960,7 +971,7 @@ Les missions du commissaire et, le cas échéant, du réviseur d'entreprises cha
 ***Article 7:120***  
 § 1er. Les sociétés cotées constituent un comité de rémunération au sein de leur conseil de surveillance.  
 
-§ 2. Le comité de rémunération est composé d'une majorité de membres indépendants du conseil de surveillance et est compétent en matière de politique de rémunération.  
+§ 2. Le comité de rémunération est composé d'une majorité de membres indépendants du conseil de surveillance au sens de l'article 7:87, § 1er, et est compétent en matière de politique de rémunération.  
 
 § 3. Le président ou un autre membre du conseil de surveillance préside ce comité.  
 
@@ -998,7 +1009,7 @@ Dans une société cotée, les articles 7:90, 7:91 et 7:92 s'appliquent par anal
 #### Section 5. Responsabilités.
 
 ***Article 7:122***  
-Sans préjudice de l'article 2:56, les membres du conseil d'administration, l'administrateur unique, les membres de l'organe de gestion de l'administrateur unique ou les membres du conseil de surveillance sont, selon le cas, personnellement et solidairement responsables du préjudice subi par la société ou des tiers à la suite de décisions prises ou d'opérations accomplies conformément aux articles 7:96, 7:102 ou 7:115 si cette décision ou opération leur a procuré ou a procuré à l'un d'eux un avantage financier abusif au détriment de la société.  
+Sans préjudice de l'article 2:56, les membres du conseil d'administration, l'administrateur unique, les membres de l'organe d'administration de l'administrateur unique ou les membres du conseil de surveillance sont, selon le cas, personnellement et solidairement responsables du préjudice subi par la société ou des tiers à la suite de décisions prises ou d'opérations accomplies conformément aux articles 7:96, 7:102 ou 7:115 si cette décision ou opération leur a procuré ou a procuré à l'un d'eux un avantage financier abusif au détriment de la société.  
 Les membres du conseil d'administration, l'administrateur unique, les membres de l'organe d'administration de l'administrateur unique ou les membres du conseil de surveillance sont personnellement et solidairement responsables du préjudice subi par la société ou des tiers à la suite de décisions ou d'opérations approuvées par eux, même dans le respect des dispositions des articles 7:97 ou 7:116, pour autant que ces décisions ou opérations aient causé à la société un préjudice financier abusif au bénéfice d'une société du groupe.  
 L'alinéa 1er est applicable aux membres du conseil de direction qui ont omis de renvoyer une décision ou une opération au conseil de surveillance comme le leur impose l'article 7:117, § 1er.  
 L'alinéa 2 est applicable aux membres du conseil de direction qui ont omis de renvoyer une décision ou une opération au conseil de surveillance comme le leur impose l'article 7:117, § 2.
@@ -1016,7 +1027,7 @@ Dans l'application du présent chapitre, la société veille à assurer l'égali
 
 ***Article 7:124***  
 L'assemblée générale des actionnaires exerce les pouvoirs que lui confère le présent code.  
-Les statuts peuvent étendre les pouvoirs de l'assemblée générale. Une telle extension n'est pas opposable aux tiers, à moins que la société ne prouve que le tiers en avait connaissance ou ne pouvait l'ignorer compte tenu des circonstances, sans que la seule publication des statuts suffise à constituer cette preuve.
+Les statuts peuvent étendre les pouvoirs de l'assemblée générale. Une telle extension n'est pas opposable aux tiers même si elle est publiée.
 
 ***Article 7:125***  
 Lorsque la société ne compte qu'un seul actionnaire, il exerce les pouvoirs dévolus à l'assemblée générale. Il ne peut les déléguer.
@@ -1024,7 +1035,7 @@ Lorsque la société ne compte qu'un seul actionnaire, il exerce les pouvoirs d�
 ##### Sous-section 3. Convocation de l'assemblée générale.
 
 ***Article 7:126***  
-Le conseil d'administration, ou, dans l'administration duale, le conseil de surveillance, et, le cas échéant, le commissaire, convoquent l'assemblée générale et fixent son ordre du jour. Ils sont tenus de convoquer l'assemblée générale dans un délai de trois semaines lorsque des actionnaires qui représentent un dixième du capital le demandent, avec au moins les points de l'ordre du jour proposés par ces actionnaires.
+Le conseil d'administration, l'administrateur unique ou le conseil de surveillance, et, le cas échéant, le commissaire, convoquent l'assemblée générale et fixent son ordre du jour. Ils sont tenus de convoquer l'assemblée générale dans un délai de trois semaines lorsque des actionnaires qui représentent un dixième du capital le demandent, avec au moins les points de l'ordre du jour proposés par ces actionnaires.
 
 ***Article 7:127***  
 § 1er. Dans une société non cotée, la convocation est faite par une annonce insérée au moins quinze jours avant l'assemblée:  
@@ -1033,13 +1044,13 @@ Le conseil d'administration, ou, dans l'administration duale, le conseil de surv
 3. lorsque la société dispose d'un site internet visé à l'article 2:31, sur le site internet de la société.  
 
 Si une nouvelle convocation est nécessaire en raison du fait que le quorum de présence requis n'a pas été atteint lors de la première assemblée convoquée et pour autant que la date de la deuxième assemblée ait été indiquée dans la première convocation et qu'aucun nouveau point n'ait été mis à l'ordre du jour, le délai visé à l'alinéa 1er est porté à dix jours au moins avant l'assemblée.  
-La convocation est communiquée conformément à l'article 2:32 dans le délai de convocation visé à l'alinéa 1er ou à l'alinéa 2, aux titulaires d'actions nominatives, d'obligations convertibles nominatives, de droits de souscription nominatifs et de certificats nominatifs émis avec la collaboration de la société, aux membres de l'organe d'administration et, le cas échéant, au commissaire. Quand l'ensemble des actions, obligations convertibles, droits de souscription ou certificats émis avec la collaboration de la société est nominatif, la société peut se limiter à cette communication.  
+La convocation est communiquée conformément à l'article 2:32 dans le délai de convocation visé à l'alinéa 1er ou à l'alinéa 2, aux titulaires d'actions nominatives, d'obligations convertibles nominatives, de droits de souscription nominatifs et de certificats nominatifs émis avec la collaboration de la société, d'actions nominatives sans droit de vote et de parts bénéficiaires nominatives sans droits de vote, aux membres de l'organe d'administration et, le cas échéant, au commissaire. Quand l'ensemble des actions, obligations convertibles, droits de souscription ou certificats émis avec la collaboration de la société est nominatif, la société peut se limiter à cette communication.  
 
 § 2. Pour l'application de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse, en ce qui concerne le redressement des établissements de crédit et des sociétés de bourse, l'assemblée générale peut, à la majorité des deux tiers des votes valablement exprimés, décider, ou modifier les statuts de manière à ce qu'ils prescrivent que la convocation à une assemblée générale pour décider de procéder à une augmentation de capital intervient entre dix à quinze jours avant cette assemblée, pour autant que:  
 1. les conditions de l'article 234, 235 ou 236 de la loi précitée du 25 avril 2014 soient remplies, et  
 2. l'augmentation de capital soit nécessaire pour éviter le déclenchement d'une procédure de résolution dans les conditions énoncées aux articles 244 et 454 de la loi précitée du 25 avril 2014.  
 
-Dans ce cas, les actionnaires ne peuvent pas exercer le droit d'inscrire d'autres points à l'ordre du jour de l'assemblée générale, il ne peut pas y avoir une révision de l'agenda et les dispositions du paragraphe 1er ne sont pas d'application.
+Dans ce cas, les actionnaires ne peuvent pas exercer le droit d'inscrire d'autres points à l'ordre du jour de l'assemblée générale, il ne peut pas y avoir une révision de l'agenda et les délais visés au paragraphe 1er ne sont pas d'application. Le présent paragraphe 2 s'applique par analogie aux compagnies financières et aux compagnies financières mixtes visées dans la loi du 25 avril 2014 précitée.
 
 ***Article 7:128***  
 § 1er. Dans une société cotée, la convocation est faite par une annonce insérée au moins trente jours avant l'assemblée:  
@@ -1049,14 +1060,14 @@ Dans ce cas, les actionnaires ne peuvent pas exercer le droit d'inscrire d'autre
 4. sur le site internet de la société.  
 
 Si une nouvelle convocation est nécessaire en raison du fait que le quorum de présence requis n'a pas été atteint lors de la première assemblée convoquée et pour autant que la date de la deuxième assemblée ait été indiquée dans la première convocation et qu'aucun nouveau point n'ait été mis à l'ordre du jour, le délai visé à l'alinéa 1er est porté à dix sept jours au moins avant l'assemblée.  
-Conformément à l'article 2:32, la convocation est communiquée, dans le délai de convocation visé à l'alinéa 1er ou à l'alinéa 2, aux titulaires d'actions nominatives, d'obligations convertibles nominatives ou de droits de souscription nominatifs, aux titulaires de certificats nominatifs émis avec la collaboration de la société, aux administrateurs et au commissaire.  
+Conformément à l'article 2:32, la convocation est communiquée, dans le délai de convocation visé à l'alinéa 1er ou à l'alinéa 2, aux titulaires d'actions nominatives, d'obligations convertibles nominatives ou de droits de souscription nominatifs, aux titulaires de certificats nominatifs émis avec la collaboration de la société, d'actions nominatives sans droit de vote et de parts bénéficiaires nominatives sans droits de vote, aux administrateurs et au commissaire.  
 La société ne peut pas facturer de frais particuliers aux actionnaires pour la convocation de l'assemblée générale.  
 
 § 2. Pour l'application de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse, en ce qui concerne le redressement des établissements de crédit et des sociétés de bourse, l'assemblée générale peut, à la majorité des deux tiers des votes valablement exprimés, décider, ou modifier les statuts de manière à ce qu'ils prescrivent que la convocation à une assemblée générale pour décider de procéder à une augmentation de capital intervient entre dix à quinze jours avant cette assemblée, pour autant que:  
 1. les conditions de l'article 234, 235 ou 236 de la loi précitée du 25 avril 2014 soient remplies, et  
 2. l'augmentation de capital soit nécessaire pour éviter le déclenchement d'une procédure de résolution dans les conditions énoncées aux articles 244 et 454 de la loi précitée du 25 avril 2014.  
 
-Dans ce cas, les actionnaires ne peuvent pas exercer le droit d'inscrire d'autres points à l'ordre du jour de l'assemblée générale, il ne peut pas y avoir de révision de l'agenda et les dispositions du paragraphe 1er ne sont pas d'application.
+Dans ce cas, les actionnaires ne peuvent pas exercer le droit d'inscrire d'autres points à l'ordre du jour de l'assemblée générale, il ne peut pas y avoir de révision de l'agenda et les délais visés au paragraphe 1er ne sont pas d'application. Le présent paragraphe 2 s'applique par analogie aux compagnies financières et aux compagnies financières mixtes visées dans la loi du 25 avril 2014 précitée.
 
 ***Article 7:129***  
 § 1er. La convocation de toute assemblée générale d'une société non cotée mentionne le lieu, la date et l'heure de l'assemblée générale, ainsi que l'ordre du jour contenant l'indication des sujets à traiter.  
@@ -1070,7 +1081,7 @@ Dans ce cas, les actionnaires ne peuvent pas exercer le droit d'inscrire d'autre
    +  la procédure à suivre pour voter par procuration, notamment un modèle de procuration, les modalités selon lesquelles la société est prête à accepter une notification par voie électronique de désignation d'un mandataire ainsi que le délai dans lequel la procuration doit être communiquée à la société; et,  
    +  le cas échéant, les procédures et délais établis par ou en vertu des statuts, permettant de participer à distance à l'assemblée générale conformément à l'article 7:137, et de voter à distance avant l'assemblée conformément à l'article 7:146;  
 5. l'indication de la date d'enregistrement telle que définie à l'article 7:134, § 2, ainsi que l'indication que seules les personnes qui sont actionnaires à cette date auront le droit de participer et de voter à l'assemblée générale;  
-6. l'indication de l'adresse où il est possible d'obtenir, conformément à l'article 7:132, alinéa 3, le texte intégral des documents et des propositions de décision visés au paragraphe 3, c), d) et e), ainsi que des démarches à effectuer à cet effet;  
+6. l'indication de l'adresse où il est possible d'obtenir le texte intégral des documents et des propositions de décision visés au paragraphe 3, 3°, 4° et 5°, ainsi que des démarches à effectuer à cet effet;  
 7. l'indication du site internet de la société, sur lequel cette dernière met les informations visées au paragraphe 3 à disposition.  
 
 § 3. A compter du jour de la publication de la convocation à l'assemblée générale jusqu'au jour de l'assemblée générale, une société cotée met à disposition, sur le site internet de la société, au moins les informations suivantes:  
@@ -1092,8 +1103,8 @@ L'examen des sujets à traiter et des propositions de décision portés à l'ord
 § 2. Les actionnaires formulent par écrit les demandes visées au paragraphe 1er et ajoutent, selon le cas, le texte des sujets à traiter et les propositions de décision y afférentes, ou le texte des propositions de décision à porter à l'ordre du jour et la preuve visée au paragraphe 1er, alinéa 2.  
 Elles doivent parvenir à la société au plus tard le vingt-deuxième jour qui précède la date de l'assemblée générale. La société accuse réception de ces demandes à l'adresse postale ou électronique indiquée par les actionnaires, dans un délai de quarante-huit heures à compter de ladite réception.  
 
-§ 3. Sans préjudice de l'article 7:129, § 3, alinéa 1er, d), la société publie, conformément à l'article 7:128 un ordre du jour complété, au plus tard le quinzième jour qui précède la date de l'assemblée générale.  
-Simultanément, la société met à la disposition de ses actionnaires, sur le site internet de la société, les formulaires adaptés à l'ordre du jour complété permettant de voter par procuration et, le cas échéant, de voter par correspondance. La société ne doit pas communiquer de formulaires adaptés directement aux actionnaires. L'article 7:129, § 3, e), alinéa 2, est applicable.  
+§ 3. Sans préjudice de l'article 7:129, § 3, 4°, la société publie, conformément à l'article 7:128 un ordre du jour complété, au plus tard le quinzième jour qui précède la date de l'assemblée générale.  
+Simultanément, la société met à la disposition de ses actionnaires, sur le site internet de la société, les formulaires adaptés à l'ordre du jour complété permettant de voter par procuration et, le cas échéant, de voter par correspondance. La société ne doit pas communiquer de formulaires adaptés directement aux actionnaires. L'article 7:129, § 3, alinéa 3, est applicable.  
 
 § 4. Les procurations de vote notifiées à la société antérieurement à la publication d'un ordre du jour complété restent valables pour les sujets à traiter inscrits à l'ordre du jour qu'elles couvrent.  
 Par dérogation à l'alinéa 1er, pour les sujets à traiter inscrits à l'ordre du jour qui font l'objet de nouvelles propositions de décision déposées en application de la présente disposition, le mandataire peut, en assemblée, s'écarter des éventuelles instructions données par son mandant si l'exécution de ces instructions risquait de compromettre les intérêts de son mandant. Il doit en informer son mandant.  
@@ -1121,10 +1132,12 @@ Les actionnaires peuvent, à l'unanimité, prendre par écrit toutes les décisi
 Les jour et heure visés à l'alinéa 1er constituent la date d'enregistrement.  
 L'actionnaire communique à la société, ou à la personne qu'elle a désignée à cette fin, sa volonté de participer à l'assemblée générale, au plus tard le sixième jour qui précède la date de l'assemblée, par le biais de l'adresse électronique de la société ou à l'adresse électronique spécifique indiquée dans la convocation à l'assemblée générale, le cas échéant, au moyen de la procuration visée à l'article 7:143.  
 Une attestation est délivrée à l'actionnaire par le teneur de comptes agréé ou par l'organisme de liquidation certifiant le nombre d'actions dématérialisées inscrites à son nom dans ses comptes à la date d'enregistrement, pour lequel l'actionnaire a déclaré vouloir participer à l'assemblée générale.  
-Il est indiqué, dans un registre désigné par l'organe d'administration, pour chaque actionnaire qui a signalé sa volonté de participer à l'assemblée générale, ses nom ou dénomination et adresse ou siège, le nombre d'actions qu'il possédait à la date d'enregistrement et pour lequel il a déclaré vouloir participer à l'assemblée générale, ainsi que la description des documents qui établissent qu'il était en possession de ces actions à la date d'enregistrement.
+Il est indiqué, dans un registre désigné par l'organe d'administration, pour chaque actionnaire qui a signalé sa volonté de participer à l'assemblée générale, ses nom ou dénomination et adresse ou siège, le nombre d'actions qu'il possédait à la date d'enregistrement et pour lequel il a déclaré vouloir participer à l'assemblée générale, ainsi que la description des documents qui établissent qu'il était en possession de ces actions à la date d'enregistrement.  
+Dans le cas visé à l'article 7:128, § 2, l'organe d'administration des établissements de crédit, des sociétés de bourse, des compagnies financières et des compagnies financières mixtes peut, par dérogation à ce qui précède, fixer la date d'enregistrement au plus tard le troisième jour calendrier précédant l'assemblée générale.
 
 ***Article 7:135***  
-Les titulaires d'actions sans droit de vote, de parts bénéficiaires sans droit de vote, d'obligations convertibles, de droits de souscription ou de certificats émis en collaboration avec la société peuvent assister aux assemblées générales, mais seulement avec voix consultative. Les statuts déterminent les formalités que ceux-ci doivent accomplir pour être admis à l'assemblée générale.
+Les titulaires d'actions sans droit de vote, de parts bénéficiaires sans droit de vote, d'obligations convertibles, de droits de souscription ou de certificats émis en collaboration avec la société peuvent assister aux assemblées générales, mais seulement avec voix consultative. Les statuts déterminent les formalités que ceux-ci doivent accomplir pour être admis à l'assemblée générale.  
+Les titulaires d'actions, de parts bénéficiaires, d'obligations convertibles, de droits de souscription et de certificats émis en collaboration avec la société qui ont rempli les formalités pour être admis à une assemblée générale sont également admis à chaque assemblée générale ultérieure comportant les mêmes points d'ordre du jour, à moins que la société soit informée d'une cession des titres concernés.
 
 ***Article 7:136***  
 Le commissaire assiste à l'assemblée générale lorsqu'elle est appelée à délibérer sur la base d'un rapport qu'il a établi.
@@ -1145,11 +1158,11 @@ Les membres du bureau de l'assemblée générale, les administrateurs et le comm
 ##### Sous-section 6. Tenue de l'assemblée générale.
 
 ***Article 7:138***  
-Il est tenu à chaque assemblée générale une liste des présences. Ceux qui ont participé à l'assemblée générale ou qui y étaient représentés peuvent consulter cette liste pour autant que les statuts le prévoient.
+Il est tenu à chaque assemblée générale une liste des présences. Tout actionnaire peut consulter cette liste.
 
 ***Article 7:139***  
 Les membres de l'organe d'administration répondent aux questions qui leur sont posées oralement ou par écrit avant ou pendant l'assemblée générale par les titulaires d'actions, d'obligations convertibles ou de droits de souscription nominatifs ou de certificats nominatifs émis avec la collaboration de la société et qui portent sur des points à l'ordre du jour. Les membres de l'organe d'administration peuvent, dans l'intérêt de la société, refuser de répondre aux questions lorsque la communication de certaines données ou de certains faits peut porter préjudice à la société ou qu'elle viole les engagements de confidentialité souscrits par eux ou par la société.  
-Le commissaire répond aux questions qui lui sont posées oralement ou par écrit avant ou pendant l'assemblée générale par les titulaires d'actions, d'obligations convertibles ou de droits de souscription nominatifs ou de certificats nominatifs émis avec la collaboration de la société et qui portent sur les points à l'ordre du jour à propos desquels il fait rapport. Les questions écrites adressées au commissaire doivent dans le même temps être transmises à la société. Il peut, dans l'intérêt de la société, refuser de répondre aux questions lorsque la communication de certaines données ou de certains faits peut porter préjudice à la société ou qu'elle viole le secret professionnel auquel il est tenu ou les engagements de confidentialité souscrits par la société. Il a le droit de prendre la parole à l'assemblée générale en relation avec l'accomplissement de sa mission.  
+Le commissaire communique sans délai les questions écrites qu'il reçoit à l'organe d'administration et répond aux questions qui lui sont posées oralement ou par écrit avant ou pendant l'assemblée générale par les titulaires d'actions, d'obligations convertibles ou de droits de souscription nominatifs ou de certificats nominatifs émis avec la collaboration de la société et qui portent sur les points à l'ordre du jour à propos desquels il fait rapport. Il peut, dans l'intérêt de la société, refuser de répondre aux questions lorsque la communication de certaines données ou de certains faits peut porter préjudice à la société ou qu'elle viole le secret professionnel auquel il est tenu ou les engagements de confidentialité souscrits par la société. Il a le droit de prendre la parole à l'assemblée générale en relation avec l'accomplissement de sa mission.  
 Les membres de l'organe d'administration et le commissaire peuvent donner une réponse groupée à différentes questions portant sur le même sujet.  
 Dès le moment où l'assemblée générale est convoquée, les actionnaires et les titulaires d'obligations convertibles, de droits de souscription nominatifs et de certificats nominatifs émis avec la collaboration de la société peuvent, dans les délais définis par les statuts, poser des questions par écrit à l'adresse communiquée dans la convocation à l'assemblée ou à l'adresse électronique visée à l'article 2:31. Une société cotée doit toutefois recevoir les questions écrites au plus tard le sixième jour qui précède l'assemblée. Si les titulaires des titres concernés ont rempli les formalités pour être admis à l'assemblée, il sera répondu à ces questions pendant la réunion.
 
@@ -1157,8 +1170,10 @@ Dès le moment où l'assemblée générale est convoquée, les actionnaires et l
 Hormis les cas où un droit de vote leur est reconnu en vertu de la loi ou des statuts, il n'est tenu compte ni des actions ou parts bénéficiaires sans droit de vote ni des actions dont le droit de vote a été suspendu pour la détermination des conditions de quorum et de majorité à observer dans les assemblées générales.
 
 ***Article 7:141***  
-Les procès-verbaux de l'assemblée générale sont signés par les membres du bureau et par les actionnaires qui le demandent; les copies à délivrer aux tiers sont signées par un ou plusieurs membres de l'organe d'administration ayant le pouvoir de représentation.  
-Les procès-verbaux des assemblées générales d'une société cotée mentionnent, pour chaque décision, le nombre d'actions pour lesquelles des votes ont été valablement exprimés, la proportion du capital représentée par ces actions, le nombre total de votes valablement exprimés, le nombre de votes exprimés pour et contre chaque décision et, le cas échéant, le nombre d'abstentions. La société publie cette information par le biais du site internet de la société dans les quinze jours qui suivent l'assemblée générale.
+§ 1er. Les procès-verbaux de l'assemblée générale sont signés par les membres du bureau et par les actionnaires qui le demandent; les copies à délivrer aux tiers sont signées par un ou plusieurs membres de l'organe d'administration ayant le pouvoir de représentation.  
+Les procès-verbaux des assemblées générales d'une société cotée mentionnent, pour chaque décision, le nombre d'actions pour lesquelles des votes ont été valablement exprimés, la proportion du capital représentée par ces actions, le nombre total de votes valablement exprimés, le nombre de votes exprimés pour et contre chaque décision et, le cas échéant, le nombre d'abstentions. La société publie cette information par le biais du site internet de la société dans les quinze jours qui suivent l'assemblée générale.  
+
+§ 2. Les décisions de l'actionnaire unique agissant en lieu et place de l'assemblée générale conformément à l'article 7:125 sont consignées dans un registre tenu au siège de la société.
 
 ##### Sous-section 7. Modalités d'exercice du droit de vote.
 
@@ -1365,7 +1380,7 @@ L'assemblée générale des obligataires peut, sans l'autorisation de la sociét
 #### Section 3. Convocation de l'assemblée générale des obligataires.
 
 ***Article 7:164***  
-Le conseil d'administration, ou, dans l'administration duale, le conseil de surveillance et, le cas échéant, le commissaire, peuvent convoquer les obligataires en assemblée générale et fixer son ordre du jour.  
+Le conseil d'administration, l'administrateur unique ou le conseil de surveillance et, le cas échéant, le commissaire, peuvent convoquer les obligataires en assemblée générale et fixer son ordre du jour.  
 Ils sont obligés de convoquer l'assemblée générale des obligataires dans les trois semaines sur la demande d'obligataires représentant le cinquième du montant des titres en circulation, avec au moins les points de l'ordre du jour proposés par les obligataires en question.
 
 ***Article 7:165***  
@@ -1487,7 +1502,7 @@ Si la réalisation de l'augmentation du capital est constatée en même temps, l
 Si la réalisation de l'augmentation n'est pas concomitante à la décision d'augmenter le capital, elle est constatée par un acte authentique, dressé à la requête de l'organe d'administration ou d'un ou de plusieurs administrateurs ou mandataires spécialement délégués à cet effet, sur présentation des documents justificatifs de l'opération. Cet acte mentionne également le respect des conditions légales relatives à la souscription et à la libération du capital. Cet acte est déposé et publié conformément aux articles 2:8 et 2:14, 4°.
 
 ***Article 7:187***  
-Lorsque le capital est augmenté à la suite d'une conversion d'obligations convertibles en actions, d'une substitution d'actions à des obligations conformément à l'article 7:162, 3°, ou d'une souscription d'actions en cas d'exercice d'un droit de souscription, la conversion, la substitution ou la souscription, l'augmentation corrélative du capital et le nombre d'actions nouvelles créées en représentation de cette dernière sont constatés par un acte authentique. Cet acte est établi à la requête de l'organe d'administration ou d'un ou plusieurs administrateurs ou mandataires spécialement délégués à cet effet moyennant la production d'un relevé des conversions ou substitutions demandées ou des droits de souscription exercés. Cette constatation confère la qualité d'actionnaire à l'obligataire qui a demandé la conversion de son titre, à l'obligataire dont les obligations ont été remplacées par des actions et au titulaire d'un droit de souscription qui a exercé son droit. Le montant du capital et le nombre des actions sont adaptés dans les statuts.
+Lorsque le capital est augmenté à la suite d'une conversion d'obligations convertibles en actions, d'une substitution d'actions à des obligations conformément à l'article 7:162, 3°, ou d'une souscription d'actions en cas d'exercice d'un droit de souscription, la conversion, la substitution ou la souscription, l'augmentation corrélative du capital et le nombre d'actions nouvelles créées en représentation de cette dernière sont constatés par un acte authentique. Cet acte est établi à la requête de l'organe d'administration ou d'un ou plusieurs administrateurs ou mandataires spécialement délégués à cet effet moyennant la production d'un relevé des conversions ou substitutions demandées ou des droits de souscription exercés. Cette constatation confère la qualité d'actionnaire, à l'obligataire dont les obligations ont été converties ou substituées par des actions et au titulaire d'un droit de souscription qui a exercé son droit. Le montant du capital et le nombre des actions sont adaptés dans les statuts.
 
 #### Section 2. Augmentation de capital par apports en numéraire.
 
@@ -1593,9 +1608,9 @@ Les frais de cette réévaluation sont à charge de la société.
 ##### Sous-section 1. Principes.
 
 ***Article 7:198***  
-Les statuts peuvent conférer à l'organe d'administration ou au conseil de surveillance le pouvoir d'augmenter en une ou plusieurs fois le capital souscrit à concurrence d'un montant déterminé qui, pour les sociétés cotées, ne peut être supérieur au montant dudit capital.  
-Dans les mêmes conditions, les statuts peuvent conférer à l'organe d'administration le pouvoir d'émettre des obligations convertibles ou des droits de souscription.  
-Les articles 7:177, alinéa 3, 7:178, 7:180, 7:188 à 7:197, à l'exception de l'article 7:192, alinéa 2, sont applicables au présent article.  
+Les statuts peuvent conférer, selon le cas, au conseil d'administration, à l'administrateur unique ou au conseil de surveillance le pouvoir d'augmenter en une ou plusieurs fois le capital souscrit à concurrence d'un montant déterminé qui, pour les sociétés cotées, ne peut être supérieur au montant dudit capital.  
+Dans les mêmes conditions, les statuts peuvent conférer à l'organe d'administration visé à l'alinéa 1er le pouvoir d'émettre des obligations convertibles ou des droits de souscription.  
+Les articles 7:177 à 7:197, à l'exception de l'article 7:192, alinéa 2, sont applicables au présent article.  
 Si l'augmentation de capital par apport en nature a lieu en application de la procédure prévue à l'article 7:197, § 2, un avis indiquant la date à laquelle la décision d'augmenter le capital a été prise et contenant les éléments mentionnés dans l'article 7:197, § 3, est déposé et publié conformément aux articles 2:8 et 2:14, 4°, avant la réalisation de l'apport en nature. Dans ce cas, la déclaration visée à l'article 7:197, § 3, doit uniquement attester qu'aucune circonstance particulière nouvelle n'est survenue depuis la publication de l'avis mentionné ci-dessus.
 
 ***Article 7:199***  
@@ -1608,7 +1623,7 @@ L'absence du rapport prévu à l'alinéa 2 entraîne la nullité de la décision
 ***Article 7:200***  
 L'organe d'administration ne peut utiliser le pouvoir visé à l'article 7:198 pour les opérations suivantes, à moins que l'autorisation ne les prévoie expressément:  
 1. les augmentations de capital ou les émissions d'obligations convertibles ou de droits de souscription à l'occasion desquelles le droit de préférence des actionnaires est limité ou supprimé;  
-2. les augmentations de capital ou les émissions d'obligations convertibles ou de droits de souscription à l'occasion desquelles le droit de préférence des actionnaires est limité ou supprimé en faveur d'une ou plusieurs personnes déterminées, autres que les membres du personnel; dans ce cas, les administrateurs qui représentent en fait le bénéficiaire de l'exclusion du droit de préférence ou une personne liée au bénéficiaire au sens de l'article 7:193, § 1er, alinéa 6, ne peuvent participer au vote;  
+2. les augmentations de capital ou les émissions d'obligations convertibles à l'occasion desquelles le droit de préférence des actionnaires est limité ou supprimé en faveur d'une ou plusieurs personnes déterminées, autres que les membres du personnel; dans ce cas, les administrateurs qui représentent en fait le bénéficiaire de l'exclusion du droit de préférence ou une personne liée au bénéficiaire au sens de l'article 7:193, § 1er, alinéa 6, ne peuvent participer au vote;  
 3. les augmentations de capital effectuées par incorporation de réserves.
 
 ***Article 7:201***  
@@ -1618,7 +1633,7 @@ L'organe d'administration ne peut pas utiliser le pouvoir visé à l'article 7:1
 3. les augmentations de capital à réaliser principalement par des apports en nature réservées exclusivement à un actionnaire de la société détenant des titres de cette société auxquels sont attachés plus de 10 % des droits de vote.  
 4. l'émission d'une nouvelle classe de titres.  
 
-Pour le calcul du seuil des droits de vote visé à l'alinéa 1er, 3°, les titres visés à l'article 7:139, § 1er, alinéas 6 et 7, sont ajoutés aux titres détenus par un actionnaire.
+Pour le calcul du seuil des droits de vote visé à l'alinéa 1er, 3°, les titres visés à l'article 7:193, § 1er, alinéas 6 et 7, sont ajoutés aux titres détenus par un actionnaire.
 
 ***Article 7:202***  
 Dès la réception par la société de la communication faite par l'Autorité des services et marchés financiers selon laquelle elle a été saisie d'un avis d'offre publique d'acquisition la visant et jusqu'à la clôture de l'offre, son organe d'administration ne peut plus:  
@@ -1656,7 +1671,7 @@ Les actions souscrites dans le cadre de cette opération par les membres du pers
 
 Dix jours au moins avant l'ouverture de la souscription, tous les membres du personnel susceptibles de souscrire doivent être informés des conditions proposées. Ils peuvent obtenir communication des documents sociaux visés aux articles 3:10 et 3:12.  
 
-§ 3. Un membre du personnel visé aux paragraphes 1er et 2 peut néanmoins transférer ses actions en cas de licenciement, de mise à la retraite de l'intéressé, de décès ou d'invalidité du bénéficiaire ou du conjoint.
+§ 3. Un membre du personnel visé aux paragraphes 1er et 2 peut néanmoins transférer ses actions en cas de licenciement, de mise à la retraite de l'intéressé, de décès ou d'invalidité du bénéficiaire, de son conjoint ou de son cohabitant légal.
 
 #### Section 6. Garantie et responsabilités.
 
@@ -1688,7 +1703,7 @@ Tous droits saufs au fond, le président détermine la sûreté à fournir par l
 Aucun remboursement ou paiement aux actionnaires ne pourra être effectué et aucune dispense du versement du solde des apports ne pourra être réalisée aussi longtemps que les créanciers, ayant fait valoir leurs droits dans le délai de deux mois visé à l'alinéa 1er, n'auront pas obtenu satisfaction, à moins qu'une décision judiciaire exécutoire n'ait rejeté leurs prétentions à obtenir une garantie.
 
 ***Article 7:210***  
-L'article 7:209 n'est pas applicable aux réductions du capital en vue d'apurer une perte subie ou en vue de constituer une réserve pour couvrir une perte prévisible ou en vue de constituer une réserve indisponible, conformément à l'article 7:216, § 2.  
+L'article 7:209 n'est pas applicable aux réductions du capital en vue d'apurer une perte subie ou en vue de constituer une réserve pour couvrir une perte prévisible ou en vue de constituer une réserve indisponible, conformément à l'article 7:217, § 2.  
 La réserve constituée pour couvrir une perte prévisible ne peut excéder 10 % du capital souscrit après réduction. Cette réserve ne peut, sauf en cas de réduction ultérieure du capital, être distribuée aux actionnaires; elle ne peut être utilisée que pour compenser des pertes subies ou pour augmenter le capital par incorporation de réserves.  
 Dans les cas visés au présent article, le capital peut être réduit en dessous du montant fixé à l'article 7:2. Cependant, la réduction en dessous de ce montant ne sort ses effets qu'à partir du moment où intervient une augmentation portant le montant du capital à un niveau au moins égal au montant fixé à l'article 7:2.
 
@@ -1720,7 +1735,7 @@ Lorsque l'acompte excède le montant du dividende arrêté ultérieurement par l
 ##### Sous-section 4. Sanction.
 
 ***Article 7:214***  
-Les actionnaires doivent restituer toute distribution reçue en contravention des articles 7:212 et 7:213 si la société prouve qu'ils étaient informés de l'irrégularité ou ne pouvaient l'ignorer compte tenu des circonstances.
+Les actionnaires et toutes autres personnes doivent restituer toute distribution reçue en contravention des articles 7:212 et 7:213 si la société prouve que les actionnaires ou toutes autres personnes en faveur desquelles la distribution a été décidée étaient informés de l'irrégularité ou ne pouvaient l'ignorer compte tenu des circonstances.
 
 #### Section 2. De l'acquisition d'actions, de parts bénéficiaires ou de certificats propres.
 
@@ -1733,7 +1748,7 @@ Les actionnaires doivent restituer toute distribution reçue en contravention de
 3. l'opération porte sur des actions entièrement libérées ou sur des certificats s'y rapportant;  
 4. l'offre d'acquisition est faite aux mêmes conditions à tous les actionnaires, et, le cas échéant, à tous les titulaires de parts bénéficiaires ou titulaires de certificats aux mêmes conditions par classe ou par catégorie, sauf si une assemblée générale à laquelle tous les actionnaires, et les cas échéant, les titulaires de parts bénéficiaires ou de certificats, étaient présents ou représentés décide de l'acquisition à l'unanimité; de même, les sociétés cotées et les sociétés dont les actions, les parts bénéficiaires ou les certificats se rapportant à ces actions sont admis aux négociations sur une MTF visée à l'article 3, 10°, de la loi du 21 novembre 2017 relative aux infrastructures des marchés d'instruments financiers et portant transposition de la directive 2014/65/UE, dans la mesure où cette MTF fonctionne sur la base d'une négociation quotidienne au minimum et d'un carnet d'ordres central, peuvent acheter leurs propres actions, parts bénéficiaires ou certificats, sans qu'une offre d'acquisition doive être faite aux actionnaires, titulaires de parts bénéficiaires ou titulaires de certificats, à condition qu'elles garantissent l'égalité de traitement des actionnaires, titulaires de parts bénéficiaires ou titulaires de certificats qui se trouvent dans les mêmes conditions, moyennant l'équivalence du prix offert.  
 
-L'assemblée générale ou les statuts fixent notamment le nombre maximum d'actions, de parts bénéficiaires ou de certificats à acquérir, la durée pour laquelle l'autorisation d'acquérir est accordée et qui ne peut excéder cinq ans à dater de la publication de l'acte constitutif ou de la modification des statuts, ainsi que les contre-valeurs minimales et maximales.  
+L'assemblée générale ou les statuts fixent notamment le nombre maximum d'actions, de parts bénéficiaires ou de certificats à acquérir, la durée pour laquelle l'autorisation d'acquérir est accordée et qui ne peut excéder cinq ans à dater de la publication de l'acte constitutif, de la modification des statuts ou de l'autorisation de l'assemblée générale, ainsi que les contre-valeurs minimales et maximales.  
 La décision de l'assemblée générale visée à l'alinéa 1er, 1°, n'est pas requise lorsque la société ou une personne agissant en son nom propre mais pour le compte de la société acquiert ses actions, parts bénéficiaires ou certificats afin de les distribuer à son personnel ou au personnel des sociétés liées à celle-ci; ces titres doivent être transférés au personnel dans un délai de douze moins à compter de leur acquisition.  
 Les statuts peuvent prévoir que la décision de l'assemblée générale n'est pas requise lorsque l'acquisition est nécessaire pour éviter à la société un dommage grave et imminent.  
 Cette faculté n'est valable que pour une période de trois ans à dater de la publication de l'acte constitutif ou de l'acte d'autorisation; elle est prorogeable pour des termes identiques par l'assemblée générale statuant dans le respect des conditions de quorum et de majorité requises pour une modification des statuts. L'organe d'administration communique à la première assemblée générale qui suit l'acquisition les raisons et les buts des acquisitions effectuées, le nombre et, le cas échéant, la valeur nominale, ou, à défaut de valeur nominale, le pair comptable des titres acquis, la fraction du capital souscrit qu'ils représentent, et la contrepartie payée.  
@@ -1771,7 +1786,7 @@ Les droits de vote afférents aux actions ou parts bénéficiaires détenues par
 5. sans préjudice de l'article 7:215, § 1er, alinéa 3, au personnel;  
 6. l'aliénation porte sur des actions, parts bénéficiaires ou certificats acquis en vertu de l'article 7:216, 2° et 3°, qui doivent être aliénés dans un délai de douze mois à compter de leur acquisition, dans la mesure où la société ne dispose pas de réserves disponibles suffisantes pour constituer la réserve indisponible visée à l'article 7:217, § 3, à l'expiration de ce délai de douze mois.  
 
-Le Roi détermine les obligations incombant aux sociétés visées au paragraphe 1er en matière d'information du public relative aux opérations de rachat. L'article 7:215, § 2, alinéa 4, s'applique par analogie.  
+Le Roi détermine les obligations incombant aux sociétés visées au paragraphe 1er en matière d'information du public relative aux opérations d'aliénation. L'article 7:215, § 2, alinéa 4, s'applique par analogie.  
 
 § 2. Le Roi détermine les modalités visant à garantir l'égalité de traitement moyennant l'équivalence du prix offert, telle que visée au paragraphe 1er, 2°.
 
@@ -1861,14 +1876,11 @@ Lorsque l'actif net est réduit à un montant inférieur à 61 500 euros, tout i
 ## Titre 6. Durée et dissolution.
 
 ***Article 7:230***  
-Sauf disposition staturaitre contraire, les sociétés anonymes sont constituées pour une durée indéterminée.  
+Sauf disposition statutaire contraire, les sociétés anonymes sont constituées pour une durée indéterminée.  
 Lorsque la durée est déterminée, l'assemblée générale peut décider, dans les formes prescrites pour la modification des statuts, la prorogation pour une durée déterminée ou indéterminée.  
-Sans préjudice de la dissolution pour de justes motifs précisés à l'article 2:73, la société ne peut être dissoute que par une décision de l'assemblée générale. Cette décision requiert une modification des statuts.
 
 ***Article 7:231***  
-La réunion de toutes les actions entre les mains d'une personne ainsi que l'identité de cette personne doivent être déposées dans le dossier visé à l'article 2:8.  
-Les décisions de l'actionnaire unique agissant en lieu et place de l'assemblée générale conformément à l'article 7:125 sont consignées dans un registre tenu au siège de la société.  
-Les contrats conclus entre l'actionnaire unique et la société sont, sauf en ce qui concerne les opérations courantes conclues dans des conditions normales, inscrits dans un document à déposer en même temps que les comptes annuels.
+`Abrogé`
 
 ## Titre 7. Dispositions pénales.
 

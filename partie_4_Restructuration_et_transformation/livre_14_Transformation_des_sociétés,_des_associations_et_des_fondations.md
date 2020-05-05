@@ -21,12 +21,12 @@ L'adoption d'une autre forme légale par une société constituée sous l'une de
 
 ***Article 14:3***  
 Préalablement à la décision de transformation, l'organe d'administration établit un état résumant la situation active et passive de la société, clôturé à une date ne remontant pas à plus de trois mois avant l'assemblée générale appelée à se prononcer sur la proposition de transformation.  
-Lorsque l'actif net est inférieur au capital repris dans l'état précité, augmenté de toutes les réserves que la loi ou les statuts ne permettent pas de distribuer, ou, si la société ne dispose pas d'un capital, les capitaux propres, l'état mentionnera en conclusion le montant de la différence.  
-En cas de transformation d'une société en nom collectif ou une société en commandite en société anonyme, société à responsabilité limitée ou société coopérative, le capital, ou, si la société ne dispose pas d'un capital, les capitaux propres, repris dans l'état précité ne pourront être supérieurs à l'actif net tel qu'il résulte de cet état.
+Lorsque dans la société anonyme, la société européenne et la société coopérative européenne l'actif net est inférieur au capital repris dans l'état précité, augmenté de toutes les réserves que la loi ou les statuts ne permettent pas de distribuer, l'état mentionnera en conclusion le montant de la différence.  
+En cas de transformation d'une société en nom collectif ou une société en commandite en société anonyme, société européenne ou société coopérative européenne, le capital, repris dans l'état précité ne pourra être supérieur à l'actif net tel qu'il résulte de cet état.
 
 ***Article 14:4***  
 Le commissaire ou, lorsqu'il n'y a pas de commissaire, un réviseur d'entreprises ou un expert-comptable externe désigné par l'organe d'administration ou, dans les sociétés en nom collectif ou les sociétés en commandite, par l'assemblée générale, fait rapport sur cet état et indique notamment si l'actif net est surévalué.  
-Si, au cas visé dans l'article 14:3, alinéa 2, l'actif net de la société est inférieur au capital, ou, si la société ne dispose pas d'un capital, les capitaux propres, repris dans l'état résumant la situation active et passive de la société, le rapport mentionnera en conclusion le montant de la différence.
+Si, au cas visé dans l'article 14:3, alinéa 2, l'actif net de la société est inférieur au capital, repris dans l'état résumant la situation active et passive de la société, le rapport mentionnera en conclusion le montant de la différence.
 
 ***Article 14:5***  
 L'organe d'administration explique le projet de transformation dans un rapport annoncé dans l'ordre du jour de l'assemblée générale appelée à statuer. A ce rapport est joint l'état résumant la situation active et passive.
@@ -75,8 +75,8 @@ Les mandats authentiques ou sous seing privés sont, ainsi que le rapport du com
 La transformation est opposable aux tiers aux conditions prévues à l'article 2:18.
 
 ***Article 14:11***  
-Les articles 5:7, 5:11, 5:12, alinéa 1er, 5° et 8°, 5:15, 5:16, 5:17, 5:138, 5:139 et 5:140 ne sont pas applicables en cas de transformation en société à responsabilité limitée.  
-Les articles 6:8, 6:12, 6:13, alinéa 1er, 5° et 8°, 6:16, 6:17, 6:18, 6:111, 6:112 et 6:113 ne sont pas applicables en cas de transformation en société coopérative.  
+Les articles 5:7, 5:9, 5:11, 5:12, alinéa 1er, 5° et 8°, 5:15, 5:16, 5:17, 5:138, 5:139 et 5:140 ne sont pas applicables en cas de transformation en société à responsabilité limitée.  
+Les articles 6:8, 6:10, 6:12, 6:13, alinéa 1er, 5° et 8°, 6:16, 6:17, 6:18, 6:111, 6:112 et 6:113 ne sont pas applicables en cas de transformation en société coopérative.  
 Les articles 7:7, 7:12, 7:13, alinéa 2, 7:14, alinéa 1er, 2°, 7° et 10° à 12°, 7:17, 7:18, 7:21, 7:205, 7:206 et 7:207 ne sont pas applicables en cas de transformation en société anonyme.
 
 #### Section 4. Responsabilités à l'occasion de la transformation.
@@ -151,7 +151,7 @@ Après l'expiration du délai visé à l'article 14:19, l'assemblée générale 
    +  une proposition de transformation est seulement acceptée si elle réunit les quatre cinquièmes des voix;  
    +  par dérogation au 1°, dans la société en commandite et dans la société coopérative, le droit de vote des associés et des actionnaires est proportionnel à leur part dans l'avoir social et le quorum de présence se calcule par rapport à cet avoir social.  
 
-§ 2. S'il existe plusieurs classes de titres conférant le droit de vote et si la transformation entraîne la modification de leurs droits respectifs, l'article 5:102, 6:87 ou 7:155, à l'exception de leur alinéa 2, est applicable par analogie. L'assemblée générale ne peut toutefois délibérer et statuer valablement que si elle réunit dans chaque classe les conditions de présence et de majorité prévues par le paragraphe 1er, 1°.  
+§ 2. S'il existe plusieurs classes de titres conférant le droit de vote et si la transformation entraîne la modification de leurs droits respectifs, l'article 5:102, 6:87 ou 7:155, à l'exception de leur alinéa 2, est applicable par analogie. L'assemblée générale ne peut toutefois délibérer et statuer valablement que si elle réunit dans chaque classe les conditions de présence et de majorité prévues par le paragraphe 1er.  
 En outre, et nonobstant toute disposition statutaire contraire, les parts bénéficiaires donneront droit à une voix par titre. Elles ne pourront se voir attribuer dans l'ensemble un nombre de voix supérieur à la moitié de celui attribué à l'ensemble des actions, ni être comptées dans le vote pour un nombre de voix supérieur aux deux tiers du nombre des voix émises par les actions. Si les votes soumis à la limitation sont émis en sens différents, la réduction s'opèrera proportionnellement; il n'est pas tenu compte des fractions de voix.  
 
 § 3. Lorsque le quorum de présence visé au paragraphe 1er n'est pas atteint, une deuxième assemblée peut être convoquée. Cette assemblée peut valablement délibérer et statuer sur la transformation transfrontalière avec les majorités visées au présent article quel que soit le nombre des associés ou actionnaires présents ou représentés.  
@@ -268,7 +268,7 @@ Les personnes visées à l'alinéa 1er peuvent aussi agir contre les bénéficia
 ***Article 14:45***  
 Nonobstant toute disposition contraire, les membres de l'organe d'administration de l'ASBL qui se transforme, sont tenus solidairement envers les intéressés envers les intéressés à la réparation du préjudice qui est une suite immédiate et directe:  
 1. de la surévaluation de l'actif net apparaissant à l'état prévu à l'article 14:38;  
-2. soit de la nullité de l'opération de transformation en raison de la violation des règles prévues à l'article 2:8, § 2, 1°, 4° et 12°, l'article 6:14, 2° à 4°, appliquées par analogie, ou l'article 14:10, alinéa 1er, soit de l'absence ou de la fausseté des énonciations prescrites par l'article 6:13, alinéa 1er, à l'exception du 5°, et 8° et l'article 14:10, alinéa 2.
+2. soit de la nullité de l'opération de transformation en raison de la violation des règles prévues à l'article 2:8, § 2, 1°, 4° et 12°, l'article 6:14, 2° à 4°, appliquées par analogie, ou l'article 14:40, alinéa 1er, soit de l'absence ou de la fausseté des énonciations prescrites par l'article 6:13, alinéa 1er, à l'exception du 5°, et 8° et l'article 14:40, alinéa 2.
 
 ## Titre 4. Transformation des associations.
 
@@ -398,7 +398,7 @@ Le Roi peut déterminer le modèle de l'état résumant la situation active et p
 § 2. A l'acte sont joints:  
 1. un rapport justificatif établi par l'organe d'administration;  
 2. un état résumant la situation active et passive de la fondation, clôturé à une date ne remontant pas à plus de trois mois avant la réunion de l'organe d'administration appelée à se prononcer sur le projet;  
-3. un rapport de contrôle sur cet état indiquant spécialement s'il donne une image fidèle de la situation de la fondation, établi par le commissaire de la fondation ou, lorsqu'il n'y a pas de commissaire, par un réviseur d'entreprises ou un expert-comptable externe désigné par l'organe d'administration.  
+3. un rapport sur cet état indiquant spécialement s'il y a eu surestimation de l'actif net, établi par le commissaire de la fondation ou, lorsqu'il n'y a pas de commissaire, par un réviseur d'entreprises ou un expert-comptable externe désigné par l'organe d'administration.  
 
 L'acte est déposé au dossier visé à l'article 2:11, et publié conformément à l'article 2:17.
 
