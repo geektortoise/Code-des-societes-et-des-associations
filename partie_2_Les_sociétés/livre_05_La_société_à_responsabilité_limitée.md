@@ -766,7 +766,7 @@ Tous les obligataires peuvent voter en personne ou par procuration.
 
 ## Titre 5. Du patrimoine de la société.
 
-### Chapitre 1. Apports supplémentaires et émission de nouvelles actions.
+### Chapitre 1. Apports supplémentaires et émission de nouvelles actions, d'obligations convertibles et de droits de souscription. 
 
 #### Section 1. Dispositions communes.
 
