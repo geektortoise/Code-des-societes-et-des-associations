@@ -297,12 +297,13 @@ Ce titre est d'application à toutes les sociétés et personnes morales régies
 Par "bénéficiaire effectif", il faut entendre les personnes mentionnées à l'article 4, alinéa 1er, 27°, a) et c), de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces.
 
 ***Article 1:35***  
-Les sociétés et les personnes morales sont tenues de recueillir et de conserver des informations adéquates, exactes et actuelles sur leurs bénéficiaires effectifs. Les informations concernent au moins le nom, la date de naissance, la nationalité et l'adresse du bénéficiaire effectif, ainsi que, s'il s'agit d'une société, la nature et l'étendue de l'intérêt économique détenu par lui.  
+Les sociétés et les personnes morales sont tenues de recueillir et de conserver des informations adéquates, exactes et actuelles sur leurs bénéficiaires effectifs. Les informations concernent au moins le nom, la date de naissance, la nationalité et l'adresse du bénéficiaire effectif, ainsi que, s'il s'agit d'une société, la nature et l'étendue de l'intérêt économique détenu par lui. Le bénéficiaire effectif fournit à l'entreprise ou à la personne morale dont il est le bénéficiaire toutes les informations dont cette entreprise et cette personne morale ont besoin pour satisfaire aux exigences visées dans ce paragraphe.  
 L'organe d'administration transmet, dans le mois et par voie électronique, les données visées à l'alinéa précédent au Registre des bénéficiaires effectifs (UBO), créé par l'article 73 de la loi précitée, et ce, de la manière prévue par l'article 75 de cette même loi.  
 Outre les informations sur le propriétaire légal, l'information sur le bénéficiaire effectif, visé à l'alinéa 2, est fournie aux entités assujetties, visées à l'article 5, § 1er, de la loi précitée, lorsque celles-ci prennent des mesures de vigilance à l'égard de la clientèle, conformément au livre II, titre 3, de cette même loi.
 
 ***Article 1:36***  
-Seront punis d'une amende de 50 euros à 5 000 euros, les membres de l'organe d'administration qui omettent de procéder aux formalités prévues à l'article 1:35, alinéas 1er et 2, dans le délai fixé dans cet article.
+Seront punis d'une amende de 50 euros à 5 000 euros, les membres de l'organe d'administration qui omettent de procéder aux formalités prévues à l'article 1:35, alinéas 1er et 2, dans le délai fixé dans cet article.  
+Les sanctions administratives prévues à l'article 132, § 6, alinéas 1er et 2, de la loi du 18 septembre 2017 relative à la prévention du blanchiment d'argent et du financement du terrorisme et à la limitation de l'utilisation des espèces s'appliquent aux bénéficiaires effectifs qui ne respectent pas les obligations visées à l'article 1 :35, alinéa 1er, deuxième phrase.
 
 ## Titre 9. Disposition pénale générale.
 
