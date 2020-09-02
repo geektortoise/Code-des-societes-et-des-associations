@@ -1320,7 +1320,11 @@ Dans une société non cotée, est considéré comme nul le vote à distance exp
 L'actionnaire qui a exprimé son vote à distance, que ce soit par correspondance ou sous forme électronique, ne peut plus choisir un autre mode de participation à l'assemblée pour le nombre de voix exprimées à distance.  
 
 § 4. Dans les sociétés cotées, en cas d'application de l'article 7:130, § 3, alinéa 1er, les formulaires de vote à distance, par correspondance ou sous forme électronique, qui sont parvenus à la société antérieurement à la publication d'un ordre du jour complété restent valables pour les sujets à traiter inscrits à l'ordre du jour qu'ils couvrent.  
-Par dérogation à l'alinéa 1er, le vote exprimé à distance sur un sujet à traiter inscrit à l'ordre du jour qui fait l'objet d'une proposition de décision nouvelle en application de l'article 7:130, n'est pas pris en considération.
+Par dérogation à l'alinéa 1er, le vote exprimé à distance sur un sujet à traiter inscrit à l'ordre du jour qui fait l'objet d'une proposition de décision nouvelle en application de l'article 7:130, n'est pas pris en considération.  
+
+§ 5. Lorsque les votes s'expriment sous forme électronique, une confirmation électronique de réception des votes est envoyée à la personne ayant voté.  
+Après l'assemblée générale, l'actionnaire ou un tiers désigné par celui-ci peuvent obtenir, au moins sur demande, une confirmation que leur vote a valablement été enregistré et pris en compte par la société, à moins que cette information ne soit déjà à leur disposition. La demande doit être effectuée dans les trois mois à compter de la date du vote.  
+Lorsqu'un intermédiaire visé à l'article 29/2 de la loi du 2 mai 2007 relative à la publicité des participations importantes dans des émetteurs dont les actions sont admises à la négociation sur un marché réglementé et portant des dispositions diverses reçoit la confirmation, il la transmet sans retard à l'actionnaire ou à un tiers désigné par celui-ci. Lorsque la chaîne d'intermédiaires compte plusieurs intermédiaires, la confirmation est transmise sans retard entre les intermédiaires, à moins que la confirmation puisse être transmise directement à l'actionnaire ou à un tiers désigné par l'actionnaire.
 
 ##### Sous-section 8. Transparence des conseillers en vote. 
 
