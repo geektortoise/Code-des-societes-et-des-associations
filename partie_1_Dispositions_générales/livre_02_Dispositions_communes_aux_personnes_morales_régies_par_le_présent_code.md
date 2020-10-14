@@ -615,7 +615,7 @@ Toute disposition résultant des statuts, d'un contrat ou d'un engagement par d�
 L'organe d'administration peut édicter un règlement d'ordre intérieur moyennant autorisation statutaire. Pareil règlement d'ordre intérieur ne peut contenir de dispositions:  
 1. contraires à des dispositions légales impératives ou aux statuts;  
 2. relatives aux matières pour lesquelles le présent code exige une disposition statutaire;  
-3. touchant aux droits des associés, actionnaires ou membres, aux pouvoirs des organes ou à l'organisation et au mode de fonctionnement de l'assemblée générale.  
+3.   
 
 Le règlement d'ordre intérieur et toute modification de celui-ci sont communiqués aux associés, actionnaires ou membres conformément à l'article 2:32 ou mis à la disposition sur le site internet de la personne morale. Les statuts font référence à la dernière version approuvée du règlement interne. L'organe d'administration peut adapter cette référénce dans les statuts et la publier.
 

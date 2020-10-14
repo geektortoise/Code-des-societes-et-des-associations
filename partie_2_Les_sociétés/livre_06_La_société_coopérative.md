@@ -109,7 +109,7 @@ Outre les données comprises dans l'extrait destiné à la publication en vertu 
 1. le respect des conditions visées aux articles 6:4, 6:6 et 6:9;  
 2. l'organisme dépositaire des apports à libérer en numéraire conformément à l'article 6:10;  
 3. les règles, dans la mesure où elles ne résultent pas de la loi, qui déterminent le nombre et le mode de désignation des membres de l'organe d'administration ou, le cas échéant, de l'organe chargé de la gestion journalière, de la représentation à l'égard des tiers ainsi que de la répartition des compétences entre ces organes;  
-4. le nombre des actions, ainsi que, le cas échéant, les restrictions en matière de cession et, s'il existe différentes classes d'actions, les mêmes données et les droits par classe;  
+4.   
 5. l'indication de chaque apport en nature, le nom de l'apporteur, le nombre d'actions émises en contrepartie de chaque apport, le cas échéant, le nom du réviseur d'entreprises et les conclusions de son rapport ainsi que, le cas échéant, les conditions auxquelles l'apport est fait;  
 6. la nature et consistance des avantages particuliers attribués à chacun des fondateurs, ou à toute personne qui a participé directement ou indirectement à la constitution de la société;  
 7. le montant total, au moins approximatif, de tous les frais, dépenses et rémunérations ou charges, sous quelque forme que ce soit, qui incombent à la société ou qui sont mis à sa charge à raison de sa constitution;  
