@@ -71,7 +71,7 @@ Immédiatement après la décision de transformation, les statuts de la sociét�
 La transformation est, à peine de nullité, constatée par un acte authentique.  
 Cet acte reproduit les conclusions du rapport établi par le commissaire ou par le réviseur d'entreprises ou l'expert-comptable externe.  
 L'acte de transformation et les statuts sont déposés et publiés simultanément conformément aux articles 2:8 et 2:14, 1°. L'acte de transformation est publié en entier; les statuts le sont par extrait.  
-Les mandats authentiques ou sous seing privés sont, ainsi que le rapport du commissaire ou du réviseur d'entreprises ou de l'expert-comptable externe, déposés en expédition ou en original en même temps que l'acte auquel ils se rapportent.  
+Les mandats authentiques ou sous signature privée sont, ainsi que le rapport du commissaire ou du réviseur d'entreprises ou de l'expert-comptable externe, déposés en expédition ou en original en même temps que l'acte auquel ils se rapportent.  
 La transformation est opposable aux tiers aux conditions prévues à l'article 2:18.
 
 ***Article 14:11***  
@@ -95,7 +95,7 @@ En cas de transformation en société en nom collectif, ou en société en comma
 
 ***Article 14:14***  
 Lorsque les statuts d'une société en nom collectif prévoient qu'en cas de décès d'un associé, la société continuera avec ses ayants cause ou certains d'entre eux, lesquels auront la qualité de commanditaires, les articles 14:3 à 14:12 ne sont pas d'application à la transformation résultant de cette disposition statutaire.  
-La transformation est constatée, soit par un acte authentique, soit par un acte sous seing privé, qui est publié par extrait de la manière prévue aux articles 2:8, § 2, et 2:14, 1°.
+La transformation est constatée, soit par un acte authentique, soit par un acte sous signature privée, qui est publié par extrait de la manière prévue aux articles 2:8, § 2, et 2:14, 1°.
 
 ### Chapitre 3. Transformation transfrontalière.
 
@@ -216,7 +216,7 @@ A défaut, la décision de transformation reste sans effet.
 La transformation est, à peine de nullité, constatée par un acte authentique.  
 Cet acte reproduit les conclusions du rapport établi par le commissaire, le réviseur d'entreprises ou l'expert-comptable externe.  
 L'acte de transformation et les statuts sont déposés et publiés simultanément conformément aux articles 2:8 et 2:14, 1°. L'acte de transformation est publié en entier; les statuts le sont par extrait seulement.  
-Les mandats authentiques ou sous seing privés sont, ainsi que le rapport du commissaire, du réviseur d'entreprise ou de l'expert-comptable externe, déposés en expédition ou en original en même temps que l'acte auquel ils se rapportent.  
+Les mandats authentiques ou sous signature privée sont, ainsi que le rapport du commissaire, du réviseur d'entreprise ou de l'expert-comptable externe, déposés en expédition ou en original en même temps que l'acte auquel ils se rapportent.  
 En cas de transformation d'une société en AISBL, l'acte de transformation ne produit ses effets qu'après l'approbation du Roi.  
 La transformation n'est opposable aux tiers que conformément aux conditions prévues à l'article 2:18.
 
@@ -247,7 +247,7 @@ Les convocations à l'assemblée générale reproduisent le texte des alinéas 1
 La transformation est, à peine de nullité, constatée par un acte authentique.  
 Cet acte reproduit les conclusions du rapport établi par le commissaire ou par le réviseur d'entreprises ou l'expert-comptable externe.  
 L'acte de transformation et les statuts sont déposés et publiés simultanément conformément aux articles 2:8 et 2:14, 1°. L'acte de transformation est publié en entier; les statuts le sont par extrait seulement.  
-Les mandats authentiques ou sous seing privés sont, ainsi que le rapport du commissaire ou du réviseur d'entreprises ou de l'expert-comptable externe, déposés en expédition ou en original en même temps que l'acte auquel ils se rapportent.  
+Les mandats authentiques ou sous signature privée sont, ainsi que le rapport du commissaire ou du réviseur d'entreprises ou de l'expert-comptable externe, déposés en expédition ou en original en même temps que l'acte auquel ils se rapportent.  
 La transformation est opposable aux tiers aux conditions prévues à l'article 2:18.
 
 ***Article 14:41***  
@@ -296,7 +296,7 @@ Les convocations à l'assemblée générale reproduisent le texte des alinéas 1
 La transformation est, à peine de nullité, constatée par un acte authentique.  
 Cet acte reproduit les conclusions du rapport établi par le commissaire, le réviseur d'entreprises ou l'expert-comptable.  
 L'acte de transformation et les statuts sont déposés et publiés simultanément conformément aux articles 2:9, 2:10, 2:15 et 2:16. L'acte de transformation est publié en entier; les statuts le sont par extrait seulement.  
-Les mandats authentiques ou sous seing privé sont, ainsi que le rapport du commissaire ou du réviseur d'entreprises ou de l'expert-comptable, déposés en expédition ou en original en même temps que l'acte auquel ils se rapportent.  
+Les mandats authentiques ou sous signature privée sont, ainsi que le rapport du commissaire ou du réviseur d'entreprises ou de l'expert-comptable, déposés en expédition ou en original en même temps que l'acte auquel ils se rapportent.  
 En cas de transformation d'une ASBL en AISBL, l'acte de transformation ne produit ses effets qu'après l'approbation du Roi.  
 La transformation est opposable aux tiers aux conditions prévues à l'article 2:18.
 

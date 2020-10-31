@@ -143,7 +143,7 @@ Les sociétés ayant participé à la fusion ou à la scission répondent solida
 #### Section 1. Procédure de fusion par absorption.
 
 ***Article 12:24***  
-Les organes d'administration des sociétés appelées à fusionner établissent par acte authentique ou par acte sous seing privé un projet de fusion.  
+Les organes d'administration des sociétés appelées à fusionner établissent par acte authentique ou par acte sous signature privée un projet de fusion.  
 Le projet de fusion mentionne au moins:  
 1. la forme légale, la dénomination, l'objet et le siège des sociétés appelées à fusionner;  
 2. le rapport d'échange des actions ou parts et, le cas échéant, le montant de la soulte en espèces;  
@@ -278,7 +278,7 @@ Si un rapport a été établi conformément à l'article 12:39, les articles 5:7
 Si un rapport a été établi conformément à l'article 12:39, les articles 6:8, 6:10 et 6:13, alinéa 1er, 2° et 5°, ne s'appliquent pas à la société coopérative qui est issue de la fusion.
 
 ***Article 12:37***  
-Les organes d'administration des sociétés appelées à fusionner établissent par acte authentique ou par acte sous seing privé un projet de fusion.  
+Les organes d'administration des sociétés appelées à fusionner établissent par acte authentique ou par acte sous signature privée un projet de fusion.  
 Le projet de fusion mentionne au moins:  
 1. la forme légale, la dénomination, l'objet et le siège des sociétés appelées à être dissoutes ainsi que de la nouvelle société;  
 2. le rapport d'échange des actions ou parts et, le cas échéant, le montant de la soulte en espèces;  
@@ -395,7 +395,7 @@ Si la fusion a été réalisée avant la date d'approbation des comptes annuels,
 #### Section 3. Procédure des opérations assimilées à la fusion par absorption.
 
 ***Article 12:50***  
-Les organes d'administration des sociétés appelées à fusionner établissent par acte authentique ou par acte sous seing privé un projet de fusion.  
+Les organes d'administration des sociétés appelées à fusionner établissent par acte authentique ou par acte sous signature privée un projet de fusion.  
 Le projet de fusion mentionne au moins:  
 1. la forme légale, la dénomination, l'objet et le siège des sociétés appelées à fusionner;  
 2. la date à partir de laquelle les opérations de la société absorbée sont considérées du point de vue comptable comme accomplies pour le compte de la société absorbante, cette date ne pouvant remonter avant le premier jour qui suit la clôture de l'exercice social dont les comptes annuels des sociétés concernées par l'opération ont déjà été approuvés;  
@@ -490,7 +490,7 @@ Si la fusion a été réalisée avant la date d'approbation des comptes annuels,
 #### Section 1. Procédure de scission par absorption.
 
 ***Article 12:59***  
-Les organes d'administration des sociétés participant à la scission établissent un projet de scission par acte authentique ou par acte sous seing privé.  
+Les organes d'administration des sociétés participant à la scission établissent un projet de scission par acte authentique ou par acte sous signature privée.  
 Le projet de scission mentionne au moins:  
 1. la forme légale, la dénomination, l'objet et le siège des sociétés participant à la scission;  
 2. le rapport d'échange des actions ou parts et, le cas échéant, le montant de la soulte en espèces;  
@@ -656,7 +656,7 @@ Si un rapport a été établi conformément à l'article 12:78, les articles 5:7
 Si un rapport a été établi conformément à l'article 12:78, les articles 6:8, 6:10 et 6:13, alinéa 1er, 2° et 5° ne s'appliquent pas à la société coopérative qui est issue de la scission.
 
 ***Article 12:75***  
-Les organes d'administration des sociétés participant à la scission établissent un projet de scission par acte authentique ou par acte sous seing privé.  
+Les organes d'administration des sociétés participant à la scission établissent un projet de scission par acte authentique ou par acte sous signature privée.  
 Le projet de scission mentionne au moins:  
 1. la forme légale, la dénomination, l'objet et le siège de la société à scinder ainsi que des nouvelles sociétés;  
 2. le rapport d'échange des actions ou parts et, le cas échéant, le montant de la soulte en espèces;  
@@ -815,7 +815,7 @@ Les sociétés concernées peuvent décider de ne pas soumettre l'apport de bran
 ### Chapitre 1. Procédure.
 
 ***Article 12:93***  
-§ 1er. Les organes d'administration de la société apporteuse et de la société bénéficiaire établissent un projet d'apport d'universalité ou d'apport de la branche d'activité par acte authentique ou par acte sous seing privé.  
+§ 1er. Les organes d'administration de la société apporteuse et de la société bénéficiaire établissent un projet d'apport d'universalité ou d'apport de la branche d'activité par acte authentique ou par acte sous signature privée.  
 Lorsque l'apport est réalisé à l'occasion de la constitution de la société bénéficiaire, le projet est établi par l'organe d'administration de la société apporteuse.  
 Il est établi autant de projets distincts qu'il y a de sociétés bénéficiaires.  
 
@@ -943,7 +943,7 @@ La nullité d'une fusion transfrontalière ayant pris effet conformément à l'a
 ### Chapitre 2. Procédure à suivre lors de la fusion transfrontalière de sociétés.
 
 ***Article 12:111***  
-Les organes d'administration des sociétés appelées à fusionner établissent par acte authentique ou par acte sous seing privé un projet commun de fusion transfrontalière.  
+Les organes d'administration des sociétés appelées à fusionner établissent par acte authentique ou par acte sous signature privée un projet commun de fusion transfrontalière.  
 Le projet de fusion transfrontalière mentionne au moins:  
 1. la forme légale, la dénomination, l'objet et le siège statutaire des sociétés qui fusionnent et ceux envisagés pour la société issue de la fusion transfrontalière;  
 2. le rapport d'échange des actions ou parts et, le cas échéant, le montant de la soulte en espèces;  

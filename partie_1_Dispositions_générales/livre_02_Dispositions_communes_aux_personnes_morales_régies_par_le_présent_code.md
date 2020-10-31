@@ -31,11 +31,11 @@ Nonobstant toute disposition contraire, les personnes morales ne sont tenues de 
 ### Chapitre 1. Forme de l'acte constitutif.
 
 ***Article 2:5***  
-§ 1er. Les sociétés en nom collectif, les sociétés en commandite et les groupements européens d'intérêt économique sont, à peine de nullité, constitués par acte authentique ou sous seing privé, en se conformant, dans ce dernier cas, à l'article 1325 du Code civil.  
+§ 1er. Les sociétés en nom collectif, les sociétés en commandite et les groupements européens d'intérêt économique sont, à peine de nullité, constitués par acte authentique ou sous signature privée, en se conformant, dans ce dernier cas, à l'article 8.20 du Code civil.  
 Les sociétés à responsabilité limitée, les sociétés coopératives, les sociétés anonymes, les sociétés européennes et les sociétés coopératives européennes sont, à peine de nullité, constituées par acte authentique.  
 Pour les sociétés auxquelles elles s'appliquent, les données mentionnées à l'article 2:8, § 2, 1°, 3°, 5°, 7°, 8°, 9°, 11°, 12°, 13° et 15°, a) et b)°, sont reprises dans les statuts de la société. Les données mentionnées à l'article 2:8, § 2, 2°, 4°, 6°, 10° et 14°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
 
-§ 2. Les ASBL sont, à peine de nullité, constituées par acte authentique ou sous seing privé. Dans ce dernier cas, l'acte doit être dressé en deux originaux seulement, par dérogation à l'article 1325 du Code civil.  
+§ 2. Les ASBL sont, à peine de nullité, constituées par acte authentique ou sous signature privée. Dans ce dernier cas, l'acte doit être dressé en deux originaux seulement, par dérogation à l'article 8.20 du Code civil.  
 Les données mentionnées à l'article 2:9, § 2, 2°, 3°, 4°, 5°, 6°, 7°, a) et b), 8°, 9° et 10°, sont reprises dans les statuts de l'ASBL. Les données mentionnées à l'article 2:9, § 2, 1°, 7°, c), 11° et 12°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
 
 § 3. Les AISBL et les fondations sont, à peine de nullité, constituées par acte authentique. Si la constitution de la fondation prend la forme d'un testament, la fondation peut recevoir des dons par testament nonobstant l'article 906, alinéa 2, du Code civil.  
@@ -83,9 +83,9 @@ Le Roi détermine les modalités d'inscription des personnes morales et d'autres
 
 ***Article 2:8***  
 § 1er. Afin d'être versés au dossier de la société, les documents suivants sont déposés pour les sociétés dans les trente jours, à compter de la date de l'acte définitif, du prononcé du jugement exécutoire par provision ou de la date à laquelle le jugement est passé en force de chose jugée:  
-1. une expédition de l'acte constitutif authentique ou un double de l'acte constitutif sous seing privé;  
+1. une expédition de l'acte constitutif authentique ou un double de l'acte constitutif sous signature privée;  
 2. l'extrait de l'acte constitutif visé au paragraphe 2;  
-3. une expédition des procurations authentiques ou un original des procurations sous seing privé relatives à l'acte constitutif sous seing privé;  
+3. une expédition des procurations authentiques ou un original des procurations sous seing privé relatives à l'acte constitutif sous signature privée;  
 4. la première version du texte des statuts ainsi que l'acte constitutif, et le texte coordonné de ces statuts mis à jour ainsi que chaque modification des statuts y compris, le cas échéant, tout changement dans la composition d'un groupement européen d'intérêt économique;  
 5. l'extrait des actes relatifs à la nomination et à la cessation des fonctions:  
    +  des personnes autorisées à administrer et à représenter la société;  
@@ -124,7 +124,7 @@ L'extrait visé à l'alinéa 1er, 6°, contient:
 11. le cas échéant, la description précise du ou des buts qu'elle poursuit en plus du but de distribuer ou procurer à ses associés un avantage patrimonial direct ou indirect;  
 12. la désignation de l'objet de la société;  
 13. les lieu, jour et heure de l'assemblée générale ordinaire des associés ou actionnaires ainsi que les conditions d'admission et d'exercice du droit de vote;  
-14. les nom, prénom et domicile ou, pour les personnes morales, leurs dénomination, forme légale, numéro d'entreprise et siège, des mandataires, les données prévues par le présent code ainsi que les dispositions pertinentes des procurations sous seing privé ou authentique;  
+14. les nom, prénom et domicile ou, pour les personnes morales, leurs dénomination, forme légale, numéro d'entreprise et siège, des mandataires, les données prévues par le présent code ainsi que les dispositions pertinentes des procurations sous signature privée ou authentique;  
 15. pour le groupement européen d'intérêt économique:  
    +  les nom, raison sociale ou dénomination, la forme légale, le domicile ou siège et, le cas échéant, le numéro et le lieu d'immatriculation de chacun des membres;  
    +  le cas échéant, la clause exonérant un nouveau membre du paiement des dettes nées antérieurement à son entrée;  
@@ -243,9 +243,9 @@ Ces extraits contiennent les mentions suivantes:
 8. l'identité des administrateurs, des délégués à la gestion journalière et des autres personnes qui ont le pouvoir de représenter la fondation, et, le cas échéant, du commissaire.
 
 ***Article 2:12***  
-§ 1er. Les dépôts visés aux articles 2:8, 2:9, 2:10 et 2:11 se font par l'intermédiaire du notaire pour les actes authentiques et, pour les actes sous seing privé et les décisions judiciaires, par l'intermédiaire d'un notaire ou d'un guichet d'entreprise ou par tous les associés solidaires, l'organe de représentation ou leur mandataire.  
+§ 1er. Les dépôts visés aux articles 2:8, 2:9, 2:10 et 2:11 se font par l'intermédiaire du notaire pour les actes authentiques et, pour les actes sous signature privée et les décisions judiciaires, par l'intermédiaire d'un notaire ou d'un guichet d'entreprise ou par tous les associés solidaires, l'organe de représentation ou leur mandataire.  
 Le Roi peut prévoir que ces dépôts doivent être effectués à un guichet digital unique, sauf force majeure ou indisponibilité du système, auquel cas le dépôt peut avoir lieu sous une forme papier au greffe compétent.  
-Le Roi peut également prévoir les dépôts d'actes sous seing privé et de décisions judiciaires qui peuvent, le cas échéant, uniquement être déposés par l'intermédiaire d'un notaire ou d'un guichet d'entreprise.  
+Le Roi peut également prévoir les dépôts d'actes sous signature privée et de décisions judiciaires qui peuvent, le cas échéant, uniquement être déposés par l'intermédiaire d'un notaire ou d'un guichet d'entreprise.  
 
 § 2. Toute personne peut prendre connaissance gratuitement des documents déposés relatifs à une personne morale déterminée et en obtenir, sur demande écrite ou verbale, copie intégrale ou partielle, sans autre paiement que celui des droits de greffe. Ces copies sont certifiées conformes à l'original, à moins que le demandeur ne renonce à cette formalité.
 

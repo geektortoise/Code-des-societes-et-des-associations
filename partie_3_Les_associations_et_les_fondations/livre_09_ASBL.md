@@ -24,7 +24,7 @@ L'association doit, en cas de requête orale ou écrite, accorder sans délai l'
 ***Article 9:4***  
 La nullité de l'association ne peut être prononcée que dans les cas suivants:  
 1. lorsque le nombre de fondateurs valablement engagés est inférieur à deux;  
-2. lorsque la constitution n'a pas eu lieu par acte authentique ou par acte sous seing privé;  
+2. lorsque la constitution n'a pas eu lieu par acte authentique ou par acte sous signature privée;  
 3. lorsque les statuts ne contiennent pas les mentions visées à l'article 2:9, § 2, 2° et 4° ;  
 4. lorsque le but ou l'objet en vue duquel elle est constituée, ou son but ou objet réel, contrevient à la loi ou à l'ordre public;  
 5. lorsqu'elle a été constituée dans le but de fournir à ses membres, à ses membres adhérents, aux membres de son organe d'administration ou à toute autre personne, sauf dans le but désintéressé déterminé par les statuts, des avantages patrimoniaux directs ou indirects tels que visés à l'article 1:4.
