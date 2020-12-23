@@ -478,7 +478,7 @@ Les actionnaires peuvent recevoir, au siège de la société, une copie de ces d
 ##### Sous-section 4. Assemblée générale écrite.
 
 ***Article 6:71***  
-Les actionnaires peuvent, à l'unanimité et par écrit, prendre toutes les décisions qui relèvent des pouvoirs de l'assemblée générale, à l'exception de celles qui doivent être reçues dans un acte authentique. Dans ce cas, les formalités de convocation ne doivent pas être respectées. Les membres de l'organe d'administration et le commissaire peuvent, à leur demande, prendre connaissance de ces décisions.
+Les actionnaires peuvent, à l'unanimité et par écrit, prendre toutes les décisions qui relèvent des pouvoirs de l'assemblée générale, à l'exception de la modification des statuts. Dans ce cas, les formalités de convocation ne doivent pas être respectées. Les membres de l'organe d'administration et le commissaire peuvent, à leur demande, prendre connaissance de ces décisions.
 
 ##### Sous-section 5. Participation à l'assemblée générale.
 
@@ -494,17 +494,16 @@ Les statuts déterminent les formalités à accomplir pour être admis à l'asse
 Les actionnaires qui ont rempli les formalités pour être admis à une assemblée générale sont également admis à chaque assemblée générale ultérieure comportant les mêmes points d'ordre du jour, à moins que la société soit informée d'une cession des actions concernées.
 
 ***Article 6:75***  
-§ 1er. Les statuts peuvent prévoir la possibilité pour les actionnaires de participer à distance à l'assemblée générale grâce à un moyen de communication électronique mis à disposition par la société. Pour ce qui concerne le respect des conditions de quorum et de majorité, les actionnaires qui participent de cette manière à l'assemblée générale sont réputés présents à l'endroit où se tient l'assemblée générale.  
-Pour l'application de l'alinéa 1er, la société doit être en mesure de contrôler, par le moyen de communication électronique utilisé, la qualité et l'identité de l'actionnaire visé à l'alinéa 1er de la manière définie par les statuts ou en vertu de ceux-ci. Des conditions supplémentaires peuvent être imposées par les statuts ou en vertu de ceux-ci pour l'utilisation du moyen de communication électronique, avec pour seul objectif la garantie de la sécurité du moyen de communication électronique.  
-Pour l'application de l'alinéa 1er, et sans préjudice de toute restriction imposée par ou en vertu de la loi, le moyen de communication électronique doit au moins permettre aux actionnaires, de prendre connaissance, de manière directe, simultanée et continue, des discussions au sein de l'assemblée et d'exercer leur droit de vote sur tous les points sur lesquels l'assemblée est appelée à se prononcer. Les statuts peuvent prévoir que le moyen de communication électronique doit en outre permettre aux actionnaires de participer aux délibérations et de poser des questions.  
-La convocation à l'assemblée générale contient une description claire et précise des procédures relatives à la participation à distance prévues par les statuts ou en vertu de ceux-ci.  
-Les modalités suivant lesquelles il est constaté qu'un actionnaire participe à l'assemblée générale par un moyen de communication électronique et peut dès lors être considéré comme présent, sont définies par les statuts ou en vertu de ceux-ci.  
+§ 1er. L'organe d'administration peut prévoir la possibilité pour les actionnaires de participer à distance à l'assemblée générale grâce à un moyen de communication électronique mis à disposition par la société. Pour ce qui concerne le respect des conditions de quorum et de majorité, les actionnaires qui participent de cette manière à l'assemblée générale sont réputés présents à l'endroit où se tient l'assemblée générale.  
+Pour l'application de l'alinéa 1er, la société doit être en mesure de contrôler, par le moyen de communication électronique utilisé, la qualité et l'identité de l'actionnaire visé à l'alinéa 1er. Des conditions supplémentaires peuvent être imposées pour l'utilisation du moyen de communication électronique, avec pour seul objectif la garantie de la sécurité du moyen de communication électronique.  
+Pour l'application de l'alinéa 1er, et sans préjudice de toute restriction imposée par ou en vertu de la loi, le moyen de communication électronique doit au moins permettre aux actionnaires, de prendre connaissance, de manière directe, simultanée et continue, des discussions au sein de l'assemblée et d'exercer leur droit de vote sur tous les points sur lesquels l'assemblée est appelée à se prononcer. Le moyen de communication électronique doit en outre permettre aux actionnaires de participer aux délibérations et de poser des questions, à moins que l'organe d'administration ne motive dans la convocation à l'assemblée générale la raison pour laquelle la société ne dispose pas d'un tel moyen de communication électronique.  
+La convocation à l'assemblée générale contient une description claire et précise des procédures relatives à la participation à distance. Lorsque la société dispose d'un site internet tel que visé à l'article 2 :31, ces procédures sont rendues accessibles sur le site internet de la société à ceux qui ont le droit de participer à l'assemblée générale.  
 Le procès-verbal de l'assemblée générale mentionne les éventuels problèmes et incidents techniques qui ont empêché ou perturbé la participation par voie électronique à l'assemblée générale ou au vote.  
-Les membres du bureau de l'assemblée générale, l'organe d'administration et, le cas échéant, le commissaire ne peuvent pas participer à l'assemblée générale par voie électronique.  
+Les membres du bureau de l'assemblée générale ne peuvent pas participer à l'assemblée générale par voie électronique.  
 
 § 2. L'article 6:74 est applicable lorsque la société permet la participation à distance à l'assemblée générale.  
 
-§ 3. Le Roi peut préciser la nature et les conditions d'application des moyens de communication électronique visés au paragraphe 1er.  
+§ 3.   
 
 § 4. Sans préjudice de l'article 6:80, les statuts peuvent autoriser tout actionnaire à voter à distance avant l'assemblée générale sous forme électronique, selon les modalités qu'ils déterminent.  
 Lorsque la société autorise le vote à distance sous forme électronique, elle doit être en mesure de contrôler la qualité et l'identité de l'actionnaire, de la manière définie par les statuts ou en vertu de ceux-ci.
@@ -650,7 +649,7 @@ Ils sont obligés de convoquer l'assemblée générale des obligataires dans les
 Les statuts déterminent les formalités à accomplir pour être admis à l'assemblée générale des obligataires.
 
 ***Article 6:98***  
-Les statuts peuvent étendre le régime de participation à distance visé à l'article 6:75, aux mêmes conditions, à l'assemblée générale des obligataires.
+L'organe d'administration peut étendre le régime de participation à distance visé à l'article 6:75, aux mêmes conditions, à l'assemblée générale des obligataires.
 
 #### Section 5. Tenue de l'assemblée générale des obligataires.
 

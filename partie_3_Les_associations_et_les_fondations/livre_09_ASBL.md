@@ -109,7 +109,12 @@ L'organe d'administration ou, le cas échéant, le commissaire, convoque l'assem
 
 ***Article 9:14***  
 Tous les membres, administrateurs et commissaires sont convoqués à l'assemblée générale au moins quinze jours avant celle-ci. L'ordre du jour est joint à la convocation. Toute proposition signée par au moins un vingtième des membres est portée à l'ordre du jour.  
-Une copie des documents qui doivent être transmis à l'assemblée générale en vertu du présent code est envoyée sans délai et gratuitement aux membres, aux administrateurs et aux commissaires qui en font la demande.
+Une copie des documents qui doivent être transmis à l'assemblée générale en vertu du présent code est envoyée sans délai et gratuitement aux membres, aux administrateurs et aux commissaires qui en font la demande.  
+
+##### Sous-section 2/1. Assemblée générale écrite.
+
+***Article 9:14/1***  
+Les membres peuvent, à l'unanimité et par écrit, prendre toutes les décisions qui relèvent des pouvoirs de l'assemblée générale, à l'exception de la modification des statuts. Dans ce cas, les formalités de convocation ne doivent pas être accomplies. Les membres de l'organe d'administration et, le cas échéant, le commissaire, peuvent, à leur demande, prendre connaissance de ces décisions.
 
 ##### Sous-section 3. Participation à l'assemblée générale.
 
@@ -118,6 +123,17 @@ Les membres peuvent se faire représenter à l'assemblée générale par un autr
 
 ***Article 9:16***  
 Lorsque l'assemblée générale délibère sur la base d'un rapport rédigé par le commissaire, celui-ci prend part à l'assemblée.
+
+***Article 9:16/1***  
+§ 1er. L'organe d'administration peut prévoir la possibilité pour les membres de participer à distance à l'assemblée générale grâce à un moyen de communication électronique mis à disposition par l'ASBL. Pour ce qui concerne le respect des conditions de quorum et de majorité, les membres qui participent de cette manière à l'assemblée générale sont réputés présents à l'endroit où se tient l'assemblée générale.  
+Pour l'application de l'alinéa 1er, l'ASBL doit être en mesure de contrôler, par le moyen de communication électronique utilisé, la qualité et l'identité du membre visé à l'alinéa 1er. Des conditions supplémentaires peuvent être imposées pour l'utilisation du moyen de communication électronique, avec pour seul objectif la garantie de la sécurité du moyen de communication électronique.  
+Pour l'application de l'alinéa 1er, et sans préjudice de toute restriction imposée par ou en vertu de la loi, le moyen de communication électronique doit au moins permettre aux membres visés à l'alinéa 1er de prendre connaissance, de manière directe, simultanée et continue, des discussions au sein de l'assemblée et d'exercer leur droit de vote sur tous les points sur lesquels l'assemblée est appelée à se prononcer. Le moyen de communication électronique doit en outre permettre aux membres visés à l'alinéa 1er de participer aux délibérations et de poser des questions, à moins que l'organe d'administration ne motive dans la convocation à l'assemblée générale la raison pour laquelle l'ASBL ne dispose pas d'un tel moyen de communication électronique.  
+La convocation à l'assemblée générale contient une description claire et précise des procédures relatives à la participation à distance. Lorsque l'ASBL dispose d'un site internet tel que visé à l'article 2 :31, ces procédures sont rendues accessibles sur le site internet de l'association à ceux qui ont le droit de participer à l'assemblée générale.  
+Le procès-verbal de l'assemblée générale mentionne les éventuels problèmes et incidents techniques qui ont empêché ou perturbé la participation par voie électronique à l'assemblée générale ou au vote.  
+Les membres du bureau de l'assemblée générale ne peuvent pas participer à l'assemblée générale par voie électronique.  
+
+§ 2. Sans préjudice de l'article 9 :15, les statuts peuvent autoriser tout membre à voter à distance avant l'assemblée générale sous forme électronique, selon les modalités qu'ils déterminent.  
+Lorsque l'ASBL autorise le vote à distance avant l'assemblée générale sous forme électronique, elle doit être en mesure de contrôler la qualité et l'identité du membre, de la manière définie par les statuts ou en vertu de ceux-ci.
 
 ##### Sous-section 4. Tenue de l'assemblée générale.
 

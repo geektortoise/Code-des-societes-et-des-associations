@@ -40,12 +40,28 @@ Une décision de l'assemblée générale est exigée pour:
 ##### Sous-section 2. Convocation de l'assemblée générale.
 
 ***Article 10:6***  
-Sans préjudice du mode de convocation déterminé par les statuts, le commissaire peut, le cas échéant, convoquer l'assemblée générale. Il doit la convoquer lorsqu'un cinquième des membres de l'association le demande.
+Sans préjudice du mode de convocation déterminé par les statuts, le commissaire peut, le cas échéant, convoquer l'assemblée générale. Il doit la convoquer lorsqu'un cinquième des membres de l'association le demande.  
+
+##### Sous-section 2/1. Assemblée générale écrite.
+
+***Article 10:6/1***  
+Les membres peuvent, à l'unanimité et par écrit, prendre toutes les décisions qui relèvent des pouvoirs de l'assemblée générale, à l'exception de la modification des statuts. Dans ce cas, les formalités de convocation ne doivent pas être accomplies. Les membres de l'organe d'administration et, le cas échéant, le commissaire, peuvent, à leur demande, prendre connaissance de ces décisions.
 
 ##### Sous-section 3. Participation à l'assemblée générale.
 
 ***Article 10:7***  
 Lorsque l'assemblée générale délibère sur la base d'un rapport rédigé par le commissaire, celui-ci prend part à l'assemblée.
+
+***Article 10:7/1***  
+§ 1er. L'organe d'administration peut prévoir la possibilité pour les membres de participer à distance à l'assemblée générale grâce à un moyen de communication électronique mis à disposition par l'AISBL. Pour ce qui concerne le respect des conditions de quorum et de majorité, les membres qui participent de cette manière à l'assemblée générale sont réputés présents à l'endroit où se tient l'assemblée générale.  
+Pour l'application de l'alinéa 1er, l'AISBL doit être en mesure de contrôler, par le moyen de communication électronique utilisé, la qualité et l'identité du membre visé à l'alinéa 1er. Des conditions supplémentaires peuvent être imposées pour l'utilisation du moyen de communication électronique, avec pour seul objectif la garantie de la sécurité du moyen de communication électronique.  
+Pour l'application de l'alinéa 1er, et sans préjudice de toute restriction imposée par ou en vertu de la loi, le moyen de communication électronique doit au moins permettre aux membres visés à l'alinéa 1er de prendre connaissance, de manière directe, simultanée et continue, des discussions au sein de l'assemblée et d'exercer leur droit de vote sur tous les points sur lesquels l'assemblée est appelée à se prononcer. Le moyen de communication électronique doit en outre permettre aux membres visés à l'alinéa 1er de participer aux délibérations et de poser des questions, à moins que l'organe d'administration ne motive dans la convocation à l'assemblée générale la raison pour laquelle l'AISBL ne dispose pas d'un tel moyen de communication électronique.  
+La convocation à l'assemblée générale contient une description claire et précise des procédures relatives à la participation à distance. Lorsque l'AISBL dispose d'un site internet visé à l'article 2 :31, ces procédures sont rendues accessibles à ceux qui ont le droit de participer à l'assemblée générale sur le site internet de l'association.  
+Le procès-verbal de l'assemblée générale mentionne les éventuels problèmes et incidents techniques qui ont empêché ou perturbé la participation par voie électronique à l'assemblée générale ou au vote.  
+Les membres du bureau de l'assemblée générale ne peuvent pas participer à l'assemblée générale par voie électronique.  
+
+§ 2. Les statuts peuvent autoriser tout membre à voter à distance avant l'assemblée générale sous forme électronique, selon les modalités qu'ils déterminent.  
+Lorsque l'AISBL autorise le vote à distance avant l'assemblée générale sous forme électronique, elle doit être en mesure de contrôler la qualité et l'identité du membre, de la manière définie par les statuts ou en vertu de ceux-ci.
 
 #### Section 2. L'assemblée générale ordinaire.
 
