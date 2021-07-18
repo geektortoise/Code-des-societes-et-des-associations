@@ -17,15 +17,16 @@ Si les comptes annuels n'ont pas été soumis aux associés réunis en assemblé
 1. aux sociétés dont l'objet est l'assurance ou la réassurance, sous réserve, pour ce qui concerne ces dernières, du pouvoir du Roi d'en disposer autrement;  
 2. aux sociétés régies par la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse, à la Banque nationale de Belgique, à l'Institut de réescompte et de garantie et à la Caisse des dépôts et consignations;  
 3. aux entreprises d'investissement visées à l'article 3 de la loi du 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement, à l'exclusion des établissements visés à l'article 4 de cette loi;  
-4. aux organismes de liquidation tels que visés à l'article 23, § 1er, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, qui ne sont pas des établissements de crédit établis en Belgique, et aux organismes assimilés à des organismes de liquidation déterminés par le Roi en application de l'article 23, § 7, de la même loi;  
+4.   
 5. aux entreprises agricoles agréées conformément à l'article 8:2 qui ont pris la forme d'une société en nom collectif ou d'une société en commandite et qui sont assujetties à l'impôt des personnes physiques.
 
 ***Article 3:2***  
 Les petites sociétés ont la faculté d'établir leurs comptes annuels selon un schéma abrégé fixé par le Roi.  
 Les sociétés en nom collectif, les sociétés en commandite et les groupements européens d'intérêt economique dont le chiffre d'affaires du dernier exercice, à l'exclusion de la taxe sur la valeur ajoutée, n'excède pas un montant fixé par le Roi, ont la faculté de ne pas établir des comptes annuels selon les règles établies par le Roi en vertu de l'article 3:1, § 1er.  
 Les alinéas 1er et 2 ne sont pas applicables:  
-1. aux sociétés visées à l'article 3:1, § 3, 1°, 2°, 3° et 4° ;  
-2. aux sociétés dont l'objet est le crédit hypothécaire.  
+1. aux sociétés visées à l'article 3:1, § 3, 1°, 2° et 3° ;  
+2. aux sociétés dont l'objet est le crédit hypothécaire ;  
+3. aux entités d'intérêt public visées à l'article 1:12, 5°.  
 
 L'alinéa 1er n'est pas applicable aux sociétés cotées et aux entités d'intérêt public visées à l'article 1:12, 2°.
 
@@ -33,13 +34,14 @@ L'alinéa 1er n'est pas applicable aux sociétés cotées et aux entités d'int�
 Les microsociétés ont la faculté d'établir leurs comptes annuels selon un microschéma fixé par le Roi.  
 Les sociétés en nom collectif, les sociétés en commandite et les groupements européens d'intérêt economique dont le chiffre d'affaires du dernier exercice, à l'exclusion de la taxe sur la valeur ajoutée, n'excède pas un montant fixé par le Roi, ont la faculté de ne pas établir des comptes annuels selon les règles établies par le Roi en vertu de l'article 3:1, § 1er.  
 Les alinéas 1er et 2 ne s'appliquent pas:  
-1. aux sociétés visées à l'article 3:1, § 3, 1°, 2°, 3° et 4° ;  
-2. aux sociétés dont l'objet est le crédit hypothécaire.
+1. aux sociétés visées à l'article 3:1, § 3, 1°, 2° et 3° ;  
+2. aux sociétés dont l'objet est le crédit hypothécaire ;  
+3. aux entités d'intérêt public visées à l'article 1:12, 5°.
 
 #### Section 2. Le rapport de gestion.
 
 ***Article 3:4***  
-Sauf s'il s'agit des sociétés visées à l'article 3:1, § 3, 1°, 2°, 3° et 4°, la présente section n'est pas applicable:  
+Sauf s'il s'agit des sociétés visées à l'article 3:1, § 3, 1°, 2° et 3°, ou des entités d'intérêt public visées à l'article 1:12, 5°, la présente section n'est pas applicable:  
 1. aux petites sociétés non cotées;  
 2. aux petites sociétés qui ne sont pas des entités d'intérêt public visées à l'article 1:12, 2° ;  
 3. aux sociétés en nom collectif, aux sociétés en commandite et aux groupements européens d'intérêt economique dont tous les associés à responsabilité illimitée sont des personnes physiques;  
@@ -144,8 +146,8 @@ Pour l'application de la présente section, il y a lieu d'entendre par:
 2. société active dans l'exploitation des forêts primaires: une société exerçant, dans les forêts primaires, des activités visées à la section A, division 02, groupe 02.2, de la même annexe.
 
 ***Article 3:8***  
-§ 1er. Les sociétés cotées, les entités d'intérêt public visées à l'article 1:12, 2°, les sociétés visées à l'article 3:1, § 3, 1°, 2°, 3° ou 4°, ainsi que les sociétés qui dépassent plus d'un des critères mentionnés à l'article 1:26, § 1er, à condition que les critères soient calculés sur base individuelle, sauf s'il s'agit d'une société-mère et qui sont actives dans les industries extractives ou l'exploitation des forêts primaires au sens de l'article 3:7, sont tenus d'établir chaque année un rapport sur les paiements aux gouvernements dont la forme et le contenu sont définis par le Roi.  
-Sauf s'il s'agit de sociétés visées à l'article 3:1, § 3, 1°, 2°, 3° ou 4°, la présente section n'est pas applicable:  
+§ 1er. Les sociétés cotées, les entités d'intérêt public visées à l'article 1:12, 5°, les sociétés visées à l'article 3:1, § 3, 1°, 2° et 3°, ainsi que les sociétés qui dépassent plus d'un des critères mentionnés à l'article 1:26, § 1er, à condition que les critères soient calculés sur base individuelle, sauf s'il s'agit d'une société-mère et qui sont actives dans les industries extractives ou l'exploitation des forêts primaires au sens de l'article 3:7, sont tenus d'établir chaque année un rapport sur les paiements aux gouvernements dont la forme et le contenu sont définis par le Roi.  
+Sauf s'il s'agit de sociétés visées à l'article 3:1, § 3, 1°, 2° ou 3°, ou des entités d'intérêt public visées à l'article 1:12, 5°, la présente section n'est pas applicable:  
 1. aux sociétés en nom collectif, aux sociétés en commandite et aux groupements européens d'intérêt economique dont tous les associés à responsabilité illimitée sont des personnes physiques;  
 2. aux entreprises agricoles agréées conformément à l'article 8:2 qui ont pris la forme d'une société en nom collectif ou d'une société en commandite et qui sont assujetties à l'impôt des personnes physiques;  
 3. aux sociétés relevant du droit d'un Etat membre de l'Union européenne qui sont des filiales ou des sociétés mères lorsque les conditions suivantes sont remplies:  
@@ -160,7 +162,7 @@ Sauf s'il s'agit de sociétés visées à l'article 3:1, § 3, 1°, 2°, 3° ou 
 ##### Sous-section 1. Sociétés belges.
 
 ***Article 3:9***  
-Sauf s'il s'agit de sociétés visées à l'article 3:1, § 3, 1°, 2°, 3° ou 4°, la présente sous-section n'est pas applicable:  
+Sauf s'il s'agit des sociétés visées à l'article 3:1, § 3, 1°, 2° et 3°, ou des entités d'intérêt public visées à l'article 1:12, 5°, la présente sous-section n'est pas applicable:  
 1. aux petites sociétés qui ont adopté la forme d'une société en nom collectif ou d'une société en commandite;  
 2. aux sociétés en nom collectif, aux sociétés en commandite et aux groupements européens d'intérêt economique dont tous les associés à responsabilité illimitée sont des personnes physiques.
 
@@ -182,7 +184,7 @@ Les petites sociétés non cotées, les petites sociétés qui ne sont pas des e
    +  le montant, à la date de clôture de ceux-ci, des dettes ou de la partie des dettes garanties par les pouvoirs publics belges;  
    +  le montant, à cette même date, des dettes exigibles, que des délais de paiement aient ou non été obtenus, envers des administrations fiscales et envers l'Office national de sécurité sociale;  
    +  le montant afférent à l'exercice clôturé, des subsides en capitaux ou en intérêts payés ou alloués par des pouvoirs ou institutions publics;  
-6. le cas échéant, un document comprenant les indications du rapport de gestion prévues par l'article 3:6. Toute personne s'adressant au siège de la société peut prendre connaissance du rapport de gestion et en obtenir gratuitement, même par correspondance, copie intégrale. Cette obligation n'est pas applicable aux petites sociétés non cotées ou les petites sociétés qui ne sont pas des entités d'intérêt public visées à l'article 1:12, 2°, sauf s'il s'agit des sociétés visées à l'article 3:1, § 3, 1°, 2°, 3° ou 4° ;  
+6. le cas échéant, un document comprenant les indications du rapport de gestion prévues par l'article 3:6. Toute personne s'adressant au siège de la société peut prendre connaissance du rapport de gestion et en obtenir gratuitement, même par correspondance, copie intégrale. Cette obligation n'est pas applicable aux petites sociétés non cotées ou les petites sociétés qui ne sont pas des entités d'intérêt public visées à l'article 1:12, 2°, sauf s'il s'agit des sociétés visées à l'article 3:1, § 3, 1°, 2° ou 3°, ou des entités d'intérêt public visées à l'article 1:12, 5° ;  
 7. une liste des entreprises dans lesquelles la société détient une participation telle que définie à l'article 1:22. Pour chacune de ces entreprises les données suivantes sont mentionnées:  
    +  la dénomination, le siège et s'il s'agit d'une entreprise de droit belge, le numéro d'entreprise qui lui a été attribué par la Banque-Carrefour des Entreprises;  
    +  le nombre des droits sociaux détenus directement par la société et le pourcentage que cette détention représente, ainsi que le pourcentage de droits sociaux détenus par les filiales de la société;  
@@ -260,7 +262,7 @@ Le Roi peut déroger aux alinéas précédents pour ce qui concerne les sociét�
 Sans préjudice de dispositions contraires dans d'autres lois, le présent chapitre n'est pas applicable:  
 1. aux sociétés régies par la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse, à la Banque nationale de Belgique, à l'Institut de réescompte et de garantie et à la Caisse des dépôts et consignations;  
 2. aux entreprises d'investissement visées à l'article 3 de la loi du 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement, à l'exclusion des institutions visées à l'article 4 de cette loi;  
-3. aux organismes de liquidation visés à l'article 23, § 1er, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, qui ne sont pas des établissements de crédit établis en Belgique, et aux organismes assimilés à des organismes de liquidation déterminés par le Roi en application de l'article 23, § 7, de cette loi;  
+3.   
 4. aux entreprises agricoles agréées conformément à l'article 8:2 qui ont pris la forme d'une société en nom collectif ou d'une société en commandite et qui sont assujetties à l'impôt des personnes physiques.
 
 #### Section 2. Généralités: l'obligation de consolidation.
@@ -379,7 +381,7 @@ La société mère qui a établi la déclaration non financière consolidée sur
 #### Section 5. Rapport consolidé sur les paiements aux gouvernements.
 
 ***Article 3:33***  
-L'organe d'administration d'une société qui est tenue d'établir des comptes consolidés conformément aux articles 3:22 à 3:28 et qui est active dans les industries extractives ou l'exploitation des forêts primaires au sens de l'article 3:7, est tenu d'établir chaque année un rapport consolidé sur les paiements effectués au profit de gouvernements, dont la forme et le contenu sont définis par le Roi. Cette obligation s'applique également aux sociétés qui sont tenues d'établir des comptes consolidés en vertu de l'arrêté royal du 23 septembre 1992 relatif aux comptes consolidés des établissements de crédit, des entreprises d'investissement et des sociétés de gestion d'organismes de placement collectif, ou en vertu de l'article 18 de l'arrêté royal du 26 septembre 2005 relatif au statut des organismes de liquidation et des organismes assimilés à des organismes de liquidation.
+L'organe d'administration d'une société qui est tenue d'établir des comptes consolidés conformément aux articles 3:22 à 3:28 et qui est active dans les industries extractives ou l'exploitation des forêts primaires au sens de l'article 3:7, est tenu d'établir chaque année un rapport consolidé sur les paiements effectués au profit de gouvernements, dont la forme et le contenu sont définis par le Roi. Cette obligation s'applique également aux sociétés qui sont tenues d'établir des comptes consolidés en vertu de l'arrêté royal du 23 septembre 1992 relatif aux comptes consolidés des établissements de crédit, des entreprises d'investissement et des sociétés de gestion d'organismes de placement collectif.
 
 ***Article 3:34***  
 Le rapport visé à l'article 3:33 est déposé par l'organe d'administration à la Banque nationale de Belgique en même temps que les comptes consolidés.
@@ -816,7 +818,7 @@ Ils ne sont déchargés de leur responsabilité, quant aux infractions auxquelle
 ### Chapitre 2. Contrôle légal des comptes annuels.
 
 ***Article 3:72***  
-Sauf s'il s'agit d'une des sociétés visées à l'article 3:1, § 3, 1°, 2° ou 4°, ou d'une entreprise d'investissement ayant le statut de société de bourse en vertu de l'article 6, § 1er, 1°, de la loi du 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement, le présent chapitre n'est pas applicable:  
+Sauf s'il s'agit d'une des sociétés visées à l'article 3:1, § 3, 1° ou 2°, ou des entités d'intérêt public visées à l'article 1:12, 5°, ou d'une entreprise d'investissement ayant le statut de société de bourse en vertu de l'article 6, § 1er, 1°, de la loi du 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement, le présent chapitre n'est pas applicable:  
 1. aux sociétés en nom collectif, aux sociétés en commandite et aux groupements européen d'intérêt économique dont tous les associés à responsabilité illimitée sont des personnes physiques;  
 2. aux petites sociétés visées à l'article 1:24, non cotées, ou aux petites sociétés qui ne sont pas des entités d'intérêt public visées à l'article 1:12, 2°, étant entendu que, pour l'application du présent chapitre, chaque société sera considérée individuellement, sauf les sociétés qui font partie d'un groupe qui est tenu d'établir et de publier des comptes annuels consolidés;  
 3. aux entreprises agricoles agréées conformément l'article 8:2 qui ont pris la forme d'une société en nom collectif ou d'une société en commandite et qui sont assujetties à l'impôt des personnes physiques.

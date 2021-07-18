@@ -81,7 +81,7 @@ Par "entité d'intérêt public", il faut entendre:
 2. les sociétés dont les valeurs mobilières visées à l'article 2, 31°, b) et c), de la loi du 2 août 2002 sur la surveillance du secteur financier et les services financiers, sont admis aux négociations sur un marché réglementé visé à l'article 3, 7°, de la loi du 21 novembre 2017 relative aux infrastructures des marchés d'instruments financiers et portant transposition de la directive 2014/65/UE;  
 3. les établissements de crédit visés au livre II de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit;  
 4. les entreprises d'assurance ou de réassurance visées au livre II de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance;  
-5. les organismes de liquidation et les organismes assimilés à des organismes de liquidation visés à l'article 36/1, 14°, de la loi du 22 février 1998 fixant le statut organique de la Banque nationale de Belgique ainsi que les organismes dont l'activité consiste à assurer, en tout ou en partie, la gestion opérationnelle des services fournis par de tels organismes de liquidation.
+5. les dépositaires centraux de titres visés à l'article 36/1, 25° de la loi du 22 février 1998 fixant le statut organique de la Banque nationale de Belgique et les organismes de support visés à l'article 36/26/1, §§ 4 et 5, de la même loi.
 
 ***Article 1:13***  
 Par "règlement (UE) n° 537/2014", il faut entendre: le règlement (UE) n° 537/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux exigences spécifiques applicables au contrôle légal des comptes des entités d'intérêt public et abrogeant la décision 2005/909/CE de la Commission.
