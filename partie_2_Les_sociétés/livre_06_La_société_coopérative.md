@@ -89,7 +89,7 @@ Le paragraphe 1er s'applique toutefois à la réévaluation effectuée à l'init
 Sauf disposition contraire dans l'acte constitutif, tous les apports sont intégralement libérés dès la constitution.
 
 ***Article 6:10***  
-En cas d'apport en numéraire, à libérer lors de la passation de l'acte, les fonds sont, préalablement à la constitution de la société, déposés par versement ou virement sur un compte spécial ouvert au nom de la société en formation auprès d'un établissement de crédit établi dans l'Espace économique européen au sens de l'article 4, paragraphe 1er, point 1), du règlement (UE) nr. 575/2013. Une preuve de ce dépôt est remise au notaire instrumentant.  
+En cas d'apport en numéraire, à libérer lors de la passation de l'acte, les fonds sont, préalablement à la constitution de la société, déposés par versement ou virement sur un compte spécial ouvert au nom de la société en formation auprès d'un établissement de crédit établi dans l'Espace économique européen au sens de l'article 4, paragraphe 1er, point 1), du règlement (UE) nr. 575/2013. Une preuve de ce dépôt est remise au notaire instrumentant, le cas échéant sous forme électronique, signé par une signature électronique visée à l'article 3, 10° à 3, 12°, du Règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.  
 Le compte spécial est à la disposition exclusive de la société à constituer. Il ne peut en être disposé que par les personnes habilitées à engager la société et après que le notaire instrumentant eut informé l'établissement de la passation de l'acte.  
 Si la société n'est pas constituée dans le mois de l'ouverture du compte spécial, les fonds sont restitués à leur demande à ceux qui les ont déposés.
 
@@ -187,7 +187,7 @@ Le registre des actions nominatives mentionne:
 3. le nombre d'actions détenues par chaque actionnaire et leur classe;  
 4. les versements faits sur chaque action;  
 5. les restrictions relatives à la cessibilité résultant des statuts et, lorsqu'une des parties le demande, les restrictions relatives à la cessibilité des actions résultant de conventions ou des conditions d'émission;  
-6. les transferts d'actions avec leur date, conformément à l'article 6:50. Si le registre est tenu sous forme électronique, la déclaration de cession peut adopter une forme électronique et être signée par un ensemble de données électroniques pouvant être imputé à une personne déterminée et établissant le maintien de l'intégrité du contenu de l'acte;  
+6. les transferts d'actions avec leur date, conformément à l'article 6:50. Si le registre est tenu sous forme électronique, la déclaration de cession peut adopter une forme électronique et être signée par une signature électronique visée à l'article 3, 10° à 3, 12°, du Règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électro-nique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE;  
 7. les droits de vote et les droits aux bénéfices attachés à chaque action, ainsi que leur part dans le solde de liquidation si celle-ci diverge des droits aux bénéfices.  
 
 En cas de contradiction entre les statuts et le registre des actions, les statuts prévalent.
@@ -341,7 +341,7 @@ La résolution doit être demandée en justice, et il peut être accordé au dé
 Le transfert de titres s'opère selon les règles du droit commun.  
 Un transfert de titres nominatifs n'est opposable à la société et aux tiers que par une déclaration de transfert inscrite dans le registre relatif à ces titres, datée et signée par le cédant et le cessionnaire ou par leurs mandataires en cas de cession entre vifs, et par un membre de l'organe d'administration et les bénéficiaires ou leurs mandataires en cas de transmission à cause de mort.  
 L'organe d'administration peut reconnaître et inscrire un transfert dans le registre sur la base de pièces qui établissent l'accord du cédant et du cessionnaire.  
-Si le registre est tenu sous forme électronique, la déclaration de cession peut adopter une forme électronique et être signée par un ensemble de données électroniques pouvant être imputé à une personne déterminée et établissant le maintien de l'intégrité du contenu de l'acte.
+Si le registre est tenu sous forme électronique, la déclaration de cession peut adopter une forme électronique et être signée par une signature électronique visée à l'article 3, 10° à 3, 12°, du Règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
 
 ***Article 6:51***  
 Un transfert d'un titre dématérialisé n'est opposable à la société et aux tiers que par l'inscription d'un compte-titres à l'autre.

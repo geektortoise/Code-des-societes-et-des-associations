@@ -174,7 +174,7 @@ Les extraits visés à l'alinéa 1er, 4°, contiennent:
 12. l'identité des administrateurs et, le cas échéant, des personnes déléguées à la gestion journalière de l'ASBL conformément à l'article 9:10, des personnes habilitées à représenter l'ASBL conformément à l'article 9:7, § 2, et du commissaire.
 
 ***Article 2:10***  
-§ 1er. Afin d'être versés au dossier de l'association, les documents suivants sont déposés pour l'AISBL dans les trente jours, à compter de la date de l'acte définitif, du prononcé du jugement exécutoire par provision ou de la date à laquelle le jugement est passé en force de chose jugée:  
+§ 1er. Afin d'être versés au dossier de l'association, les documents suivants sont déposés pour l'AISBL dans les trente jours, à compter de la date de l'arrêté royal portant leur reconnaissance ou approuvant la modification des mentions reprises au paragraphe 2, 3°, ou dans les autres cas à compter de la date de l'acte définitif, du prononcé du jugement exécutoire par provision ou de la date à laquelle le jugement est passé en force de chose jugée:  
 1. l'acte constitutif;  
 2. la première version du texte des statuts ainsi que l'acte constitutif, et le texte coordonné de ces statuts mis à jour ainsi que chaque modification des statuts;  
 3. l'extrait de l'acte constitutif visé au paragraphe 2;  
@@ -211,7 +211,7 @@ Les extraits visés à l'alinéa 1er, 4°, contiennent:
 11. l'identité des administrateurs et des personnes qui ont le pouvoir de représenter l'AISBL vis-à-vis des tiers, et, le cas échéant, du commissaire.
 
 ***Article 2:11***  
-§ 1er. Afin d'être versés au dossier de la fondation, les documents suivants sont déposés pour la fondation dans les trente jours, à compter de la date de l'acte définitif, du prononcé du jugement exécutoire par provision ou du moment où le jugement est passé en force de chose jugée:  
+§ 1er. Afin d'être versés au dossier de la fondation, les documents suivants sont déposés pour la fondation dans les trente jours, à compter pour les fondations d'utilité publique de la date de l'arrêté royal portant leur reconnaissance ou approuvant la modification des mentions reprises au paragraphe 2, 3°, ou dans les autres cas à compter de la date de l'acte définitif, du prononcé du jugement exécutoire par provision ou du moment où le jugement est passé en force de chose jugée:  
 1. l'acte constitutif;  
 2. la première version du texte des statuts, ainsi que l'acte constitutif, et le texte coordonné de ces statuts mis à jour ainsi que chaque modification des statuts;  
 3. l'extrait de l'acte constitutif visé au paragraphe 2;  
@@ -717,7 +717,7 @@ La dissolution entraîne la clôture de l'exercice.
 A ce rapport est joint un état résumant la situation active et passive de la société, clôturé à une date ne remontant pas à plus de trois mois avant l'assemblée générale appelée à se prononcer sur la proposition de dissolution. L'état précité est établi conformément aux règles d'évaluation fixées en exécution de l'article 3:1, sauf dérogation motivée.  
 Le commissaire ou, lorsqu'il n'y a pas de commissaire, un réviseur d'entreprises ou un expert-comptable externe désigné par l'organe d'administration contrôle cet état, en fait rapport et indique spécialement s'il donne une image fidèle de la situation de la société.  
 
-§ 3. Une copie des rapports et de l'état résumant la situation active et passive, visés au paragraphe 1er, est mise à la disposition aux associés conformément aux articles 5:84, 6:70, § 2, ou 7:132, suivant le cas, s'il s'agit d'une société à responsabilité limitée, d'une société coopérative ou d'une société anonyme.  
+§ 3. Une copie des rapports et de l'état résumant la situation active et passive, visés au paragraphe 2, est mise à la disposition aux associés conformément aux articles 5:84, 6:70, § 2, ou 7:132, suivant le cas, s'il s'agit d'une société à responsabilité limitée, d'une société coopérative ou d'une société anonyme.  
 
 § 4. En l'absence des rapports visés au présent article, la décision de l'assemblée générale est nulle.  
 
@@ -973,7 +973,7 @@ Le Roi détermine la procédure à suivre pour la réalisation et la consignatio
 L'action en réouverture de la liquidation est introduite contre les derniers liquidateurs en fonction ou les personnes désignées à l'article 2:79.  
 Le tribunal n'ordonne la réouverture de la liquidation que si la valeur de l'actif oublié dépasse les frais de réouverture.  
 
-§ 2. Sans préjudice des droits des tiers de bonne foi, la société recouvre la personnalité juridique par la réouverture de la liquidation et devient de plein droit propriétaire de l'actif oublié. Les derniers liquidateurs en fonction recouvrent cette qualité, sauf si le tribunal les remplace ou réduit leur nombre. Lors de la réouverture de la liquidation visée aux article s 2:79 et 2:80, le tribunal peut désigner un liquidateur.  
+§ 2. Sans préjudice des droits des tiers de bonne foi, la société recouvre la personnalité juridique par la réouverture de la liquidation et devient de plein droit propriétaire de l'actif oublié. Les derniers liquidateurs en fonction recouvrent cette qualité, sauf si le tribunal les remplace ou réduit leur nombre. Lors de la réouverture de la liquidation visée aux articles 2:80 et 2:81, le tribunal peut désigner un liquidateur.  
 
 § 3. La réouverture produit ses effets entre les parties à compter de la date où elle a été prononcée. Elle n'est opposable aux tiers qu'à partir de la publication visée au paragraphe 4 et aux articles 2:7 et 2:13.  
 
