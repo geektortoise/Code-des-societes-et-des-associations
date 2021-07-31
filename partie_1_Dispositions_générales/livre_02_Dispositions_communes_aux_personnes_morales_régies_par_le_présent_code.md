@@ -73,6 +73,7 @@ Le dossier visé à l'alinéa 1er tend à permettre aux tiers avec lesquels tout
 La personne morale est inscrite au registre des personnes morales, répertoire de la Banque-Carrefour des Entreprises.  
 
 § 2. Le texte de la première version des statuts issue de l'acte constitutif et de la version coordonnée des statuts après chaque modification, visé aux articles 2:8, 2:9, 2:10 et 2:11, est conservé dans un système de base de données électronique consultable publiquement, qui fait partie du dossier de la personne morale et qui est géré, pour les statuts et leurs mises-à-jour qui découlent d'actes notariés reçus en Belgique, par la Fédération Royale du Notariat belge et pour les autres par une instance à désigner par le Roi.  
+Les délégations statutaires du pouvoir de représenter une personne morale à l'égard de tiers, leur modification et leur suppression partielle ou complète sont déposées et conservées séparément dans le système de base de données électronique visé à l'alinéa 1er, ensemble avec une qualification de celles-ci sous forme de métadonnées, et sont accessibles librement. Leur dépôt a lieu simultanément avec le dépôt des statuts qui les ont fixées, modifiés ou supprimés. Le présent alinéa ne s'applique pas aux éventuelles clauses de représentation qui ne seraient pas opposables aux tiers.  
 
 § 3. Le Roi détermine les modalités de constitution du dossier et la forme sous laquelle les actes, extraits et décisions doivent être déposés, ainsi que le montant de la redevance imputée à l'intéressé. Il détermine également les modalités du traitement automatisé des données du dossier, ainsi que de la mise en relation des fichiers de données. Aux conditions déterminées par le Roi, les copies font foi comme les documents originaux et peuvent leur être substituées.  
 Le Roi détermine les modalités d'inscription des personnes morales et d'autres données pertinentes à la Banque-Carrefour des Entreprises.  
@@ -101,7 +102,8 @@ Le Roi détermine les modalités d'inscription des personnes morales et d'autres
 9. les actes apportant une modification aux dispositions des actes dont le présent code prescrit le dépôt;  
 10. pour le groupement européen d'intérêt économique:  
    +  la clause exonérant un nouveau membre du paiement des dettes nées antérieurement à son entrée, lorsqu'elle figure dans l'acte d'admission;  
-   +  toute cession par un membre de sa participation dans le groupement européen d'intérêt économique ou d'une fraction de celle-ci conformément à l'article 22, § 1er, du règlement CEE n° 2137/85.  
+   +  toute cession par un membre de sa participation dans le groupement européen d'intérêt économique ou d'une fraction de celle-ci conformément à l'article 22, § 1er, du règlement CEE n° 2137/85;  
+11. le cas échéant, les dispositions statutaires de délégation du pouvoir de représentation de la société, introduites ou modifiées par un acte faisant l'objet du dépôt visé au 4°, ainsi que, le cas échéant, le fait de leur suppression.  
 
 L'alinéa 1er, 1° et 3°, ne sont pas applicables à la société en nom collectif et à la société en commandite.  
 L'extrait visé à l'alinéa 1er, 5°, contient leurs nom, prénom, domicile ou, lorsqu'il s'agit de personnes morales, leurs dénomination, forme légale, numéro d'entreprise et siège. L'extrait précise, sauf en ce qui concerne les commissaires, l'étendue de leurs pouvoirs ainsi que les modalités d'exercice de ces derniers, soit séparément, soit conjointement, soit en collège.  
@@ -150,7 +152,8 @@ Le 13° et le 14° ne sont pas applicables à la société en nom collectif et �
 7. l'extrait des actes et décisions relatifs à la nomination et à la cessation de fonctions des liquidateurs, comportant leurs nom, prénom et domicile, ou, lorsqu'il s'agit de personnes morales, leurs dénomination, forme légale, numéro d'entreprise et siège;  
 8. les comptes annuels, établis conformément à l'article 3:47;  
 9. les décisions prises et les actes passés relatifs à la transformation d'une société ou une AISBL en une ASBL conformément au livre 14;  
-10. les modifications aux actes, documents et décisions visés aux 1°, 4°, 7°, 8° et 9°.  
+10. les modifications aux actes, documents et décisions visés aux 1°, 4°, 7°, 8° et 9°;  
+11. le cas échéant, les dispositions statutaires de délégation du pouvoir de représentation de l'ASBL, introduites ou modifiées par un acte faisant l'objet du dépôt visé au 2°, ainsi que, le cas échéant, le fait de leur suppression.  
 
 Les extraits visés à l'alinéa 1er, 4°, contiennent:  
    +  leurs nom, prénom, domicile ou, lorsqu'il s'agit de personnes morales, leurs dénomination, forme légale, numéro d'entreprise et siège;  
@@ -187,7 +190,8 @@ Les extraits visés à l'alinéa 1er, 4°, contiennent:
 7. l'extrait des actes et décisions relatifs à la nomination et à la cessation de fonctions des liquidateurs, comportant leurs nom, prénom et domicile, ou, lorsqu'il s'agit de personnes morales, leurs dénomination, forme légale, numéro d'entreprise et siège;  
 8. les comptes annuels, établis conformément à l'article 3:47;  
 9. les décisions prises et les actes passés relatifs à la transformation d'une société ou d'une ASBL en une AISBL conformément au livre 14;  
-10. les modifications aux actes, documents et décisions visés aux 1°, 4°, 5°, 8° et 9°.  
+10. les modifications aux actes, documents et décisions visés aux 1°, 4°, 5°, 8° et 9°;  
+11. le cas échéant, les dispositions statutaires de délégation du pouvoir de représentation de l'AISBL, introduites ou modifiées par un acte faisant l'objet du dépôt visé au 2°, ainsi que, le cas échéant, le fait de leur suppression.  
 
 Les extraits visés à l'alinéa 1er, 4°, contiennent:  
    +  leurs nom, prénom et domicile ou, lorsqu'il s'agit de personnes morales, leurs dénomination, forme légale, numéro d'entreprise et siège;  
@@ -227,7 +231,8 @@ Ces extraits contiennent les mentions suivantes:
 7. l'extrait des actes et décisions relatifs à la nomination et à la cessation de fonctions des liquidateurs, comportant leurs nom, prénom et domicile, ou, lorsqu'il s'agit de personnes morales, leurs dénomination, forme légale, numéro d'entreprise et siège;  
 8. les comptes annuels, établis conformément à l'article 3:51;  
 9. les décisions et actes relatifs à la transformation d'une fondation privée en une fondation d'utilité publique pris conformément à l'article 14:67;  
-10. les modifications aux actes, documents et décisions visés aux 1°, 4°, 5°, 8 ° et 9°.  
+10. les modifications aux actes, documents et décisions visés aux 1°, 4°, 5°, 8 ° et 9°;  
+11. le cas échéant, les dispositions statutaires de délégation du pouvoir de représentation de la fondation, introduites ou modifiées par un acte faisant l'objet du dépôt visé au 2°, ainsi que, le cas échéant, le fait de leur suppression.  
 
 § 2. L'extrait visé au paragraphe 1er, 3°, contient:  
 1. les nom, prénom et domicile de chaque fondateur, ou, lorsqu'il s'agit d'une personne morale, sa dénomination, sa forme légale, son numéro d'entreprise et l'adresse de son siège;  
@@ -299,6 +304,16 @@ Au cas où est mentionné un montant supérieur au montant déterminé conformé
 
 ***Article 2:22***  
 Toute personne qui interviendra pour une personne morale dans un acte ou sur un site internet qui ne respecterait pas les conditions prescrites par l'article 2:20 pourra, suivant les circonstances, être déclarée responsable des engagements qui y sont pris par la personne morale.
+
+##### Sous-section 5. Dispositions spéciales en cas de constitution en ligne.
+
+***Article 2:22/1***  
+Lorsqu'une personne morale est constituée par le biais de la plateforme électronique visée à l'article 13, § 2, de la loi du 16 mars 1803 contenant organisation du notariat, le délai pour le dépôt stipulé à l'article 2:8, § 1er, alinéa 1er, est réduit et la constitution est achevée endéans les dix jours ouvrables à compter de la réception de l'acte constitutif et du paiement des frais de publication.  
+Lorsqu'une personne morale est constituée exclusivement par des personnes physiques qui utilisent un modèle pour la constitution qui est mis à disposition par la plateforme électronique visée à l'article 13, § 2, de la loi du 16 mars 1803 contenant organisation du notariat, le délai stipulé à l'alinéa 1er est réduit et la constitution est achevée endéans les cinq jours ouvrables à compter de la réception de l'acte constitutif et du paiement des frais de publication.  
+Lorsqu'il est impossible d'achever la procédure dans les délais visés au présent article, les raisons du retard sont notifiées au demandeur par le notaire instrumentant.
+
+***Article 2:22/2***  
+En dérogation à l'article 2:13, dans le cas d'une constitution par le biais de la plateforme électronique visée à l'article 13, § 2, de la loi du 16 mars 1803 contenant organisation du notariat, la publication dans les Annexes du Moniteur belge a lieu dans les délais fixés par l'article 2:22/1.
 
 #### Section 2. Personnes morales étrangères disposant en Belgique d'une succursale.
 
