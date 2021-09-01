@@ -47,7 +47,7 @@ S'il s'agit d'une ASBL ou d'une AISBL, la décision doit être prise aux conditi
 
 ***Article 13:5***  
 L'apport de l'intégralité du patrimoine d'une ASBL, d'une AISBL ou d'une fondation n'est opposable aux tiers qu'aux conditions prescrites par l'article 2:18.  
-Les actes visés par l'article 1er de la loi hypothécaire du 16 décembre 1851 ne sont opposables aux tiers que conformément à cette loi. Doivent à cet effet être soumis aux formalités de transcription ou d'inscription les procès-verbaux des assemblées générales de toutes les personnes morales ayant décidé la fusion ou la scission.  
+Les actes visés par l'article 3.30 du Code civil ne sont opposables aux tiers que conformément à cette loi. Doivent à cet effet être soumis aux formalités de transcription ou d'inscription les procès-verbaux des assemblées générales de toutes les personnes morales ayant décidé la fusion ou la scission.  
 Le transfert des droits de propriété intellectuelle et industrielle n'est opposable aux tiers que conformément aux conditions prévues par les lois spéciales qui régissent ces opérations.
 
 ### Chapitre 4. Fixation des sûretés.

@@ -253,7 +253,7 @@ Tous les droits sociaux du propriétaire de titres dématérialisés et, en cas 
 Afin de pourvoir à l'exécution des articles 5:31 à 5:36, le Roi peut fixer les conditions de la tenue des comptes par les teneurs de comptes agréés, le mode de fonctionnement des comptes, la nature des certificats qui doivent être délivrés aux titulaires des comptes et les modalités de paiement par les teneurs de comptes agréés et le dépositaire central de titres des dividendes, intérêts et capitaux échus.
 
 ***Article 5:38***  
-Les articles 2279 et 2280 du Code civil sont applicables aux titres dématérialisés visés dans cette section.
+L'article 3.28 du Code civil s'applique aux titres dématérialisés visés dans cette section.
 
 ***Article 5:39***  
 Sauf pour les titres qui sont admis à la négociation sur un marché réglementé, les dispositions de cette section sont également applicables aux titres inscrits en compte auprès d'un teneur de comptes agréé qui ne sont pas maintenus par ce teneur de comptes auprès d'un dépositaire central de titres ou auprès d'un établissement agissant comme intermédiaire auprès de ce dépositaire central de titres.  

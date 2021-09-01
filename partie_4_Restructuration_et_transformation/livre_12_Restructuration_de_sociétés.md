@@ -81,7 +81,7 @@ Par dérogation à l'alinéa 1er, 3°, en cas d'opération assimilée à la scis
 
 ***Article 12:14***  
 La fusion ou la scission n'est opposable aux tiers que conformément à l'article 2:18.  
-Les actes visés par l'article 1er de la loi hypothécaire du 16 décembre 1851 ceux visés par les chapitres II et III du titre 1er du livre II du Code de commerce, et l'article 272 du livre II du même code ne sont opposables aux tiers que conformément aux lois spéciales en la matiére. Doivent à cet effet être soumis aux formalités de transcription ou d'inscription les procès-verbaux des assemblées générales de toutes les sociétés ayant décidé la fusion ou la scission.  
+Les actes visés par l'article 3.30 du Code civil ceux visés par les chapitres II et III du titre 1er du livre II du Code de commerce, et l'article 272 du livre II du même code ne sont opposables aux tiers que conformément aux lois spéciales en la matiére. Doivent à cet effet être soumis aux formalités de transcription ou d'inscription les procès-verbaux des assemblées générales de toutes les sociétés ayant décidé la fusion ou la scission.  
 Le transfert des droits de propriété intellectuelle et industrielle n'est opposable aux tiers que conformément aux conditions prévues par les lois spéciales qui régissent ces opérations.
 
 #### Section 4. Fixation de sûretés.
@@ -858,7 +858,7 @@ Lorsqu'un élément du patrimoine passif n'est pas attribué dans le projet d'ap
 
 ***Article 12:98***  
 L'apport est opposable aux tiers aux conditions prévues à l'article 2:18.  
-Les actes visés à l'article 1er de la loi hypothécaire du 16 décembre 1851 et les actes visés aux chapitres II et III du titre Ier, livre II, du Code de commerce et à l'article 272 du livre II du même code ne sont opposables aux tiers que conformément aux lois spéciales en la matière. Doit à cet effet être soumis aux formalités de transcription ou d'inscription le procès-verbal de l'organe compétent de la société bénéficiaire portant approbation de l'apport.  
+Les actes visés à l'article 3.30 du Code civil et les actes visés aux chapitres II et III du titre Ier, livre II, du Code de commerce et à l'article 272 du livre II du même code ne sont opposables aux tiers que conformément aux lois spéciales en la matière. Doit à cet effet être soumis aux formalités de transcription ou d'inscription le procès-verbal de l'organe compétent de la société bénéficiaire portant approbation de l'apport.  
 La cession des droits de propriété intellectuelle et industrielle n'est opposable aux tiers qu'aux conditions prévues par les lois spéciales qui régissent ces opérations.
 
 ### Chapitre 4. Fixation de sûretés.
