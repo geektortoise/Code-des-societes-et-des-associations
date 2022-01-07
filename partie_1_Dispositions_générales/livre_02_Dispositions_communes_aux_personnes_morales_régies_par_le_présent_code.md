@@ -616,7 +616,7 @@ Chaque fois que la hausse ou la baisse de l'indice des prix à la consommation e
 § 3. La limitation de la responsabilité visée au paragraphe 1er ne s'applique pas:  
 1. en cas de faute légère présentant dans leur chef un caractère habituel plutôt qu'accidentel, de faute grave, d'intention frauduleuse ou à dessein de nuire dans le chef de la personne responsable;  
 2. aux obligations imposées par les articles 5:138, 1° à 3°, 6:111, 1° à 3°, et 7:205, 1° à 3° ;  
-3. à la responsabilité solidaire visée aux articles 442quater et 458 du Code des impôts sur les revenus 1992 et aux articles 73sexies et 93undeciesC du Code de la taxe sur la valeur ajoutée;  
+3. à la responsabilité solidaire visée aux articles 442quater et 458 du Code des impôts sur les revenus 1992, aux articles 73sexies et 93undeciesC du Code de la taxe sur la valeur ajoutée et aux articles 51 et 93 du Code du recouvrement amiable et forcé des créances fiscales et non fiscales;  
 4. à la responsabilité solidaire visée à l'article XX.226 du Code de droit économique.
 
 ***Article 2:58***  
