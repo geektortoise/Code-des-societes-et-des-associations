@@ -38,7 +38,7 @@ Pour les sociétés auxquelles elles s'appliquent, les données mentionnées à 
 § 2. Les ASBL sont, à peine de nullité, constituées par acte authentique ou sous signature privée. Dans ce dernier cas, l'acte doit être dressé en deux originaux seulement, par dérogation à l'article 8.20 du Code civil.  
 Les données mentionnées à l'article 2:9, § 2, 2°, 3°, 4°, 5°, 6°, 7°, a) et b), 8°, 9° et 10°, sont reprises dans les statuts de l'ASBL. Les données mentionnées à l'article 2:9, § 2, 1°, 7°, c), 11° et 12°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
 
-§ 3. Les AISBL et les fondations sont, à peine de nullité, constituées par acte authentique. Si la constitution de la fondation prend la forme d'un testament, la fondation peut recevoir des dons par testament nonobstant l'article 906, alinéa 2, du Code civil.  
+§ 3. Les AISBL et les fondations sont, à peine de nullité, constituées par acte authentique. Si la constitution de la fondation prend la forme d'un testament, la fondation peut recevoir des dons par testament nonobstant l'article 4.137, alinéa 2, du Code civil.  
 Les données mentionnées à l'article 2:10, § 2, 2°, 3°, 4°, 5°, 6°, 7°, a), b) et c), 8° et 9°, sont reprises dans les statuts de l'AISBL. Les données mentionnées à l'article 2:10, § 2, 1°, 7°, d), 10° et 11°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
 Les données mentionnées à l'article 2:11, § 2, 2° à 6°, sont reprises dans les statuts de la fondation. Les données mentionnées à l'article 2:11, § 2, 1°, 7° et 8°, peuvent être reprises dans les autres dispositions de l'acte constitutif.  
 
