@@ -864,10 +864,12 @@ La cession des droits de propriété intellectuelle et industrielle n'est opposa
 ### Chapitre 4. Fixation de sûretés.
 
 ***Article 12:99***  
-Au plus tard dans les deux mois de la publication aux Annexes du Moniteur belge des actes constatant l'apport, les créanciers de chacune des sociétés qui participent à l'opération, dont la créance est certaine avant cette publication mais n'est pas encore exigible ou dont la créance a fait l'objet d'une action introduite en justice ou par voie d'arbitrage avant l'acte constatant l'apport, peuvent exiger une sûreté, nonobstant toute disposition contraire.  
+§ 1er. Au plus tard dans les deux mois de la publication aux Annexes du Moniteur belge des actes constatant l'apport, les créanciers de chacune des sociétés qui participent à l'opération, dont la créance est certaine avant cette publication mais n'est pas encore exigible ou dont la créance a fait l'objet d'une action introduite en justice ou par voie d'arbitrage avant l'acte constatant l'apport, peuvent exiger une sûreté, nonobstant toute disposition contraire.  
 La société bénéficiaire à laquelle cette obligation est attribuée conformément au projet d'apport, et le cas échéant, la société apporteuse peuvent chacune écarter cette demande en payant la créance à sa valeur, après déduction de l'escompte.  
 A défaut d'accord ou si le créancier n'a pas obtenu satisfaction, la partie la plus diligente soumet la contestation au président du tribunal de l'entreprise du siège de la société débitrice, siégeant en référé. Tous droits saufs au fond, le président détermine la sûreté à fournir par la société et fixe le délai dans lequel elle doit être constituée, à moins qu'il ne décide qu'aucune sûreté ne sera fournie, eu égard soit aux garanties et privilèges dont jouit le créancier, soit à la solvabilité de la société bénéficiaire intéressée.  
-Si la sûreté n'est pas fournie dans le délai fixé, la créance devient immédiatement exigible et les sociétés bénéficiaires sont tenues solidairement de cette obligation.
+Si la sûreté n'est pas fournie dans le délai fixé, la créance devient immédiatement exigible et les sociétés bénéficiaires sont tenues solidairement de cette obligation.  
+
+§ 2. Le paragraphe 1er n'est pas applicable aux apports d'universalité ou de branche d'activité lorsqu'une société participant à l'opération est une institution financière soumise au contrôle de la Banque nationale de Belgique ou de la Banque centrale européenne.
 
 ### Chapitre 5. Responsabilité.
 
